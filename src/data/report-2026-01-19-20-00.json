@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现突发公共事件与平台娱乐话题并存的格局。微博平台由云南地震主导，同时社会民生与娱乐话题快速交替；抖音平台则聚焦国家宏观成就与冬季生活氛围，热点分布更为集中稳定。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "JackeyLove说TES就在今天",
+      "from_rank": 43,
+      "to_rank": 8,
+      "reason": "该话题从第43位跃升至第8位，上升35位，是微博榜单中升幅最大的词条。其热度飙升源于关联的电子竞技赛事‘TES对战WBG’进入榜单，引发了粉丝群体的集中讨论。"
+    },
+    {
+      "keyword": "美国主播力挺牢A",
+      "from_rank": 49,
+      "to_rank": 36,
+      "reason": "该话题从第49位上升至第36位，上升13位。其排名跃升与同系列话题‘牢A说一定要感激高考’作为新词条进入榜单形成联动，表明围绕该人物的争议性讨论热度在持续发酵。"
+    },
+    {
+      "keyword": "多人往滇池抛洒放生矿泉水",
+      "from_rank": 17,
+      "to_rank": 5,
+      "reason": "该话题从第17位跃升至第5位，上升12位。其热度快速上升的直接原因是官方回应‘滇池管理局回应多人放生矿泉水’作为新词条进入榜单，将争议性社会事件推向舆论中心。"
+    },
+    {
+      "keyword": "A股迎重要调整",
+      "from_rank": 27,
+      "to_rank": 15,
+      "reason": "该话题从第27位上升至第15位，上升12位。其排名显著提升，反映了在抖音平台发布‘2025年国民经济运行情况’等宏观经济数据的背景下，公众对财经领域的关注度同步升温。"
+    },
+    {
+      "keyword": "女子预订3间房结果变3张床",
+      "from_rank": 50,
+      "to_rank": 38,
+      "reason": "该话题从榜单末位的第50位上升至第38位，上升12位。作为新进入榜单的社会民生话题，其离奇的消费纠纷属性迅速引发了公众的共鸣与讨论。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "云南地震 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "人民日报评美国斩杀线 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 3,
+      "keyword": "万千气象看龙江 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "云南巧家县5.1级地震 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "多人往滇池抛洒放生矿泉水 ↑",
+      "change": "up",
+      "change_value": 12
+    },
+    {
+      "rank": 6,
+      "keyword": "火锅店用鱼缸养鲨鱼供人观赏 ↓",
+      "change": "down",
+      "change_value": -4
+    },
+    {
+      "rank": 7,
+      "keyword": "合肥下米雪了 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 8,
+      "keyword": "JackeyLove说TES就在今天 ↑",
+      "change": "up",
+      "change_value": 35
+    },
+    {
+      "rank": 9,
+      "keyword": "小红书明确反对制造对立 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 10,
+      "keyword": "包钢板材厂爆炸事故已致4死6失联 ↑",
+      "change": "up",
+      "change_value": 0
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "神20成功着陆 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "2025年国民经济运行情况 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "2025年GDP增长5% →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "过年仪式感从腊月开始 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "云南昭通5.1级地震 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "别辜负眼前季节 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 7,
+      "keyword": "白月光大衣冬日氛围感的神 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 8,
+      "keyword": "苹果将改为一年两次发布新品 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "河南进入雨雪最强时段 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 10,
+      "keyword": "四个字概括2025年中国经济表现 ↓",
+      "change": "down",
+      "change_value": -2
+    }
+  ],
+  "conclusion": [
+    "突发自然灾害（云南地震）是本周期绝对主导热点，在微博和抖音双平台均进入前五，挤压了其他话题的曝光空间。",
+    "微博热点迭代迅速，娱乐（电竞、明星）、社会民生（放生、消费纠纷）与安全事故话题交替上升，榜单流动性强于抖音。",
+    "抖音热点结构稳定，国家成就、宏观经济与季节性生活内容占据头部，平台内容更侧重于营造集体共鸣与正向情绪。"
+  ]
+}
