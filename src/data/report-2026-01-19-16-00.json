@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现显著分化：微博以社会民生、娱乐话题为主，讨论分散；抖音则聚焦宏观经济、国家成就与极端天气，议题集中且热度极高。平台内容偏好差异明显。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "比美照更有杀伤力的是被记录",
+      "from_rank": 37,
+      "to_rank": 25,
+      "reason": "排名跃升12位，因该话题契合抖音平台用户分享生活、追求情感共鸣的内容偏好，引发广泛模仿与创作。"
+    },
+    {
+      "keyword": "RIIZE为何在互扇",
+      "from_rank": 50,
+      "to_rank": 40,
+      "reason": "排名跃升10位，因偶像团体RIIZE的争议性行为片段在短视频平台快速传播，激发了粉丝及路人的讨论与二次创作。"
+    },
+    {
+      "keyword": "小城大事孙小燕林冬福正缘具像化",
+      "from_rank": 45,
+      "to_rank": 41,
+      "reason": "排名跃升4位，因影视剧CP话题持续发酵，满足了平台用户对情感话题和剧情讨论的需求。"
+    },
+    {
+      "keyword": "找一张18岁的照片来配这首歌",
+      "from_rank": 21,
+      "to_rank": 18,
+      "reason": "排名跃升3位，因该挑战结合怀旧音乐与个人影像，提供了低门槛、高共鸣的UGC参与模板，驱动用户大量发布内容。"
+    },
+    {
+      "keyword": "玉茗茶骨亲情线好刀人",
+      "from_rank": 39,
+      "to_rank": 36,
+      "reason": "排名跃升3位，因剧集《玉茗茶骨》相关剧情片段因情感张力强，在抖音被剪辑传播，引发观众共鸣讨论。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "生命树",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "伊朗拟永久退网 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "中央气象台三预警齐发",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "马伊琍代言伊利 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "徐良官宣巡演 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "男子右脑出血被医生错开左脑 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 7,
+      "keyword": "学校已经发展成这样了吗",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "贵州遵义接连两起交通事故是谣言 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "B站百大UP主 ↓",
+      "change": "down",
+      "change_value": -7
+    },
+    {
+      "rank": 10,
+      "keyword": "深圳封存20年垃圾山开挖 ↑",
+      "change": "up",
+      "change_value": 0
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "2025年GDP增长5%",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "2025年国民经济运行情况",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "今年首场寒潮来袭有何特点",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "神20成功着陆",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "国务院挂牌督办包钢爆炸事故",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "去年人均可支配收入43377元",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "今天开启腊月第一天",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "河南进入雨雪最强时段",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "四个字概括2025年中国经济表现",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "去年城镇调查失业率平均值为5.2%",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "抖音平台议程设置能力极强，宏观经济数据、航天成就与寒潮天气等硬新闻占据绝对主导，形成高度集中的公共议题场。",
+    "微博热点结构松散，社会事件、娱乐营销、民生话题与网络梗并存，新上榜词条占比高，反映出话题快速更迭、注意力分散的特征。",
+    "跨平台对比显示，抖音的上升热点多源于用户参与式内容挑战与影视娱乐衍生，而微博的上升热点则更多由突发新闻与明星动态驱动。"
+  ]
+}
