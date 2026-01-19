@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现突发公共事件与娱乐话题并存的格局，微博平台娱乐话题占比显著，抖音平台则聚焦宏观经济与航天成就，平台内容偏好差异明显。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "牢A说一定要感激高考",
+      "from_rank": 44,
+      "to_rank": 23,
+      "reason": "排名跃升21位，因关联人物‘牢A’相关话题（如‘美国主播力挺牢A’）形成话题矩阵，引发集中讨论。"
+    },
+    {
+      "keyword": "开年第一部高甜韩剧",
+      "from_rank": 40,
+      "to_rank": 27,
+      "reason": "排名跃升13位，作为新上榜娱乐话题，填补了近期剧集讨论空白，吸引剧迷关注。"
+    },
+    {
+      "keyword": "李亚鹏前妻力挺嫣然医院",
+      "from_rank": 22,
+      "to_rank": 11,
+      "reason": "排名跃升11位，与热搜第四的‘陈光标喊话李亚鹏提供银行卡号’形成事件联动，推动相关人物话题热度。"
+    },
+    {
+      "keyword": "张凌赫张婧仪 兰蔻",
+      "from_rank": 28,
+      "to_rank": 17,
+      "reason": "排名跃升11位，明星商业合作话题在时尚娱乐领域具有固定受众，讨论集中。"
+    },
+    {
+      "keyword": "很爱吃但巨发胖的东西",
+      "from_rank": 30,
+      "to_rank": 19,
+      "reason": "排名跃升11位，生活化、易引发共鸣的话题属性使其在社交平台快速传播。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "云南地震",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "人民日报评美国斩杀线",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "万千气象看龙江",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "陈光标喊话李亚鹏提供银行卡号 ↑",
+      "change": "up",
+      "change_value": 4
+    },
+    {
+      "rank": 5,
+      "keyword": "轧戏 ↑",
+      "change": "up",
+      "change_value": 8
+    },
+    {
+      "rank": 6,
+      "keyword": "火锅店用鱼缸养鲨鱼供人观赏",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "多人往滇池抛洒放生矿泉水 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 8,
+      "keyword": "下雪 ↑",
+      "change": "up",
+      "change_value": 8
+    },
+    {
+      "rank": 9,
+      "keyword": "合肥下米雪了 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 10,
+      "keyword": "JackeyLove说TES就在今天 ↓",
+      "change": "down",
+      "change_value": -2
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "神20成功着陆",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "2025年国民经济运行情况",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "2025年GDP增长5%",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "过年仪式感从腊月开始",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "云南昭通5.1级地震",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "别辜负眼前季节",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "白月光大衣冬日氛围感的神",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "河南进入雨雪最强时段 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 9,
+      "keyword": "四个字概括2025年中国经济表现 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 10,
+      "keyword": "去年城镇调查失业率平均值为5.2% ↑",
+      "change": "up",
+      "change_value": 8
+    }
+  ],
+  "conclusion": [
+    "微博热点娱乐化特征显著，TOP10中半数为娱乐及社会话题，且‘陈光标-李亚鹏’关联事件催生多个上升话题。",
+    "抖音头部热点高度稳定，集中于国家航天成就、年度经济数据及节令气候，体现平台对宏观议题的强聚合性。",
+    "两平台对‘地震’、‘雨雪天气’等公共事件的关注度存在温差，微博侧重事件本身及衍生讨论，抖音则更侧重数据通报与宏观影响。"
+  ]
+}

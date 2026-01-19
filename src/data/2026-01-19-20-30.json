@@ -1,0 +1,595 @@
+{
+  "timestamp": "2026-01-19 20:30:12",
+  "weibo": [
+    {
+      "platform": "weibo",
+      "keyword": "云南地震",
+      "rank": 1,
+      "hot": 1119116
+    },
+    {
+      "platform": "weibo",
+      "keyword": "人民日报评美国斩杀线",
+      "rank": 2,
+      "hot": 812854
+    },
+    {
+      "platform": "weibo",
+      "keyword": "万千气象看龙江",
+      "rank": 3,
+      "hot": 621387
+    },
+    {
+      "platform": "weibo",
+      "keyword": "陈光标喊话李亚鹏提供银行卡号",
+      "rank": 4,
+      "hot": 373900
+    },
+    {
+      "platform": "weibo",
+      "keyword": "轧戏",
+      "rank": 5,
+      "hot": 263706
+    },
+    {
+      "platform": "weibo",
+      "keyword": "火锅店用鱼缸养鲨鱼供人观赏",
+      "rank": 6,
+      "hot": 245253
+    },
+    {
+      "platform": "weibo",
+      "keyword": "多人往滇池抛洒放生矿泉水",
+      "rank": 7,
+      "hot": 186674
+    },
+    {
+      "platform": "weibo",
+      "keyword": "下雪",
+      "rank": 8,
+      "hot": 184059
+    },
+    {
+      "platform": "weibo",
+      "keyword": "合肥下米雪了",
+      "rank": 9,
+      "hot": 162119
+    },
+    {
+      "platform": "weibo",
+      "keyword": "JackeyLove说TES就在今天",
+      "rank": 10,
+      "hot": 156611
+    },
+    {
+      "platform": "weibo",
+      "keyword": "李亚鹏前妻力挺嫣然医院",
+      "rank": 11,
+      "hot": 155979
+    },
+    {
+      "platform": "weibo",
+      "keyword": "关晓彤第一次在红毯戴帽子",
+      "rank": 12,
+      "hot": 155415
+    },
+    {
+      "platform": "weibo",
+      "keyword": "A股迎重要调整",
+      "rank": 13,
+      "hot": 155010
+    },
+    {
+      "platform": "weibo",
+      "keyword": "范丞丞 出庭的时候带上你的破平板",
+      "rank": 14,
+      "hot": 153711
+    },
+    {
+      "platform": "weibo",
+      "keyword": "沈梦辰 美商",
+      "rank": 15,
+      "hot": 153354
+    },
+    {
+      "platform": "weibo",
+      "keyword": "iPhone18Pro宣传片曝光",
+      "rank": 16,
+      "hot": 152669
+    },
+    {
+      "platform": "weibo",
+      "keyword": "张凌赫张婧仪 兰蔻",
+      "rank": 17,
+      "hot": 151707
+    },
+    {
+      "platform": "weibo",
+      "keyword": "平台辟谣白珊珊被盗号",
+      "rank": 18,
+      "hot": 150914
+    },
+    {
+      "platform": "weibo",
+      "keyword": "很爱吃但巨发胖的东西",
+      "rank": 19,
+      "hot": 150025
+    },
+    {
+      "platform": "weibo",
+      "keyword": "苹果重新夺回中国手机市场第一",
+      "rank": 20,
+      "hot": 149244
+    },
+    {
+      "platform": "weibo",
+      "keyword": "糖霜苹果",
+      "rank": 21,
+      "hot": 149064
+    },
+    {
+      "platform": "weibo",
+      "keyword": "潮宏基吊坠一夜涨了1.9万",
+      "rank": 22,
+      "hot": 147833
+    },
+    {
+      "platform": "weibo",
+      "keyword": "牢A说一定要感激高考",
+      "rank": 23,
+      "hot": 147385
+    },
+    {
+      "platform": "weibo",
+      "keyword": "赵今麦工作室编辑文案",
+      "rank": 24,
+      "hot": 146937
+    },
+    {
+      "platform": "weibo",
+      "keyword": "Crown张艺兴cut",
+      "rank": 25,
+      "hot": 142440
+    },
+    {
+      "platform": "weibo",
+      "keyword": "荣耀发布会",
+      "rank": 26,
+      "hot": 120606
+    },
+    {
+      "platform": "weibo",
+      "keyword": "开年第一部高甜韩剧",
+      "rank": 27,
+      "hot": 120579
+    },
+    {
+      "platform": "weibo",
+      "keyword": "双高胎直播",
+      "rank": 28,
+      "hot": 120541
+    },
+    {
+      "platform": "weibo",
+      "keyword": "TES战胜WBG",
+      "rank": 29,
+      "hot": 119564
+    },
+    {
+      "platform": "weibo",
+      "keyword": "原来郝建就是沈腾啊",
+      "rank": 30,
+      "hot": 115679
+    },
+    {
+      "platform": "weibo",
+      "keyword": "美国主播力挺牢A",
+      "rank": 31,
+      "hot": 115549
+    },
+    {
+      "platform": "weibo",
+      "keyword": "云南巧家县5.1级地震",
+      "rank": 32,
+      "hot": 113107
+    },
+    {
+      "platform": "weibo",
+      "keyword": "美国斩杀线惨状",
+      "rank": 33,
+      "hot": 112310
+    },
+    {
+      "platform": "weibo",
+      "keyword": "TES对战WBG",
+      "rank": 34,
+      "hot": 109959
+    },
+    {
+      "platform": "weibo",
+      "keyword": "颐和园感觉有一亿人",
+      "rank": 35,
+      "hot": 108742
+    },
+    {
+      "platform": "weibo",
+      "keyword": "时尚之夜红毯",
+      "rank": 36,
+      "hot": 106287
+    },
+    {
+      "platform": "weibo",
+      "keyword": "孙一宁的脸当明星也绰绰有余",
+      "rank": 37,
+      "hot": 103531
+    },
+    {
+      "platform": "weibo",
+      "keyword": "关晓彤allblack拽成啥了",
+      "rank": 38,
+      "hot": 103287
+    },
+    {
+      "platform": "weibo",
+      "keyword": "小红书明确反对制造对立",
+      "rank": 39,
+      "hot": 94298
+    },
+    {
+      "platform": "weibo",
+      "keyword": "女子预订3间房结果变3张床",
+      "rank": 40,
+      "hot": 93324
+    },
+    {
+      "platform": "weibo",
+      "keyword": "生命树",
+      "rank": 41,
+      "hot": 89067
+    },
+    {
+      "platform": "weibo",
+      "keyword": "于正瘦下来更像何晟铭了",
+      "rank": 42,
+      "hot": 84896
+    },
+    {
+      "platform": "weibo",
+      "keyword": "终末地",
+      "rank": 43,
+      "hot": 81623
+    },
+    {
+      "platform": "weibo",
+      "keyword": "济南下暴雨梨花针了",
+      "rank": 44,
+      "hot": 81469
+    },
+    {
+      "platform": "weibo",
+      "keyword": "什么是真正的红利",
+      "rank": 45,
+      "hot": 79448
+    },
+    {
+      "platform": "weibo",
+      "keyword": "JackeyLove看Naiyou被反杀捂脸",
+      "rank": 46,
+      "hot": 79288
+    },
+    {
+      "platform": "weibo",
+      "keyword": "这是朱正廷吗",
+      "rank": 47,
+      "hot": 79019
+    },
+    {
+      "platform": "weibo",
+      "keyword": "时尚之夜",
+      "rank": 48,
+      "hot": 78938
+    },
+    {
+      "platform": "weibo",
+      "keyword": "小城大事",
+      "rank": 49,
+      "hot": 78232
+    },
+    {
+      "platform": "weibo",
+      "keyword": "陕西人在上海冻面瘫了",
+      "rank": 50,
+      "hot": 68919
+    }
+  ],
+  "douyin": [
+    {
+      "platform": "douyin",
+      "keyword": "神20成功着陆",
+      "rank": 1,
+      "hot": 12153360
+    },
+    {
+      "platform": "douyin",
+      "keyword": "2025年国民经济运行情况",
+      "rank": 2,
+      "hot": 12080237
+    },
+    {
+      "platform": "douyin",
+      "keyword": "2025年GDP增长5%",
+      "rank": 3,
+      "hot": 10993659
+    },
+    {
+      "platform": "douyin",
+      "keyword": "过年仪式感从腊月开始",
+      "rank": 4,
+      "hot": 10436827
+    },
+    {
+      "platform": "douyin",
+      "keyword": "云南昭通5.1级地震",
+      "rank": 5,
+      "hot": 10395475
+    },
+    {
+      "platform": "douyin",
+      "keyword": "别辜负眼前季节",
+      "rank": 6,
+      "hot": 9259109
+    },
+    {
+      "platform": "douyin",
+      "keyword": "白月光大衣冬日氛围感的神",
+      "rank": 7,
+      "hot": 9210764
+    },
+    {
+      "platform": "douyin",
+      "keyword": "河南进入雨雪最强时段",
+      "rank": 8,
+      "hot": 9208891
+    },
+    {
+      "platform": "douyin",
+      "keyword": "四个字概括2025年中国经济表现",
+      "rank": 9,
+      "hot": 9172253
+    },
+    {
+      "platform": "douyin",
+      "keyword": "去年城镇调查失业率平均值为5.2%",
+      "rank": 10,
+      "hot": 9079137
+    },
+    {
+      "platform": "douyin",
+      "keyword": "电影镖人定档春节",
+      "rank": 11,
+      "hot": 8953101
+    },
+    {
+      "platform": "douyin",
+      "keyword": "西班牙列车脱轨相撞已致39死",
+      "rank": 12,
+      "hot": 8942161
+    },
+    {
+      "platform": "douyin",
+      "keyword": "中核集团原总经理顾军被查",
+      "rank": 13,
+      "hot": 8749311
+    },
+    {
+      "platform": "douyin",
+      "keyword": "U23亚洲杯半决赛前瞻",
+      "rank": 14,
+      "hot": 8418450
+    },
+    {
+      "platform": "douyin",
+      "keyword": "去年人均可支配收入43377元",
+      "rank": 15,
+      "hot": 8075413
+    },
+    {
+      "platform": "douyin",
+      "keyword": "投资铜条火了",
+      "rank": 16,
+      "hot": 8073704
+    },
+    {
+      "platform": "douyin",
+      "keyword": "尹锡悦就首案被判5年上诉",
+      "rank": 17,
+      "hot": 7821600
+    },
+    {
+      "platform": "douyin",
+      "keyword": "EXO回归",
+      "rank": 18,
+      "hot": 7814954
+    },
+    {
+      "platform": "douyin",
+      "keyword": "泡沫转场让心跳漏了一拍",
+      "rank": 19,
+      "hot": 7801794
+    },
+    {
+      "platform": "douyin",
+      "keyword": "2026汽水音乐节官宣",
+      "rank": 20,
+      "hot": 7787462
+    },
+    {
+      "platform": "douyin",
+      "keyword": "花式给CBA全明星拉票",
+      "rank": 21,
+      "hot": 7743210
+    },
+    {
+      "platform": "douyin",
+      "keyword": "李连杰重出江湖出演镖人",
+      "rank": 22,
+      "hot": 7734495
+    },
+    {
+      "platform": "douyin",
+      "keyword": "电影镖人集齐了太多能打的演员",
+      "rank": 23,
+      "hot": 7734163
+    },
+    {
+      "platform": "douyin",
+      "keyword": "我只眼神给出去全民飙演技",
+      "rank": 24,
+      "hot": 7724192
+    },
+    {
+      "platform": "douyin",
+      "keyword": "电影镖人集齐四代武侠人",
+      "rank": 25,
+      "hot": 7718893
+    },
+    {
+      "platform": "douyin",
+      "keyword": "成毅已成立独资工作室",
+      "rank": 26,
+      "hot": 7715456
+    },
+    {
+      "platform": "douyin",
+      "keyword": "苹果将改为一年两次发布新品",
+      "rank": 27,
+      "hot": 7713384
+    },
+    {
+      "platform": "douyin",
+      "keyword": "张真源在停车场唱歌",
+      "rank": 28,
+      "hot": 7706633
+    },
+    {
+      "platform": "douyin",
+      "keyword": "冷链运输南方小土豆",
+      "rank": 29,
+      "hot": 7694052
+    },
+    {
+      "platform": "douyin",
+      "keyword": "找一张18岁的照片来配这首歌",
+      "rank": 30,
+      "hot": 7693768
+    },
+    {
+      "platform": "douyin",
+      "keyword": "“容嬷嬷”李明启含泪送别陶玉玲",
+      "rank": 31,
+      "hot": 7691955
+    },
+    {
+      "platform": "douyin",
+      "keyword": "如何评价荣耀Magic8ProAir",
+      "rank": 32,
+      "hot": 7691512
+    },
+    {
+      "platform": "douyin",
+      "keyword": "今天开启腊月第一天",
+      "rank": 33,
+      "hot": 7689673
+    },
+    {
+      "platform": "douyin",
+      "keyword": "陈雪凝发了婚礼微电影",
+      "rank": 34,
+      "hot": 7689154
+    },
+    {
+      "platform": "douyin",
+      "keyword": "欧洲八国联合声明",
+      "rank": 35,
+      "hot": 7688233
+    },
+    {
+      "platform": "douyin",
+      "keyword": "一场雪下不尽冬天的冷漠",
+      "rank": 36,
+      "hot": 7685662
+    },
+    {
+      "platform": "douyin",
+      "keyword": "炸弹糖果游戏小朋友哭了",
+      "rank": 37,
+      "hot": 7682757
+    },
+    {
+      "platform": "douyin",
+      "keyword": "晒出我镜头下的雪景",
+      "rank": 38,
+      "hot": 7681072
+    },
+    {
+      "platform": "douyin",
+      "keyword": "王鹤棣赵露思火力全开",
+      "rank": 39,
+      "hot": 7680503
+    },
+    {
+      "platform": "douyin",
+      "keyword": "重返狼群隐藏篇上线",
+      "rank": 40,
+      "hot": 7678571
+    },
+    {
+      "platform": "douyin",
+      "keyword": "刘涛现身广东春晚演唱粤语歌曲",
+      "rank": 41,
+      "hot": 7676916
+    },
+    {
+      "platform": "douyin",
+      "keyword": "轧戏孙哥和胡羞拍上抖音视频了",
+      "rank": 42,
+      "hot": 7675259
+    },
+    {
+      "platform": "douyin",
+      "keyword": "和小时候的自己同框了",
+      "rank": 43,
+      "hot": 7672650
+    },
+    {
+      "platform": "douyin",
+      "keyword": "期末版SPAGHETTI",
+      "rank": 44,
+      "hot": 7671094
+    },
+    {
+      "platform": "douyin",
+      "keyword": "大红行动选秀之夜",
+      "rank": 45,
+      "hot": 7666813
+    },
+    {
+      "platform": "douyin",
+      "keyword": "尝尝被信任的人抛弃的滋味",
+      "rank": 46,
+      "hot": 7666272
+    },
+    {
+      "platform": "douyin",
+      "keyword": "镖人刘耀文 鲜衣怒马少年郎",
+      "rank": 47,
+      "hot": 7661613
+    },
+    {
+      "platform": "douyin",
+      "keyword": "徐明浩时装周碎片",
+      "rank": 48,
+      "hot": 7657216
+    }
+  ]
+}
