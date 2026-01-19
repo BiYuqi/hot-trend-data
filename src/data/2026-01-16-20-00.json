@@ -1,0 +1,619 @@
+{
+  "timestamp": "2026-01-16 20:00:00",
+  "weibo": [
+    {
+      "platform": "weibo",
+      "keyword": "胖东来599元羽绒服进价457.9元",
+      "rank": 1,
+      "hot": 1053103
+    },
+    {
+      "platform": "weibo",
+      "keyword": "坐高铁可以不用自己扛行李了",
+      "rank": 2,
+      "hot": 786958
+    },
+    {
+      "platform": "weibo",
+      "keyword": "中国天眼又立功了",
+      "rank": 3,
+      "hot": 581642
+    },
+    {
+      "platform": "weibo",
+      "keyword": "抖音商城年货节好价开卖",
+      "rank": 4,
+      "hot": 448516
+    },
+    {
+      "platform": "weibo",
+      "keyword": "辅警保住100多万哭出了声",
+      "rank": 5,
+      "hot": 406476
+    },
+    {
+      "platform": "weibo",
+      "keyword": "韩国火灾已投入85辆消防车",
+      "rank": 6,
+      "hot": 368235
+    },
+    {
+      "platform": "weibo",
+      "keyword": "泡泡玛特星星人",
+      "rank": 7,
+      "hot": 353263
+    },
+    {
+      "platform": "weibo",
+      "keyword": "荷美尔绝区零联动",
+      "rank": 8,
+      "hot": 351087
+    },
+    {
+      "platform": "weibo",
+      "keyword": "第五人格",
+      "rank": 9,
+      "hot": 350014
+    },
+    {
+      "platform": "weibo",
+      "keyword": "孙颖莎王楚钦最想尝试的冬奥会项目",
+      "rank": 10,
+      "hot": 330134
+    },
+    {
+      "platform": "weibo",
+      "keyword": "第五人格调整争议角色",
+      "rank": 11,
+      "hot": 325796
+    },
+    {
+      "platform": "weibo",
+      "keyword": "专家称A股全面牛市还未启动",
+      "rank": 12,
+      "hot": 311119
+    },
+    {
+      "platform": "weibo",
+      "keyword": "女孩晕倒离世前妈妈疑已哄了一小时",
+      "rank": 13,
+      "hot": 302662
+    },
+    {
+      "platform": "weibo",
+      "keyword": "刘翔回应移民美国",
+      "rank": 14,
+      "hot": 283306
+    },
+    {
+      "platform": "weibo",
+      "keyword": "女子向出轨丈夫道歉15天企业发声",
+      "rank": 15,
+      "hot": 273511
+    },
+    {
+      "platform": "weibo",
+      "keyword": "轧戏",
+      "rank": 16,
+      "hot": 264712
+    },
+    {
+      "platform": "weibo",
+      "keyword": "贾国龙让罗永浩千万别忍",
+      "rank": 17,
+      "hot": 259590
+    },
+    {
+      "platform": "weibo",
+      "keyword": "6岁女童发烧17天脑子险被吃掉",
+      "rank": 18,
+      "hot": 253376
+    },
+    {
+      "platform": "weibo",
+      "keyword": "617分考生放弃985选职业院校",
+      "rank": 19,
+      "hot": 224157
+    },
+    {
+      "platform": "weibo",
+      "keyword": "印尼一婚礼因新郎外貌爆火",
+      "rank": 20,
+      "hot": 181540
+    },
+    {
+      "platform": "weibo",
+      "keyword": "拒去雪山仍被带七旬老人旅游猝逝",
+      "rank": 21,
+      "hot": 181420
+    },
+    {
+      "platform": "weibo",
+      "keyword": "晕倒去世女孩母亲在崩溃边缘",
+      "rank": 22,
+      "hot": 176880
+    },
+    {
+      "platform": "weibo",
+      "keyword": "李湘全平台账号被禁止关注",
+      "rank": 23,
+      "hot": 175798
+    },
+    {
+      "platform": "weibo",
+      "keyword": "杨紫孙俪宋祖儿同框合影",
+      "rank": 24,
+      "hot": 172699
+    },
+    {
+      "platform": "weibo",
+      "keyword": "月入一万花一万的真实生活",
+      "rank": 25,
+      "hot": 171311
+    },
+    {
+      "platform": "weibo",
+      "keyword": "一条小团团时隔两年更新视频",
+      "rank": 26,
+      "hot": 159703
+    },
+    {
+      "platform": "weibo",
+      "keyword": "时代少年团物料",
+      "rank": 27,
+      "hot": 155863
+    },
+    {
+      "platform": "weibo",
+      "keyword": "杜华回复王一博",
+      "rank": 28,
+      "hot": 154501
+    },
+    {
+      "platform": "weibo",
+      "keyword": "西贝公关副总裁宋宣离职",
+      "rank": 29,
+      "hot": 148467
+    },
+    {
+      "platform": "weibo",
+      "keyword": "侯鸿亮采访",
+      "rank": 30,
+      "hot": 147231
+    },
+    {
+      "platform": "weibo",
+      "keyword": "第五人格 擦边",
+      "rank": 31,
+      "hot": 145620
+    },
+    {
+      "platform": "weibo",
+      "keyword": "张杰现身央视春晚彩排",
+      "rank": 32,
+      "hot": 140595
+    },
+    {
+      "platform": "weibo",
+      "keyword": "王一博工作室蓝V没了",
+      "rank": 33,
+      "hot": 140454
+    },
+    {
+      "platform": "weibo",
+      "keyword": "牢A直播",
+      "rank": 34,
+      "hot": 140416
+    },
+    {
+      "platform": "weibo",
+      "keyword": "张慧雯娜扎聊天记录",
+      "rank": 35,
+      "hot": 140274
+    },
+    {
+      "platform": "weibo",
+      "keyword": "电影镖人官博",
+      "rank": 36,
+      "hot": 136078
+    },
+    {
+      "platform": "weibo",
+      "keyword": "男子驾车撞死婆孙十余日后也因病身亡",
+      "rank": 37,
+      "hot": 133886
+    },
+    {
+      "platform": "weibo",
+      "keyword": "二人因乞讨相恋五年共同收入32万元",
+      "rank": 38,
+      "hot": 127064
+    },
+    {
+      "platform": "weibo",
+      "keyword": "檀健次 何不同舟渡",
+      "rank": 39,
+      "hot": 107807
+    },
+    {
+      "platform": "weibo",
+      "keyword": "普通人化妆最有效的一步",
+      "rank": 40,
+      "hot": 105503
+    },
+    {
+      "platform": "weibo",
+      "keyword": "薛之谦四巡",
+      "rank": 41,
+      "hot": 104402
+    },
+    {
+      "platform": "weibo",
+      "keyword": "13类食品在直播间里坚决不能卖",
+      "rank": 42,
+      "hot": 99756
+    },
+    {
+      "platform": "weibo",
+      "keyword": "买房千万不要买临街的",
+      "rank": 43,
+      "hot": 98478
+    },
+    {
+      "platform": "weibo",
+      "keyword": "X平台不再允许Grok生成性暴露图像",
+      "rank": 44,
+      "hot": 98288
+    },
+    {
+      "platform": "weibo",
+      "keyword": "TF家族新音官摄",
+      "rank": 45,
+      "hot": 97805
+    },
+    {
+      "platform": "weibo",
+      "keyword": "巴厘岛吃饭孩子弄倒40万印尼盾餐桌",
+      "rank": 46,
+      "hot": 95336
+    },
+    {
+      "platform": "weibo",
+      "keyword": "花3.9万在鹤岗买房生活的感受",
+      "rank": 47,
+      "hot": 92043
+    },
+    {
+      "platform": "weibo",
+      "keyword": "表白前一刻知道crush有老公",
+      "rank": 48,
+      "hot": 91360
+    },
+    {
+      "platform": "weibo",
+      "keyword": "马克龙右眼血管破裂",
+      "rank": 49,
+      "hot": 90871
+    },
+    {
+      "platform": "weibo",
+      "keyword": "50斤的小狗背40斤的锅",
+      "rank": 50,
+      "hot": 83608
+    },
+    {
+      "platform": "weibo",
+      "keyword": "轧戏直播",
+      "rank": 51,
+      "hot": 82020
+    },
+    {
+      "platform": "weibo",
+      "keyword": "镖人",
+      "rank": 52,
+      "hot": 78311
+    }
+  ],
+  "douyin": [
+    {
+      "platform": "douyin",
+      "keyword": "天南地北年货大赏",
+      "rank": 1,
+      "hot": 11298704
+    },
+    {
+      "platform": "douyin",
+      "keyword": "这大概是当老师最幸福的时刻",
+      "rank": 2,
+      "hot": 11157884
+    },
+    {
+      "platform": "douyin",
+      "keyword": "中国天眼新成果发布",
+      "rank": 3,
+      "hot": 10947787
+    },
+    {
+      "platform": "douyin",
+      "keyword": "我就这样开启2026",
+      "rank": 4,
+      "hot": 10937215
+    },
+    {
+      "platform": "douyin",
+      "keyword": "证监会：坚决防止市场大起大落",
+      "rank": 5,
+      "hot": 10240537
+    },
+    {
+      "platform": "douyin",
+      "keyword": "解放军实战演练“斩首”行动",
+      "rank": 6,
+      "hot": 10234459
+    },
+    {
+      "platform": "douyin",
+      "keyword": "中国U23男足进步在哪",
+      "rank": 7,
+      "hot": 9145236
+    },
+    {
+      "platform": "douyin",
+      "keyword": "下个月的今天就是除夕了",
+      "rank": 8,
+      "hot": 9108258
+    },
+    {
+      "platform": "douyin",
+      "keyword": "今冬最大范围降雪来袭",
+      "rank": 9,
+      "hot": 8976393
+    },
+    {
+      "platform": "douyin",
+      "keyword": "广州辟谣公积金缴存基数调整",
+      "rank": 10,
+      "hot": 8525828
+    },
+    {
+      "platform": "douyin",
+      "keyword": "蒿慧杰任西安市委书记",
+      "rank": 11,
+      "hot": 8252545
+    },
+    {
+      "platform": "douyin",
+      "keyword": "李湘多平台账号被禁止关注",
+      "rank": 12,
+      "hot": 7818912
+    },
+    {
+      "platform": "douyin",
+      "keyword": "幸福是无数个微小具体的瞬间",
+      "rank": 13,
+      "hot": 7802161
+    },
+    {
+      "platform": "douyin",
+      "keyword": "税务部门提醒自查近三年境外所得",
+      "rank": 14,
+      "hot": 7795582
+    },
+    {
+      "platform": "douyin",
+      "keyword": "当工具做了个噩梦",
+      "rank": 15,
+      "hot": 7794364
+    },
+    {
+      "platform": "douyin",
+      "keyword": "抖音球风挑战赛就这么开赛",
+      "rank": 16,
+      "hot": 7786928
+    },
+    {
+      "platform": "douyin",
+      "keyword": "裴轸拉胡羞的动作充满克制",
+      "rank": 17,
+      "hot": 7783671
+    },
+    {
+      "platform": "douyin",
+      "keyword": "猫咪不听话也得叫家长",
+      "rank": 18,
+      "hot": 7780019
+    },
+    {
+      "platform": "douyin",
+      "keyword": "贺娇龙悼念仪式在昭苏举行",
+      "rank": 19,
+      "hot": 7767572
+    },
+    {
+      "platform": "douyin",
+      "keyword": "鞠婧祎转身美我一脸",
+      "rank": 20,
+      "hot": 7762378
+    },
+    {
+      "platform": "douyin",
+      "keyword": "新年战袍我先手搓上了",
+      "rank": 21,
+      "hot": 7760376
+    },
+    {
+      "platform": "douyin",
+      "keyword": "Jennie生日快乐",
+      "rank": 22,
+      "hot": 7757728
+    },
+    {
+      "platform": "douyin",
+      "keyword": "檀健次勾手舞挑战",
+      "rank": 23,
+      "hot": 7752592
+    },
+    {
+      "platform": "douyin",
+      "keyword": "三角洲八宝粥点位攻略",
+      "rank": 24,
+      "hot": 7749987
+    },
+    {
+      "platform": "douyin",
+      "keyword": "全国杀猪菜厨艺大赛",
+      "rank": 25,
+      "hot": 7745516
+    },
+    {
+      "platform": "douyin",
+      "keyword": "宋亚轩珍珠宇宙的公主来了",
+      "rank": 26,
+      "hot": 7729670
+    },
+    {
+      "platform": "douyin",
+      "keyword": "代旭来帮我摁电梯",
+      "rank": 27,
+      "hot": 7720404
+    },
+    {
+      "platform": "douyin",
+      "keyword": "香港通报男子持刀劫持人质被击毙",
+      "rank": 28,
+      "hot": 7713450
+    },
+    {
+      "platform": "douyin",
+      "keyword": "郑雅娴OKOK手势舞雪中版",
+      "rank": 29,
+      "hot": 7712597
+    },
+    {
+      "platform": "douyin",
+      "keyword": "今日东方明珠幸福指数爆表",
+      "rank": 30,
+      "hot": 7710168
+    },
+    {
+      "platform": "douyin",
+      "keyword": "第一视角探秘童年",
+      "rank": 31,
+      "hot": 7709215
+    },
+    {
+      "platform": "douyin",
+      "keyword": "“装死羊”身价已飙升至30万",
+      "rank": 32,
+      "hot": 7705422
+    },
+    {
+      "platform": "douyin",
+      "keyword": "律师谈成毅遭跟踪和骚扰",
+      "rank": 33,
+      "hot": 7700986
+    },
+    {
+      "platform": "douyin",
+      "keyword": "熊出没新电影光头强成发量王者",
+      "rank": 34,
+      "hot": 7698496
+    },
+    {
+      "platform": "douyin",
+      "keyword": "轧戏三个人的电梯有些拥挤",
+      "rank": 35,
+      "hot": 7697159
+    },
+    {
+      "platform": "douyin",
+      "keyword": "ENHYPEN新专辑上线",
+      "rank": 36,
+      "hot": 7694460
+    },
+    {
+      "platform": "douyin",
+      "keyword": "丁程鑫 滑雪界来了个天才",
+      "rank": 37,
+      "hot": 7692413
+    },
+    {
+      "platform": "douyin",
+      "keyword": "女星吴佩慈“婆婆”在美被捕",
+      "rank": 38,
+      "hot": 7692266
+    },
+    {
+      "platform": "douyin",
+      "keyword": "你的墙来了",
+      "rank": 39,
+      "hot": 7691860
+    },
+    {
+      "platform": "douyin",
+      "keyword": "尹锡悦涉内乱首案一审被判5年",
+      "rank": 40,
+      "hot": 7690222
+    },
+    {
+      "platform": "douyin",
+      "keyword": "镜头一拉就长大了",
+      "rank": 41,
+      "hot": 7689102
+    },
+    {
+      "platform": "douyin",
+      "keyword": "50+恋综看到的女性力量",
+      "rank": 42,
+      "hot": 7683688
+    },
+    {
+      "platform": "douyin",
+      "keyword": "汪苏泷王赫野Kiss Me",
+      "rank": 43,
+      "hot": 7682383
+    },
+    {
+      "platform": "douyin",
+      "keyword": "深空彼岸动画开播",
+      "rank": 44,
+      "hot": 7680733
+    },
+    {
+      "platform": "douyin",
+      "keyword": "周翊然简直萌物",
+      "rank": 45,
+      "hot": 7679354
+    },
+    {
+      "platform": "douyin",
+      "keyword": "谁还没用特效版自动鸽子摇",
+      "rank": 46,
+      "hot": 7679253
+    },
+    {
+      "platform": "douyin",
+      "keyword": "怪不得格林能当狼王",
+      "rank": 47,
+      "hot": 7675613
+    },
+    {
+      "platform": "douyin",
+      "keyword": "宋雨琦东方明珠下跳Zoo",
+      "rank": 48,
+      "hot": 7674555
+    },
+    {
+      "platform": "douyin",
+      "keyword": "荣善宝整顿婆家一套又一套",
+      "rank": 49,
+      "hot": 7671662
+    },
+    {
+      "platform": "douyin",
+      "keyword": "我总是忽冷又忽热隐藏我的感受",
+      "rank": 50,
+      "hot": 7671463
+    }
+  ]
+}

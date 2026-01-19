@@ -1,0 +1,15 @@
+# 忽略一切
+*
+
+# 放行 .gitignore 本身
+!.gitignore
+
+# 放行 src 目录
+!src/
+
+# 但 src 下默认仍然全部忽略
+src/*
+
+# 放行 src/data 目录
+!src/data/
+!src/data/**

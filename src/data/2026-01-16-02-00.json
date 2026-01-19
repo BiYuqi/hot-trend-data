@@ -1,0 +1,613 @@
+{
+  "timestamp": "2026-01-16 02:00:00",
+  "weibo": [
+    {
+      "platform": "weibo",
+      "keyword": "玉茗茶骨",
+      "rank": 1,
+      "hot": 278257
+    },
+    {
+      "platform": "weibo",
+      "keyword": "湖北一男子挖出青铜古剑上交博物馆",
+      "rank": 2,
+      "hot": 202428
+    },
+    {
+      "platform": "weibo",
+      "keyword": "中国外贸成就很不平凡",
+      "rank": 3,
+      "hot": 165176
+    },
+    {
+      "platform": "weibo",
+      "keyword": "逛家清送汽车上京东超市",
+      "rank": 4,
+      "hot": 153971
+    },
+    {
+      "platform": "weibo",
+      "keyword": "将门毒后",
+      "rank": 5,
+      "hot": 136443
+    },
+    {
+      "platform": "weibo",
+      "keyword": "101岁奶奶每天熬夜追剧到凌晨2点",
+      "rank": 6,
+      "hot": 135033
+    },
+    {
+      "platform": "weibo",
+      "keyword": "7岁嫁人15岁生子短剧引众怒",
+      "rank": 7,
+      "hot": 134558
+    },
+    {
+      "platform": "weibo",
+      "keyword": "一汽奥迪携千万用户共赴乾崑",
+      "rank": 8,
+      "hot": 134441
+    },
+    {
+      "platform": "weibo",
+      "keyword": "轧戏 图书馆30秒",
+      "rank": 9,
+      "hot": 132874
+    },
+    {
+      "platform": "weibo",
+      "keyword": "我们的少年时代2",
+      "rank": 10,
+      "hot": 130711
+    },
+    {
+      "platform": "weibo",
+      "keyword": "逆战未来",
+      "rank": 11,
+      "hot": 128361
+    },
+    {
+      "platform": "weibo",
+      "keyword": "上海网红餐厅服务员辱骂诅咒顾客",
+      "rank": 12,
+      "hot": 126397
+    },
+    {
+      "platform": "weibo",
+      "keyword": "花海房管",
+      "rank": 13,
+      "hot": 124727
+    },
+    {
+      "platform": "weibo",
+      "keyword": "江西杀猪宴跟风呆呆翻车",
+      "rank": 14,
+      "hot": 124625
+    },
+    {
+      "platform": "weibo",
+      "keyword": "派出所回应大学生偷外卖拘留5日",
+      "rank": 15,
+      "hot": 122979
+    },
+    {
+      "platform": "weibo",
+      "keyword": "夏迎春下房管",
+      "rank": 16,
+      "hot": 97758
+    },
+    {
+      "platform": "weibo",
+      "keyword": "鬼鬼吐槽和艺人做朋友很累",
+      "rank": 17,
+      "hot": 69035
+    },
+    {
+      "platform": "weibo",
+      "keyword": "私生活这么干净为什么作息这么乱",
+      "rank": 18,
+      "hot": 61658
+    },
+    {
+      "platform": "weibo",
+      "keyword": "贾国龙朋友圈称尽力了",
+      "rank": 19,
+      "hot": 55740
+    },
+    {
+      "platform": "weibo",
+      "keyword": "女网红在飞机上突然焦虑症发作",
+      "rank": 20,
+      "hot": 46286
+    },
+    {
+      "platform": "weibo",
+      "keyword": "轧戏",
+      "rank": 21,
+      "hot": 43572
+    },
+    {
+      "platform": "weibo",
+      "keyword": "smtm12",
+      "rank": 22,
+      "hot": 43569
+    },
+    {
+      "platform": "weibo",
+      "keyword": "金价彻底杀疯了",
+      "rank": 23,
+      "hot": 43545
+    },
+    {
+      "platform": "weibo",
+      "keyword": "香港屯门",
+      "rank": 24,
+      "hot": 43540
+    },
+    {
+      "platform": "weibo",
+      "keyword": "王橹杰来翻一翻古早相册",
+      "rank": 25,
+      "hot": 43517
+    },
+    {
+      "platform": "weibo",
+      "keyword": "杨幂赵丽颖活动生图",
+      "rank": 26,
+      "hot": 43509
+    },
+    {
+      "platform": "weibo",
+      "keyword": "轧戏王光明出轨",
+      "rank": 27,
+      "hot": 43490
+    },
+    {
+      "platform": "weibo",
+      "keyword": "蔡徐坤采访路人",
+      "rank": 28,
+      "hot": 43474
+    },
+    {
+      "platform": "weibo",
+      "keyword": "落子无悔是一种顶级智慧",
+      "rank": 29,
+      "hot": 43453
+    },
+    {
+      "platform": "weibo",
+      "keyword": "商家回应自家衣服没剪吊牌在漠河",
+      "rank": 30,
+      "hot": 43432
+    },
+    {
+      "platform": "weibo",
+      "keyword": "国家电网计划投资4万亿元",
+      "rank": 31,
+      "hot": 43419
+    },
+    {
+      "platform": "weibo",
+      "keyword": "最容易透支心脏的10个习惯",
+      "rank": 32,
+      "hot": 43411
+    },
+    {
+      "platform": "weibo",
+      "keyword": "代旭的耳机戴出了耳钉的感觉",
+      "rank": 33,
+      "hot": 43386
+    },
+    {
+      "platform": "weibo",
+      "keyword": "丁程鑫现身李雪琴新电影首映",
+      "rank": 34,
+      "hot": 43383
+    },
+    {
+      "platform": "weibo",
+      "keyword": "黄晓明提前一个月背词那场戏播了",
+      "rank": 35,
+      "hot": 43363
+    },
+    {
+      "platform": "weibo",
+      "keyword": "骄阳似我15年后续上了",
+      "rank": 36,
+      "hot": 43342
+    },
+    {
+      "platform": "weibo",
+      "keyword": "天地剑心",
+      "rank": 37,
+      "hot": 43326
+    },
+    {
+      "platform": "weibo",
+      "keyword": "周也和姐姐 大明星和设计师",
+      "rank": 38,
+      "hot": 43307
+    },
+    {
+      "platform": "weibo",
+      "keyword": "刘宇宁沉浸式畅游澳门vlog",
+      "rank": 39,
+      "hot": 43301
+    },
+    {
+      "platform": "weibo",
+      "keyword": "一白发男列车上掐脖年轻女孩",
+      "rank": 40,
+      "hot": 43276
+    },
+    {
+      "platform": "weibo",
+      "keyword": "金价",
+      "rank": 41,
+      "hot": 43271
+    },
+    {
+      "platform": "weibo",
+      "keyword": "公安部A级通缉犯在狱中被揪出",
+      "rank": 42,
+      "hot": 43244
+    },
+    {
+      "platform": "weibo",
+      "keyword": "代旭演霸总追女生的套路学到了",
+      "rank": 43,
+      "hot": 43231
+    },
+    {
+      "platform": "weibo",
+      "keyword": "肖战2026秋冬大秀",
+      "rank": 44,
+      "hot": 43212
+    },
+    {
+      "platform": "weibo",
+      "keyword": "香港一商场警察开枪制服持刀嫌犯",
+      "rank": 45,
+      "hot": 43208
+    },
+    {
+      "platform": "weibo",
+      "keyword": "张慧雯曹骏紧急声明",
+      "rank": 46,
+      "hot": 43183
+    },
+    {
+      "platform": "weibo",
+      "keyword": "BLG战胜WBG",
+      "rank": 47,
+      "hot": 43171
+    },
+    {
+      "platform": "weibo",
+      "keyword": "于正说芒果从不参考外部数据",
+      "rank": 48,
+      "hot": 43151
+    },
+    {
+      "platform": "weibo",
+      "keyword": "丁程鑫室外被冻成孙子了",
+      "rank": 49,
+      "hot": 43135
+    },
+    {
+      "platform": "weibo",
+      "keyword": "京城大师赛",
+      "rank": 50,
+      "hot": 43131
+    },
+    {
+      "platform": "weibo",
+      "keyword": "客运段回应老人掐女孩脖子吐口水",
+      "rank": 51,
+      "hot": 43115
+    },
+    {
+      "platform": "weibo",
+      "keyword": "车厘子测量卡 缩水",
+      "rank": 52,
+      "hot": 43094
+    }
+  ],
+  "douyin": [
+    {
+      "platform": "douyin",
+      "keyword": "欧洲多国将向格陵兰岛派兵",
+      "rank": 1,
+      "hot": 11838941
+    },
+    {
+      "platform": "douyin",
+      "keyword": "幸福是无数个微小具体的瞬间",
+      "rank": 2,
+      "hot": 11276970
+    },
+    {
+      "platform": "douyin",
+      "keyword": "我国网络零售市场连续13年全球最大",
+      "rank": 3,
+      "hot": 11146159
+    },
+    {
+      "platform": "douyin",
+      "keyword": "素颜朝天的时候我们就认识了",
+      "rank": 4,
+      "hot": 11120926
+    },
+    {
+      "platform": "douyin",
+      "keyword": "冬日暖暖游云南",
+      "rank": 5,
+      "hot": 10344953
+    },
+    {
+      "platform": "douyin",
+      "keyword": "王毅同伊朗外长通电话",
+      "rank": 6,
+      "hot": 10259538
+    },
+    {
+      "platform": "douyin",
+      "keyword": "结构性货币政策工具利率下调",
+      "rank": 7,
+      "hot": 9113290
+    },
+    {
+      "platform": "douyin",
+      "keyword": "回家回家有爱就不怕",
+      "rank": 8,
+      "hot": 9066322
+    },
+    {
+      "platform": "douyin",
+      "keyword": "深圳辟谣“推行12年义务教育”",
+      "rank": 9,
+      "hot": 8852889
+    },
+    {
+      "platform": "douyin",
+      "keyword": "陶玉玲去世",
+      "rank": 10,
+      "hot": 8822121
+    },
+    {
+      "platform": "douyin",
+      "keyword": "美国财政部对伊朗实施新制裁",
+      "rank": 11,
+      "hot": 8665738
+    },
+    {
+      "platform": "douyin",
+      "keyword": "专家解读尹锡悦是否会被判死刑",
+      "rank": 12,
+      "hot": 8246069
+    },
+    {
+      "platform": "douyin",
+      "keyword": "三角洲行动S8新赛季爆料",
+      "rank": 13,
+      "hot": 7844188
+    },
+    {
+      "platform": "douyin",
+      "keyword": "轧戏三个人的电梯有些拥挤",
+      "rank": 14,
+      "hot": 7832003
+    },
+    {
+      "platform": "douyin",
+      "keyword": "贺娇龙一路走好",
+      "rank": 15,
+      "hot": 7828474
+    },
+    {
+      "platform": "douyin",
+      "keyword": "熊出没新电影光头强成发量王者",
+      "rank": 16,
+      "hot": 7821311
+    },
+    {
+      "platform": "douyin",
+      "keyword": "荣善宝整顿婆家一套又一套",
+      "rank": 17,
+      "hot": 7788261
+    },
+    {
+      "platform": "douyin",
+      "keyword": "代旭进行曲还得代旭本人来用",
+      "rank": 18,
+      "hot": 7776266
+    },
+    {
+      "platform": "douyin",
+      "keyword": "玉茗茶骨男女混团站位夯爆",
+      "rank": 19,
+      "hot": 7775276
+    },
+    {
+      "platform": "douyin",
+      "keyword": "伊朗领空重新开放",
+      "rank": 20,
+      "hot": 7771128
+    },
+    {
+      "platform": "douyin",
+      "keyword": "张艺兴给大花轿正个骨",
+      "rank": 21,
+      "hot": 7768620
+    },
+    {
+      "platform": "douyin",
+      "keyword": "等到了周杰伦的澳网幕后vlog",
+      "rank": 22,
+      "hot": 7767351
+    },
+    {
+      "platform": "douyin",
+      "keyword": "律师谈成毅遭跟踪和骚扰",
+      "rank": 23,
+      "hot": 7765902
+    },
+    {
+      "platform": "douyin",
+      "keyword": "阿良问剑进行曲",
+      "rank": 24,
+      "hot": 7756809
+    },
+    {
+      "platform": "douyin",
+      "keyword": "赵今麦终于学会了自动版wink",
+      "rank": 25,
+      "hot": 7754659
+    },
+    {
+      "platform": "douyin",
+      "keyword": "张杰新歌暴风少年上线",
+      "rank": 26,
+      "hot": 7742794
+    },
+    {
+      "platform": "douyin",
+      "keyword": "陈星旭版苦海翻起爱恨",
+      "rank": 27,
+      "hot": 7740239
+    },
+    {
+      "platform": "douyin",
+      "keyword": "赵孝柔发现王光明背叛婚姻",
+      "rank": 28,
+      "hot": 7739799
+    },
+    {
+      "platform": "douyin",
+      "keyword": "大红行动仁义桃桃哭了",
+      "rank": 29,
+      "hot": 7725100
+    },
+    {
+      "platform": "douyin",
+      "keyword": "棋圣聂卫平逝世",
+      "rank": 30,
+      "hot": 7722824
+    },
+    {
+      "platform": "douyin",
+      "keyword": "真情像梅花开过",
+      "rank": 31,
+      "hot": 7721755
+    },
+    {
+      "platform": "douyin",
+      "keyword": "和导师一起拍转场",
+      "rank": 32,
+      "hot": 7720329
+    },
+    {
+      "platform": "douyin",
+      "keyword": "传下去卢昱晓cha了胡羞摇",
+      "rank": 33,
+      "hot": 7715683
+    },
+    {
+      "platform": "douyin",
+      "keyword": "那个总让你穿得漂亮去约会的人",
+      "rank": 34,
+      "hot": 7713568
+    },
+    {
+      "platform": "douyin",
+      "keyword": "这音乐像谁车响了一样",
+      "rank": 35,
+      "hot": 7711133
+    },
+    {
+      "platform": "douyin",
+      "keyword": "猫猫吃亏在不会说话",
+      "rank": 36,
+      "hot": 7709812
+    },
+    {
+      "platform": "douyin",
+      "keyword": "三角洲全新机甲大红上线",
+      "rank": 37,
+      "hot": 7707515
+    },
+    {
+      "platform": "douyin",
+      "keyword": "终于等到张桂源的maria",
+      "rank": 38,
+      "hot": 7706774
+    },
+    {
+      "platform": "douyin",
+      "keyword": "老板请上飞机回家过年",
+      "rank": 39,
+      "hot": 7706053
+    },
+    {
+      "platform": "douyin",
+      "keyword": "看我变身刘海甜妹",
+      "rank": 40,
+      "hot": 7703459
+    },
+    {
+      "platform": "douyin",
+      "keyword": "重返狼群要有新续集了吗",
+      "rank": 41,
+      "hot": 7703444
+    },
+    {
+      "platform": "douyin",
+      "keyword": "重返狼群这个家不能没有格林",
+      "rank": 42,
+      "hot": 7697900
+    },
+    {
+      "platform": "douyin",
+      "keyword": "公安部敦促陈志犯罪集团逃犯自首",
+      "rank": 43,
+      "hot": 7695636
+    },
+    {
+      "platform": "douyin",
+      "keyword": "赵又廷新剧发现妻子出轨",
+      "rank": 44,
+      "hot": 7692797
+    },
+    {
+      "platform": "douyin",
+      "keyword": "丁程鑫 最适配zoo的雪地狐狸",
+      "rank": 45,
+      "hot": 7687795
+    },
+    {
+      "platform": "douyin",
+      "keyword": "棒棒糖香皂挑战",
+      "rank": 46,
+      "hot": 7673646
+    },
+    {
+      "platform": "douyin",
+      "keyword": "张康乐黑框男大版撒娇舞",
+      "rank": 47,
+      "hot": 7665127
+    },
+    {
+      "platform": "douyin",
+      "keyword": "和闺蜜见面必拍的手势舞",
+      "rank": 48,
+      "hot": 7658220
+    },
+    {
+      "platform": "douyin",
+      "keyword": "谁懂逆战未来coser的含金量",
+      "rank": 49,
+      "hot": 7651674
+    }
+  ]
+}
