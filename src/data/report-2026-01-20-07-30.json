@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现天气、国际事件与娱乐话题三足鼎立格局。微博平台由‘日本零熊猫’、‘下雪’等话题主导，抖音平台则聚焦于节气、经济数据与重大事故。平台间内容偏好差异显著，微博更侧重社会情绪与娱乐，抖音则更关注宏观叙事与民生数据。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "下雪",
+      "from_rank": 50,
+      "to_rank": 2,
+      "reason": "排名跃升48位，因‘大寒’节气与全国多地（如上海、合肥）出现降雪天气，形成强关联性话题共振，引发广泛讨论。"
+    },
+    {
+      "keyword": "俄罗斯一地居民挖通积雪才能回家",
+      "from_rank": 37,
+      "to_rank": 10,
+      "reason": "排名跃升27位，作为极端天气的具象化案例，与国内‘下雪’热点形成国际对照，增强了话题的冲击力和传播性。"
+    },
+    {
+      "keyword": "日本迎半世纪来首次零熊猫",
+      "from_rank": 22,
+      "to_rank": 1,
+      "reason": "排名跃升21位，该事件结合了动物保护、国际关系与国民情感，具备独特性和高讨论价值，迅速成为微博榜首。"
+    },
+    {
+      "keyword": "杨紫第一次换角色头像",
+      "from_rank": 41,
+      "to_rank": 24,
+      "reason": "排名跃升17位，作为艺人‘杨紫换头像’事件的细节补充和延伸，满足了粉丝的深度参与需求，推动了话题热度。"
+    },
+    {
+      "keyword": "刘宇宁录春晚被逗红温了",
+      "from_rank": 47,
+      "to_rank": 31,
+      "reason": "排名跃升16位，临近春节，与‘春晚’相关的艺人幕后花絮内容具有天然的时效吸引力和娱乐话题性。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "日本迎半世纪来首次零熊猫 ↑",
+      "change": "up",
+      "change_value": 21
+    },
+    {
+      "rank": 2,
+      "keyword": "下雪 ↑",
+      "change": "up",
+      "change_value": 48
+    },
+    {
+      "rank": 3,
+      "keyword": "卫星互联网低轨19组卫星发射成功 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "郑钦文阿里千问全球代言人 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "上海下雪 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "大寒 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "老赖李亚鹏为何触动了网友 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 8,
+      "keyword": "天猫新春年礼大使马丽 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "蔡徐坤印尼节目 ↓",
+      "change": "down",
+      "change_value": -4
+    },
+    {
+      "rank": 10,
+      "keyword": "俄罗斯一地居民挖通积雪才能回家 ↑",
+      "change": "up",
+      "change_value": 27
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "坐上公交出趟国 ↑",
+      "change": "up",
+      "change_value": 9
+    },
+    {
+      "rank": 2,
+      "keyword": "大寒是24节气的最后一个节气 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "去年中国经济贡献了世界30%的增长 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "别辜负眼前季节 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "精选创作者不语只一味宠粉 ↓",
+      "change": "down",
+      "change_value": -4
+    },
+    {
+      "rank": 6,
+      "keyword": "西班牙列车脱轨相撞已致40死 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "2025年GDP增长5% ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 8,
+      "keyword": "U23亚洲杯半决赛前瞻 ↑",
+      "change": "up",
+      "change_value": 7
+    },
+    {
+      "rank": 9,
+      "keyword": "美财长教科书式演绎颠倒黑白 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "传奇设计师瓦伦蒂诺去世 →",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "天气话题（‘下雪’、‘大寒’）是驱动本周期双平台热度的核心引擎，微博表现为地域性社会讨论，抖音则与宏观经济数据并列呈现。",
+    "微博热点更分散，涵盖国际事件、娱乐明星、社会民生；抖音热点更集中，头部内容以宏观经济、国际事故、节气文化等宏大叙事为主。",
+    "娱乐话题在微博呈现更强的延续性和衍生性（如李亚鹏、杨紫系列话题），而在抖音则更多作为独立内容点出现，与平台主流叙事结合度较低。"
+  ]
+}
