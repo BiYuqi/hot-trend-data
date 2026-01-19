@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现宏观议题与民生娱乐并重格局，微博平台由国际评论与文娱话题主导，抖音平台则聚焦年度经济数据与冬季生活。舆情场域分化明显，微博讨论更趋多元，抖音内容更集中。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "樊振东憋笑失败",
+      "from_rank": 24,
+      "to_rank": 12,
+      "reason": "排名跃升12位，从第24位升至第12位，是榜单中升幅最大的词条，表明该娱乐性内容在短时间内获得了极高的互动与讨论热度。"
+    },
+    {
+      "keyword": "轧戏要开虐了",
+      "from_rank": 46,
+      "to_rank": 38,
+      "reason": "排名上升8位，从第46位进入前40，与微博总榜第2的“轧戏”主话题形成联动，是剧集话题热度发酵的延伸表现。"
+    },
+    {
+      "keyword": "李连杰重出江湖出演镖人",
+      "from_rank": 30,
+      "to_rank": 27,
+      "reason": "排名上升3位，进入抖音TOP30，与电影《镖人》定档及系列话题热度共振，是影视宣发内容获得高传播效率的体现。"
+    },
+    {
+      "keyword": "冷链运输南方小土豆",
+      "from_rank": 35,
+      "to_rank": 32,
+      "reason": "排名上升3位，结合“河南进入雨雪最强时段”等天气话题，反映了冬季旅游与网络梗结合的创意内容在抖音平台的持续热度。"
+    },
+    {
+      "keyword": "刘涛现身广东春晚演唱粤语歌曲",
+      "from_rank": 43,
+      "to_rank": 40,
+      "reason": "排名上升3位，进入抖音TOP40，是临近春节，卫视春晚相关艺人内容开始获得关注的信号。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "人民日报评美国斩杀线",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "轧戏",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "中国GDP跨越140万亿元关口 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "天猫美食年货主理人寻味中国年 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "蔡徐坤印尼节目 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "下雪 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 7,
+      "keyword": "陈光标喊话李亚鹏提供银行卡号 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 8,
+      "keyword": "饿死癌细胞是谣言 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "神20舷窗裂纹维修细节披露 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 10,
+      "keyword": "火锅店用鱼缸养鲨鱼供人观赏 ↓",
+      "change": "down",
+      "change_value": -4
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "2025年GDP增长5%",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "2025年国民经济运行情况",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "去年中国经济贡献了世界30%的增长",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "别辜负眼前季节 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 5,
+      "keyword": "白月光大衣冬日氛围感的神 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 6,
+      "keyword": "云南昭通5.1级地震",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "西班牙列车脱轨相撞已致39死 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 8,
+      "keyword": "河南进入雨雪最强时段 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 9,
+      "keyword": "U23亚洲杯半决赛前瞻 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 10,
+      "keyword": "四个字概括2025年中国经济表现 ↑",
+      "change": "up",
+      "change_value": 1
+    }
+  ],
+  "conclusion": [
+    "宏观议题占据绝对热度：抖音TOP3及微博TOP3均被年度经济数据、国际政治评论等宏观议题占据，显示本周期公众对硬核信息的关注度极高。",
+    "平台内容生态差异显著：微博热点更分散，涵盖文娱、社会、健康、商业；抖音热点则高度集中于经济数据、电影宣发、冬季生活与灾难事件，平台算法与用户偏好导致内容集中度不同。",
+    "春节与冬季主题预热开始：年货、春晚、雪景、冬日穿搭等季节性话题在双平台同步涌现，表明年节氛围已开始渗透网络舆论场。"
+  ]
+}
