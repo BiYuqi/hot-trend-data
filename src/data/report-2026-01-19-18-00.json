@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现国际政治事件与春节临近主题并行的格局，微博平台国际政治话题热度飙升，抖音平台则聚焦宏观经济与节前氛围。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "高市早苗将于1月23日解散众议院",
+      "from_rank": 29,
+      "to_rank": 1,
+      "reason": "排名跃升28位，从第29位升至榜首，因日本重大政治决策引发广泛国际关注。"
+    },
+    {
+      "keyword": "颐和园感觉有一亿人",
+      "from_rank": 31,
+      "to_rank": 8,
+      "reason": "排名跃升23位，从第31位升至第8位，因冬季旅游热点与社交媒体打卡效应叠加。"
+    },
+    {
+      "keyword": "“容嬷嬷”李明启含泪送别陶玉玲",
+      "from_rank": 48,
+      "to_rank": 31,
+      "reason": "排名跃升17位，从第48位升至第31位，因老艺术家逝世引发集体怀旧与情感共鸣。"
+    },
+    {
+      "keyword": "何老师不小心口误华晨宇的反应",
+      "from_rank": 9,
+      "to_rank": 4,
+      "reason": "排名上升5位，从第9位升至第4位，因娱乐节目现场意外事件具备强话题传播性。"
+    },
+    {
+      "keyword": "我只眼神给出去全民飙演技",
+      "from_rank": 32,
+      "to_rank": 27,
+      "reason": "排名上升5位，从第32位升至第27位，因短视频挑战活动激发用户模仿创作热潮。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "高市早苗将于1月23日解散众议院 ↑",
+      "change": "up",
+      "change_value": 28
+    },
+    {
+      "rank": 2,
+      "keyword": "生命树 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 3,
+      "keyword": "万千气象看龙江 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "何老师不小心口误华晨宇的反应 ↑",
+      "change": "up",
+      "change_value": 5
+    },
+    {
+      "rank": 5,
+      "keyword": "深圳封存20年垃圾山开挖 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 6,
+      "keyword": "潮宏基吊坠一夜涨了1.9万 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 7,
+      "keyword": "今日辟谣 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "颐和园感觉有一亿人 ↑",
+      "change": "up",
+      "change_value": 23
+    },
+    {
+      "rank": 9,
+      "keyword": "时尚之夜红毯 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "体面人的体面一生 ↓",
+      "change": "down",
+      "change_value": -2
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "神20成功着陆 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "2025年国民经济运行情况 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "2025年GDP增长5% →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "国务院挂牌督办包钢爆炸事故 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "过年仪式感从腊月开始 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "今天开启腊月第一天 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "白月光大衣冬日氛围感的神 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "投资铜条火了 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 9,
+      "keyword": "别辜负眼前季节 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 10,
+      "keyword": "河南进入雨雪最强时段 ↓",
+      "change": "down",
+      "change_value": -1
+    }
+  ],
+  "conclusion": [
+    "国际政治事件（日本解散众议院）成为微博绝对热点，热度断层领先，显示用户对重大国际时政的高度敏感。",
+    "抖音头部热点高度稳定，以宏观经济数据、航天成就和节前氛围为主，平台内容呈现更强的官方与民生导向。",
+    "平台差异显著：微博热点更分散，涵盖政治、社会、娱乐；抖音热点更集中，且用户参与型话题（如挑战、怀旧）排名上升明显。"
+  ]
+}
