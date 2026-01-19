@@ -1,0 +1,607 @@
+{
+  "timestamp": "2026-01-19 15:30:05",
+  "weibo": [
+    {
+      "platform": "weibo",
+      "keyword": "生命树",
+      "rank": 1,
+      "hot": 1081341
+    },
+    {
+      "platform": "weibo",
+      "keyword": "B站百大UP主",
+      "rank": 2,
+      "hot": 785597
+    },
+    {
+      "platform": "weibo",
+      "keyword": "中央气象台三预警齐发",
+      "rank": 3,
+      "hot": 641709
+    },
+    {
+      "platform": "weibo",
+      "keyword": "男子右脑出血被医生错开左脑",
+      "rank": 4,
+      "hot": 249206
+    },
+    {
+      "platform": "weibo",
+      "keyword": "苏醒告别快乐老友记",
+      "rank": 5,
+      "hot": 211212
+    },
+    {
+      "platform": "weibo",
+      "keyword": "美国男子收集雨水被判处30天监禁",
+      "rank": 6,
+      "hot": 209398
+    },
+    {
+      "platform": "weibo",
+      "keyword": "学校已经发展成这样了吗",
+      "rank": 7,
+      "hot": 204103
+    },
+    {
+      "platform": "weibo",
+      "keyword": "安徽下霰了",
+      "rank": 8,
+      "hot": 203504
+    },
+    {
+      "platform": "weibo",
+      "keyword": "骂人也违法了最高可判三年",
+      "rank": 9,
+      "hot": 200492
+    },
+    {
+      "platform": "weibo",
+      "keyword": "我的朋友安德烈 BE美学",
+      "rank": 10,
+      "hot": 198272
+    },
+    {
+      "platform": "weibo",
+      "keyword": "沈逸 牢A",
+      "rank": 11,
+      "hot": 196191
+    },
+    {
+      "platform": "weibo",
+      "keyword": "邓超瘦成男大了",
+      "rank": 12,
+      "hot": 192347
+    },
+    {
+      "platform": "weibo",
+      "keyword": "某地一男孩用凳子猛砸同学后脑勺",
+      "rank": 13,
+      "hot": 191126
+    },
+    {
+      "platform": "weibo",
+      "keyword": "胡歌有女儿后彭于晏终于急了",
+      "rank": 14,
+      "hot": 188344
+    },
+    {
+      "platform": "weibo",
+      "keyword": "牢A",
+      "rank": 15,
+      "hot": 187300
+    },
+    {
+      "platform": "weibo",
+      "keyword": "8岁哥哥带4个月大弟弟坐地铁",
+      "rank": 16,
+      "hot": 185292
+    },
+    {
+      "platform": "weibo",
+      "keyword": "孙海洋向嫣然天使儿童医院捐款",
+      "rank": 17,
+      "hot": 180271
+    },
+    {
+      "platform": "weibo",
+      "keyword": "只有有洁癖的人才懂维嘉的含金量",
+      "rank": 18,
+      "hot": 144948
+    },
+    {
+      "platform": "weibo",
+      "keyword": "张杰新春场是麻将局",
+      "rank": 19,
+      "hot": 143866
+    },
+    {
+      "platform": "weibo",
+      "keyword": "错开左脑男子家属索赔300万遭拒",
+      "rank": 20,
+      "hot": 142617
+    },
+    {
+      "platform": "weibo",
+      "keyword": "奚梦瑶晒当妈后的幸福变化",
+      "rank": 21,
+      "hot": 142500
+    },
+    {
+      "platform": "weibo",
+      "keyword": "劣迹艺人打信息差到县域商演捞金",
+      "rank": 22,
+      "hot": 140846
+    },
+    {
+      "platform": "weibo",
+      "keyword": "睡觉出现5种症状说明血糖高了",
+      "rank": 23,
+      "hot": 139117
+    },
+    {
+      "platform": "weibo",
+      "keyword": "痞幼回应恋爱脑",
+      "rank": 24,
+      "hot": 137754
+    },
+    {
+      "platform": "weibo",
+      "keyword": "跑男的尽头是春晚正式编",
+      "rank": 25,
+      "hot": 137647
+    },
+    {
+      "platform": "weibo",
+      "keyword": "儿童医院挂满玩偶的保安走红后现状",
+      "rank": 26,
+      "hot": 130159
+    },
+    {
+      "platform": "weibo",
+      "keyword": "杨紫生命树敬礼转场",
+      "rank": 27,
+      "hot": 130000
+    },
+    {
+      "platform": "weibo",
+      "keyword": "尚界Z7亮点前瞻",
+      "rank": 28,
+      "hot": 124437
+    },
+    {
+      "platform": "weibo",
+      "keyword": "人一定要有个小号",
+      "rank": 29,
+      "hot": 123711
+    },
+    {
+      "platform": "weibo",
+      "keyword": "西班牙高铁事故死亡人数升至39人",
+      "rank": 30,
+      "hot": 121055
+    },
+    {
+      "platform": "weibo",
+      "keyword": "牢A回应",
+      "rank": 31,
+      "hot": 117271
+    },
+    {
+      "platform": "weibo",
+      "keyword": "嫣然天使基金受益女孩发视频",
+      "rank": 32,
+      "hot": 112051
+    },
+    {
+      "platform": "weibo",
+      "keyword": "镖人领衔主演孙艺洲",
+      "rank": 33,
+      "hot": 108827
+    },
+    {
+      "platform": "weibo",
+      "keyword": "吴京的刀马一个拔刀姿势对味了",
+      "rank": 34,
+      "hot": 108710
+    },
+    {
+      "platform": "weibo",
+      "keyword": "我1米9让我来",
+      "rank": 35,
+      "hot": 105457
+    },
+    {
+      "platform": "weibo",
+      "keyword": "突然的喜欢",
+      "rank": 36,
+      "hot": 105056
+    },
+    {
+      "platform": "weibo",
+      "keyword": "镖人",
+      "rank": 37,
+      "hot": 103736
+    },
+    {
+      "platform": "weibo",
+      "keyword": "因涨薪20致歉企业曾每月涨薪200元",
+      "rank": 38,
+      "hot": 103282
+    },
+    {
+      "platform": "weibo",
+      "keyword": "74岁肥猫跑完了10公里马拉松",
+      "rank": 39,
+      "hot": 103169
+    },
+    {
+      "platform": "weibo",
+      "keyword": "陈建斌在机场拉着蒋勤勤跑",
+      "rank": 40,
+      "hot": 103102
+    },
+    {
+      "platform": "weibo",
+      "keyword": "嘴和胃对了一晚上的账",
+      "rank": 41,
+      "hot": 103101
+    },
+    {
+      "platform": "weibo",
+      "keyword": "3部电影定档2026春节档",
+      "rank": 42,
+      "hot": 102070
+    },
+    {
+      "platform": "weibo",
+      "keyword": "吃了30年猪肉第一次认识猪肉",
+      "rank": 43,
+      "hot": 100366
+    },
+    {
+      "platform": "weibo",
+      "keyword": "原来小学成绩差的学生是这样的",
+      "rank": 44,
+      "hot": 96087
+    },
+    {
+      "platform": "weibo",
+      "keyword": "成都一男子殴打5人被立案调查",
+      "rank": 45,
+      "hot": 94294
+    },
+    {
+      "platform": "weibo",
+      "keyword": "马年春晚",
+      "rank": 46,
+      "hot": 91075
+    },
+    {
+      "platform": "weibo",
+      "keyword": "电网设备概念爆发",
+      "rank": 47,
+      "hot": 89675
+    },
+    {
+      "platform": "weibo",
+      "keyword": "赵尧珂御赐小仵作婚后变萌",
+      "rank": 48,
+      "hot": 88833
+    },
+    {
+      "platform": "weibo",
+      "keyword": "恋综男嘉宾把对手的花扔了",
+      "rank": 49,
+      "hot": 85402
+    },
+    {
+      "platform": "weibo",
+      "keyword": "老人玩手机孩子脱手坠地仍不撒手",
+      "rank": 50,
+      "hot": 83549
+    }
+  ],
+  "douyin": [
+    {
+      "platform": "douyin",
+      "keyword": "2025年GDP增长5%",
+      "rank": 1,
+      "hot": 11579229
+    },
+    {
+      "platform": "douyin",
+      "keyword": "2025年国民经济运行情况",
+      "rank": 2,
+      "hot": 11170754
+    },
+    {
+      "platform": "douyin",
+      "keyword": "今年首场寒潮来袭有何特点",
+      "rank": 3,
+      "hot": 10987994
+    },
+    {
+      "platform": "douyin",
+      "keyword": "神20成功着陆",
+      "rank": 4,
+      "hot": 10835795
+    },
+    {
+      "platform": "douyin",
+      "keyword": "国务院挂牌督办包钢爆炸事故",
+      "rank": 5,
+      "hot": 10275199
+    },
+    {
+      "platform": "douyin",
+      "keyword": "去年人均可支配收入43377元",
+      "rank": 6,
+      "hot": 10232600
+    },
+    {
+      "platform": "douyin",
+      "keyword": "今天开启腊月第一天",
+      "rank": 7,
+      "hot": 9113677
+    },
+    {
+      "platform": "douyin",
+      "keyword": "河南进入雨雪最强时段",
+      "rank": 8,
+      "hot": 8726360
+    },
+    {
+      "platform": "douyin",
+      "keyword": "四个字概括2025年中国经济表现",
+      "rank": 9,
+      "hot": 8636019
+    },
+    {
+      "platform": "douyin",
+      "keyword": "去年城镇调查失业率平均值为5.2%",
+      "rank": 10,
+      "hot": 8506079
+    },
+    {
+      "platform": "douyin",
+      "keyword": "电影镖人定档春节",
+      "rank": 11,
+      "hot": 8391257
+    },
+    {
+      "platform": "douyin",
+      "keyword": "2人伪造熊猫虚假新闻被拘",
+      "rank": 12,
+      "hot": 7831216
+    },
+    {
+      "platform": "douyin",
+      "keyword": "西班牙列车脱轨相撞已致39死",
+      "rank": 13,
+      "hot": 7827878
+    },
+    {
+      "platform": "douyin",
+      "keyword": "泡沫转场让心跳漏了一拍",
+      "rank": 14,
+      "hot": 7825944
+    },
+    {
+      "platform": "douyin",
+      "keyword": "李连杰重出江湖出演镖人",
+      "rank": 15,
+      "hot": 7753366
+    },
+    {
+      "platform": "douyin",
+      "keyword": "张真源在停车场唱歌",
+      "rank": 16,
+      "hot": 7730709
+    },
+    {
+      "platform": "douyin",
+      "keyword": "轧戏孙哥和胡羞拍上抖音视频了",
+      "rank": 17,
+      "hot": 7715940
+    },
+    {
+      "platform": "douyin",
+      "keyword": "镖人刘耀文 鲜衣怒马少年郎",
+      "rank": 18,
+      "hot": 7713196
+    },
+    {
+      "platform": "douyin",
+      "keyword": "鄱阳湖鸟类之殇",
+      "rank": 19,
+      "hot": 7707316
+    },
+    {
+      "platform": "douyin",
+      "keyword": "陈雪凝发了婚礼微电影",
+      "rank": 20,
+      "hot": 7702372
+    },
+    {
+      "platform": "douyin",
+      "keyword": "找一张18岁的照片来配这首歌",
+      "rank": 21,
+      "hot": 7695404
+    },
+    {
+      "platform": "douyin",
+      "keyword": "CMG群众足球邀请赛",
+      "rank": 22,
+      "hot": 7691256
+    },
+    {
+      "platform": "douyin",
+      "keyword": "我只眼神给出去全民飙演技",
+      "rank": 23,
+      "hot": 7687015
+    },
+    {
+      "platform": "douyin",
+      "keyword": "大红行动选秀之夜",
+      "rank": 24,
+      "hot": 7684521
+    },
+    {
+      "platform": "douyin",
+      "keyword": "爱站岗的土拨鼠富贵",
+      "rank": 25,
+      "hot": 7682384
+    },
+    {
+      "platform": "douyin",
+      "keyword": "冷链运输南方小土豆",
+      "rank": 26,
+      "hot": 7682164
+    },
+    {
+      "platform": "douyin",
+      "keyword": "“火云邪神”梁小龙去世",
+      "rank": 27,
+      "hot": 7679427
+    },
+    {
+      "platform": "douyin",
+      "keyword": "张艺兴大花轿reaction",
+      "rank": 28,
+      "hot": 7679227
+    },
+    {
+      "platform": "douyin",
+      "keyword": "重返狼群隐藏篇上线",
+      "rank": 29,
+      "hot": 7679120
+    },
+    {
+      "platform": "douyin",
+      "keyword": "电影爆水管爆笑看点",
+      "rank": 30,
+      "hot": 7671901
+    },
+    {
+      "platform": "douyin",
+      "keyword": "欧洲八国联合声明",
+      "rank": 31,
+      "hot": 7666952
+    },
+    {
+      "platform": "douyin",
+      "keyword": "晒出我镜头下的雪景",
+      "rank": 32,
+      "hot": 7665277
+    },
+    {
+      "platform": "douyin",
+      "keyword": "宋亚轩找鼠标拍抖音也得求",
+      "rank": 33,
+      "hot": 7664789
+    },
+    {
+      "platform": "douyin",
+      "keyword": "我笔下的格林",
+      "rank": 34,
+      "hot": 7664407
+    },
+    {
+      "platform": "douyin",
+      "keyword": "王鹤棣赵露思火力全开",
+      "rank": 35,
+      "hot": 7663027
+    },
+    {
+      "platform": "douyin",
+      "keyword": "晒晒北京的雪天日常",
+      "rank": 36,
+      "hot": 7658182
+    },
+    {
+      "platform": "douyin",
+      "keyword": "比美照更有杀伤力的是被记录",
+      "rank": 37,
+      "hot": 7654237
+    },
+    {
+      "platform": "douyin",
+      "keyword": "鲍小光拿到小尼小撒亲签",
+      "rank": 38,
+      "hot": 7642604
+    },
+    {
+      "platform": "douyin",
+      "keyword": "玉茗茶骨亲情线好刀人",
+      "rank": 39,
+      "hot": 7642333
+    },
+    {
+      "platform": "douyin",
+      "keyword": "王浩宇泪洒大红行动选秀之夜",
+      "rank": 40,
+      "hot": 7634625
+    },
+    {
+      "platform": "douyin",
+      "keyword": "张凌赫复刻卡皮巴拉表情包",
+      "rank": 41,
+      "hot": 7630591
+    },
+    {
+      "platform": "douyin",
+      "keyword": "期末版SPAGHETTI",
+      "rank": 42,
+      "hot": 7628634
+    },
+    {
+      "platform": "douyin",
+      "keyword": "EXO回归主打曲预告",
+      "rank": 43,
+      "hot": 7627704
+    },
+    {
+      "platform": "douyin",
+      "keyword": "穆祉丞Cannonball变装",
+      "rank": 44,
+      "hot": 7627239
+    },
+    {
+      "platform": "douyin",
+      "keyword": "小城大事孙小燕林冬福正缘具像化",
+      "rank": 45,
+      "hot": 7626341
+    },
+    {
+      "platform": "douyin",
+      "keyword": "新的一年你行的",
+      "rank": 46,
+      "hot": 7621043
+    },
+    {
+      "platform": "douyin",
+      "keyword": "重返狼群哭完你的哭你的",
+      "rank": 47,
+      "hot": 7618447
+    },
+    {
+      "platform": "douyin",
+      "keyword": "汪东城也是接上悟空的委托了",
+      "rank": 48,
+      "hot": 7618160
+    },
+    {
+      "platform": "douyin",
+      "keyword": "ENHYPEN吸血鬼逃亡活动",
+      "rank": 49,
+      "hot": 7617354
+    },
+    {
+      "platform": "douyin",
+      "keyword": "RIIZE为何在互扇",
+      "rank": 50,
+      "hot": 7611456
+    }
+  ]
+}
