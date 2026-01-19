@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现显著分化：微博由社会民生与娱乐话题主导，抖音则聚焦宏观经济与重大事件，平台内容偏好差异明显。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "御赐小仵作2",
+      "from_rank": 43,
+      "to_rank": 10,
+      "reason": "排名跃升33位，从榜单外直接进入前十，表明剧集续作官宣或相关物料发布引发了集中讨论。"
+    },
+    {
+      "keyword": "孙海洋向嫣然天使儿童医院捐款",
+      "from_rank": 36,
+      "to_rank": 17,
+      "reason": "排名上升19位，结合‘嫣然天使基金预算已筹满’话题，形成慈善事件联动传播，推高热度。"
+    },
+    {
+      "keyword": "火锅店用鱼缸养鲨鱼供人观赏",
+      "from_rank": 15,
+      "to_rank": 4,
+      "reason": "排名跃升11位进入前五，猎奇社会新闻引发公众对动物保护与商业伦理的争议性讨论。"
+    },
+    {
+      "keyword": "时尚之夜红毯",
+      "from_rank": 10,
+      "to_rank": 5,
+      "reason": "排名上升5位，活动进行时，明星造型与现场动态持续产出内容，维持并推高了话题热度。"
+    },
+    {
+      "keyword": "人民日报评美国斩杀线",
+      "from_rank": 6,
+      "to_rank": 2,
+      "reason": "排名上升4位至第二，权威媒体对国际敏感事件的评论迅速聚焦了公众视线，带动关联话题讨论。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "生命树",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "人民日报评美国斩杀线 ↑",
+      "change": "up",
+      "change_value": 4
+    },
+    {
+      "rank": 3,
+      "keyword": "万千气象看龙江",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "火锅店用鱼缸养鲨鱼供人观赏 ↑",
+      "change": "up",
+      "change_value": 11
+    },
+    {
+      "rank": 5,
+      "keyword": "时尚之夜红毯 ↑",
+      "change": "up",
+      "change_value": 5
+    },
+    {
+      "rank": 6,
+      "keyword": "潮宏基吊坠一夜涨了1.9万 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 7,
+      "keyword": "颐和园感觉有一亿人 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 8,
+      "keyword": "终末地 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 9,
+      "keyword": "深圳封存20年垃圾山开挖 ↓",
+      "change": "down",
+      "change_value": -7
+    },
+    {
+      "rank": 10,
+      "keyword": "御赐小仵作2 ↑",
+      "change": "up",
+      "change_value": 33
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "神20成功着陆",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "2025年国民经济运行情况",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "2025年GDP增长5%",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "国务院挂牌督办包钢爆炸事故",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "过年仪式感从腊月开始",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "别辜负眼前季节",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "白月光大衣冬日氛围感的神",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "河南进入雨雪最强时段",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "去年城镇调查失业率平均值为5.2%",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "西班牙列车脱轨相撞已致39死 ↑",
+      "change": "up",
+      "change_value": 2
+    }
+  ],
+  "conclusion": [
+    "微博热点结构松散，娱乐、社会、国际事件交织，话题迭代快，缺乏绝对主导的单一焦点。",
+    "抖音头部热点高度稳定，集中于宏观经济数据、航天成就与重大事故督办，体现对宏观叙事与公共事件的强关注。",
+    "平台间内容偏好壁垒清晰：微博是娱乐与社会议题发酵场，抖音是国民级信息与正能量内容集散地。"
+  ]
+}
