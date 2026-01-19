@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现多极化特征，微博平台由娱乐话题“轧戏”领衔，但社会民生与财经事件（如嫣然医院、财经大V被罚）热度显著跃升；抖音平台则聚焦宏观经济数据发布，形成压倒性关注。两大平台议题分化明显，微博更偏社会与娱乐，抖音更重宏观与国计民生。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "多个国货品牌向嫣然儿童医院捐款",
+      "from_rank": 50,
+      "to_rank": 15,
+      "reason": "排名跃升35位，由榜单外进入前15，表明围绕“嫣然医院”的公益事件在短时间内获得大量关注，形成社会热点。"
+    },
+    {
+      "keyword": "嫣然儿医医护人员发声",
+      "from_rank": 34,
+      "to_rank": 6,
+      "reason": "排名跃升28位，进入微博TOP10，显示嫣然医院相关议题持续发酵，从机构捐款延伸至一线人员声音，引发公众深度讨论。"
+    },
+    {
+      "keyword": "财经大V金永荣被罚没8300万",
+      "from_rank": 37,
+      "to_rank": 9,
+      "reason": "排名跃升28位，进入微博TOP10，高额罚没金额触及财经领域监管与网络治理双重敏感点，迅速引爆舆论。"
+    },
+    {
+      "keyword": "6岁男童在医院补牙时钻针脱落",
+      "from_rank": 40,
+      "to_rank": 24,
+      "reason": "排名跃升16位，涉及儿童医疗安全的具体事件极易引发家长群体共鸣和公众对医疗质量的担忧，推动话题热度快速上升。"
+    },
+    {
+      "keyword": "我只眼神给出去全民飙演技",
+      "from_rank": 38,
+      "to_rank": 29,
+      "reason": "排名跃升9位，是抖音平台上升最快的项目，表明该话题成功激发了用户的模仿与创作热情，形成病毒式传播。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "轧戏 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 2,
+      "keyword": "人民日报评美国斩杀线 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 3,
+      "keyword": "中国GDP跨越140万亿元关口 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "蔡徐坤印尼节目 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 5,
+      "keyword": "神20舷窗裂纹维修细节披露 ↑",
+      "change": "up",
+      "change_value": 4
+    },
+    {
+      "rank": 6,
+      "keyword": "嫣然儿医医护人员发声 ↑",
+      "change": "up",
+      "change_value": 28
+    },
+    {
+      "rank": 7,
+      "keyword": "MTJJ回应 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "火锅店用鱼缸养鲨鱼供人观赏 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 9,
+      "keyword": "财经大V金永荣被罚没8300万 ↑",
+      "change": "up",
+      "change_value": 28
+    },
+    {
+      "rank": 10,
+      "keyword": "猫的树太会拍了 →",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "2025年GDP增长5% →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "2025年国民经济运行情况 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "去年中国经济贡献了世界30%的增长 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "别辜负眼前季节 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "精选创作者不语只一味宠粉 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "云南昭通5.1级地震 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "白月光大衣冬日氛围感的神 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 8,
+      "keyword": "古巴启动“战争状态” →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "西班牙列车脱轨相撞已致39死 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 10,
+      "keyword": "CBA四川金强76:104广东宏远 ↑",
+      "change": "up",
+      "change_value": 2
+    }
+  ],
+  "conclusion": [
+    "微博热点结构发生显著变化，社会民生与财经监管事件（嫣然医院、财经大V被罚）取代部分娱乐话题，成为新的高热增长点。",
+    "抖音平台头部热点高度固化，宏观经济数据包揽前三，显示出用户对国家宏观议题的集中关注，娱乐及社会话题被压制。",
+    "两大平台呈现“微博重社会与娱乐事件发酵，抖音重宏观信息传播”的鲜明分野，平台用户关注焦点与信息消费模式差异显著。"
+  ]
+}
