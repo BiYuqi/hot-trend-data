@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现双平台差异化特征：微博由国际政治、社会民生与娱乐话题主导，讨论分散；抖音则聚焦宏观经济、航天成就与节庆氛围，内容集中且热度极高。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "沈逸回应糖霜苹果",
+      "from_rank": 38,
+      "to_rank": 8,
+      "reason": "排名跃升30位，因公众人物回应争议性事件，引发广泛讨论与流量聚集。"
+    },
+    {
+      "keyword": "6人消费19元顾客道歉称赔1元",
+      "from_rank": 24,
+      "to_rank": 10,
+      "reason": "排名跃升14位，因事件涉及消费纠纷与道德争议，契合社会热点讨论框架。"
+    },
+    {
+      "keyword": "镖人",
+      "from_rank": 41,
+      "to_rank": 27,
+      "reason": "排名跃升14位，因电影定档春节及主演阵容公布，带动IP热度跨平台联动上升。"
+    },
+    {
+      "keyword": "深圳封存20年垃圾山开挖",
+      "from_rank": 10,
+      "to_rank": 4,
+      "reason": "排名跃升6位，因环保议题与城市治理进展结合，引发公众持续关注。"
+    },
+    {
+      "keyword": "新年美甲",
+      "from_rank": 12,
+      "to_rank": 6,
+      "reason": "排名跃升6位，因临近春节，季节性消费与生活方式话题热度自然攀升。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "伊朗拟永久退网 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 2,
+      "keyword": "生命树 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 3,
+      "keyword": "中央气象台三预警齐发 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "深圳封存20年垃圾山开挖 ↑",
+      "change": "up",
+      "change_value": 6
+    },
+    {
+      "rank": 5,
+      "keyword": "男子右脑出血被医生错开左脑 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 6,
+      "keyword": "新年美甲 ↑",
+      "change": "up",
+      "change_value": 6
+    },
+    {
+      "rank": 7,
+      "keyword": "学校已经发展成这样了吗 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "沈逸回应糖霜苹果 ↑",
+      "change": "up",
+      "change_value": 30
+    },
+    {
+      "rank": 9,
+      "keyword": "徐良官宣巡演 ↓",
+      "change": "down",
+      "change_value": -4
+    },
+    {
+      "rank": 10,
+      "keyword": "6人消费19元顾客道歉称赔1元 ↑",
+      "change": "up",
+      "change_value": 14
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "神20成功着陆 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 2,
+      "keyword": "2025年国民经济运行情况 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "今年首场寒潮来袭有何特点 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "2025年GDP增长5% ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 5,
+      "keyword": "国务院挂牌督办包钢爆炸事故 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "过年仪式感从腊月开始 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "今天开启腊月第一天 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "河南进入雨雪最强时段 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "去年人均可支配收入43377元 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 10,
+      "keyword": "去年城镇调查失业率平均值为5.2% →",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "微博平台热点分散，国际政治（伊朗退网）、社会事件（医疗纠纷、消费争议）与娱乐话题（沈逸、徐良）形成三足鼎立格局。",
+    "抖音平台热点高度集中，宏观经济数据、航天成就与腊月节庆主题占据绝对主导，体现了强议程设置与节日氛围结合的特征。",
+    "电影《镖人》成为跨平台联动热点，其定档与主演信息在微博和抖音均推动排名显著上升，显示IP营销的有效性。"
+  ]
+}
