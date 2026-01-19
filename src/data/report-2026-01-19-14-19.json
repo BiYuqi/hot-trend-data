@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现宏观政策与民生议题主导的格局，抖音平台聚焦年度经济数据与重大事故，微博则围绕春节档电影宣发、社会事件及娱乐话题展开，平台内容分化明显。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "电影镖人定档春节",
+      "from_rank": 36,
+      "to_rank": 25,
+      "reason": "电影《镖人》定档春节的官方信息发布，引发系列宣发话题联动，推动热度快速上升。"
+    },
+    {
+      "keyword": "苏醒告别快乐老友记",
+      "from_rank": 27,
+      "to_rank": 18,
+      "reason": "艺人苏醒告别综艺节目《快乐老友记》的声明，引发粉丝群体集中讨论。"
+    },
+    {
+      "keyword": "老人玩手机孩子脱手坠地仍不撒手",
+      "from_rank": 33,
+      "to_rank": 26,
+      "reason": "涉及儿童安全与家庭监护的社会事件视频传播，引发公众对育儿责任的广泛争议。"
+    },
+    {
+      "keyword": "镖人友情演出惠英红",
+      "from_rank": 35,
+      "to_rank": 28,
+      "reason": "电影《镖人》公布演员惠英红加盟，明星效应带动话题热度攀升。"
+    },
+    {
+      "keyword": "回家过年的人已经开始大扫除了",
+      "from_rank": 43,
+      "to_rank": 36,
+      "reason": "临近春节，反映年俗准备的内容引发用户共鸣和模仿分享，形成季节性热点。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "生命树",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "B站百大UP主",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "中央气象台三预警齐发",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "男子右脑出血被医生错开左脑",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "美国男子收集雨水被判处30天监禁",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "原来小学成绩差的学生是这样的 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 7,
+      "keyword": "骂人也违法了最高可判三年 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 8,
+      "keyword": "安徽下霰了 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 9,
+      "keyword": "3部电影定档2026春节档 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 10,
+      "keyword": "镖人预告片公布 ↓",
+      "change": "down",
+      "change_value": -1
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "2025年GDP增长5%",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "2025年国民经济运行情况",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "今年首场寒潮来袭有何特点",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "神20成功着陆",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "国务院挂牌督办包钢爆炸事故",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "去年人均可支配收入43377元",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "今天开启腊月第一天",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "去年城镇调查失业率平均值为5.2%",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "电影镖人定档春节",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "2人伪造熊猫虚假新闻被拘",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "抖音热点高度集中于国家年度经济数据发布与重大安全事故，体现平台作为权威信息分发与公共议题讨论的核心场域。",
+    "微博热点呈现娱乐化、社会新闻与春节档电影宣发三足鼎立格局，电影《镖人》的系列话题是本周最活跃的娱乐营销事件。",
+    "平台内容属性差异显著：抖音以宏观、硬新闻为主，微博则以文娱、社会及生活化话题见长，用户关注点分流明确。"
+  ]
+}
