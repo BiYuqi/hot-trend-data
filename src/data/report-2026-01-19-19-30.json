@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现两极分化：微博平台由国际政治评论与民生奇闻主导，抖音平台则被宏观经济数据与航天成就占据。微博话题更迭迅速，抖音榜单头部稳定但经济相关话题热度显著上升。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "Crown张艺兴cut",
+      "from_rank": 34,
+      "to_rank": 16,
+      "reason": "排名跃升18位，从第34位进入前20，表明相关娱乐内容在短时间内获得了集中的用户关注和讨论。"
+    },
+    {
+      "keyword": "合肥下米雪了",
+      "from_rank": 18,
+      "to_rank": 5,
+      "reason": "排名跃升13位，从第18位进入前5，由区域性天气现象演变为全国性热议话题，讨论热度急剧攀升。"
+    },
+    {
+      "keyword": "多人往滇池抛洒放生矿泉水",
+      "from_rank": 30,
+      "to_rank": 17,
+      "reason": "排名跃升13位，从第30位进入前20，该争议性社会事件引发了公众对环保和科学放生的广泛讨论。"
+    },
+    {
+      "keyword": "白珊珊违规账号已被关闭并上报公安",
+      "from_rank": 46,
+      "to_rank": 34,
+      "reason": "排名跃升12位，从第46位升至第34位，平台官方处置结果的公布推动了事件后续热度的二次发酵。"
+    },
+    {
+      "keyword": "小红书明确反对制造对立",
+      "from_rank": 14,
+      "to_rank": 6,
+      "reason": "排名跃升8位，从第14位进入前10，平台官方声明回应了公众关切，强化了话题的公共属性。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "人民日报评美国斩杀线 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 2,
+      "keyword": "火锅店用鱼缸养鲨鱼供人观赏 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 3,
+      "keyword": "万千气象看龙江 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "天猫美食年货主理人寻味中国年 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 5,
+      "keyword": "合肥下米雪了 ↑",
+      "change": "up",
+      "change_value": 13
+    },
+    {
+      "rank": 6,
+      "keyword": "小红书明确反对制造对立 ↑",
+      "change": "up",
+      "change_value": 8
+    },
+    {
+      "rank": 7,
+      "keyword": "潮宏基吊坠一夜涨了1.9万 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 8,
+      "keyword": "颐和园感觉有一亿人 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 9,
+      "keyword": "时尚之夜红毯 ↓",
+      "change": "down",
+      "change_value": -4
+    },
+    {
+      "rank": 10,
+      "keyword": "终末地 ↓",
+      "change": "down",
+      "change_value": -2
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "神20成功着陆 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "2025年国民经济运行情况 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "2025年GDP增长5% →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "过年仪式感从腊月开始 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 5,
+      "keyword": "别辜负眼前季节 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 6,
+      "keyword": "白月光大衣冬日氛围感的神 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 7,
+      "keyword": "河南进入雨雪最强时段 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 8,
+      "keyword": "四个字概括2025年中国经济表现 ↑",
+      "change": "up",
+      "change_value": 10
+    },
+    {
+      "rank": 9,
+      "keyword": "去年城镇调查失业率平均值为5.2% →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "电影镖人定档春节 ↑",
+      "change": "up",
+      "change_value": 1
+    }
+  ],
+  "conclusion": [
+    "微博热点更迭快，社会民生与娱乐话题交替上升，国际政治评论首次登顶，显示平台舆论场的复合性。",
+    "抖音头部热点高度稳定，宏观经济数据与航天成就是绝对核心，经济类话题（如人均收入）排名显著跃升。",
+    "两平台内容属性差异明显：微博侧重观点交锋与社会事件，抖音侧重信息发布与氛围营造，用户参与动机不同。"
+  ]
+}
