@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现两极分化：微博平台由社会民生、娱乐话题主导，讨论分散且热度断层明显；抖音平台则聚焦国家成就、宏观经济与节庆氛围，内容集中且热度值普遍更高。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "万千气象看龙江",
+      "from_rank": 49,
+      "to_rank": 3,
+      "reason": "排名跃升46位，从榜单尾部直接进入前三，表明该话题在短时间内获得了极高的关注度，可能源于官方宣传或重大事件发布。"
+    },
+    {
+      "keyword": "iPhone18Pro宣传片曝光",
+      "from_rank": 31,
+      "to_rank": 11,
+      "reason": "排名上升20位，进入前20，反映了科技产品预告信息在微博平台具有快速引爆话题的能力。"
+    },
+    {
+      "keyword": "注意用脑卫生",
+      "from_rank": 47,
+      "to_rank": 35,
+      "reason": "排名上升12位，结合同期‘医生错开脑部’等医疗话题的热度，表明公众对脑健康及医疗安全的关注度显著提升。"
+    },
+    {
+      "keyword": "牢A",
+      "from_rank": 29,
+      "to_rank": 18,
+      "reason": "排名上升11位，与‘沈逸 牢A’、‘牢A回应’等关联词条形成话题矩阵，显示围绕特定网络梗的讨论正在持续发酵。"
+    },
+    {
+      "keyword": "包钢",
+      "from_rank": 30,
+      "to_rank": 22,
+      "reason": "排名上升8位，与抖音平台‘国务院挂牌督办包钢爆炸事故’的高热度形成跨平台呼应，表明重大安全事故引发全网关注。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "生命树",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "深圳封存20年垃圾山开挖",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "万千气象看龙江 ↑",
+      "change": "up",
+      "change_value": 46
+    },
+    {
+      "rank": 4,
+      "keyword": "沈逸回应糖霜苹果 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 5,
+      "keyword": "2026春节档 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 6,
+      "keyword": "糖霜苹果 ↑",
+      "change": "up",
+      "change_value": 7
+    },
+    {
+      "rank": 7,
+      "keyword": "潮宏基吊坠一夜涨了1.9万",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "体面人的体面一生 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 9,
+      "keyword": "何老师不小心口误华晨宇的反应 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 10,
+      "keyword": "新年美甲 ↓",
+      "change": "down",
+      "change_value": -3
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "神20成功着陆",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "2025年国民经济运行情况",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "2025年GDP增长5%",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "国务院挂牌督办包钢爆炸事故",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "过年仪式感从腊月开始",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "今天开启腊月第一天",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "白月光大衣冬日氛围感的神",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "别辜负眼前季节",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "河南进入雨雪最强时段 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 10,
+      "keyword": "投资铜条火了",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "微博热点分散且迭代快，社会事件、娱乐八卦与网络梗并存，话题生命周期短，竞争激烈。",
+    "抖音热点高度集中，国家大事、宏观经济数据与节庆主题占据绝对主导，内容同质化程度高，榜单头部稳定性强。",
+    "‘包钢事故’、‘镖人电影’等话题实现跨平台共振，显示重大社会事件与高期待值文化产品具备穿透圈层的影响力。"
+  ]
+}
