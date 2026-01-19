@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现娱乐与民生并重格局，微博平台娱乐话题占据主导，抖音平台则宏观经济与民生资讯热度更高，平台内容偏好差异显著。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "邓莎说如果没有孩子婚姻会更短",
+      "from_rank": 44,
+      "to_rank": 33,
+      "reason": "排名跃升11位，作为新上榜话题，其关于婚姻与家庭的争议性观点迅速引发讨论。"
+    },
+    {
+      "keyword": "贺峻霖力证不是AI",
+      "from_rank": 36,
+      "to_rank": 27,
+      "reason": "排名上升9位，艺人通过趣味方式回应AI换脸等网络技术争议，话题具备娱乐性和互动性。"
+    },
+    {
+      "keyword": "轧戏",
+      "from_rank": 39,
+      "to_rank": 30,
+      "reason": "排名上升9位，该行业术语与同期抖音热点‘轧戏孙哥’形成跨平台联动，推高了讨论热度。"
+    },
+    {
+      "keyword": "警方通报母亲赴柬埔寨救子",
+      "from_rank": 48,
+      "to_rank": 40,
+      "reason": "排名上升8位，涉及跨境电信诈骗与亲情救援的社会案件，具备强新闻性和情感冲击力。"
+    },
+    {
+      "keyword": "羽生结弦亲吻冰面的最后一吻",
+      "from_rank": 5,
+      "to_rank": 1,
+      "reason": "排名上升4位至榜首，体育明星的标志性退役动作引发广泛情感共鸣，热度断层领先。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "羽生结弦亲吻冰面的最后一吻 ↑",
+      "change": "up",
+      "change_value": 4
+    },
+    {
+      "rank": 2,
+      "keyword": "猫的树太会拍了 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 3,
+      "keyword": "中国GDP跨越140万亿元关口 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "郑钦文阿里千问全球代言人 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "蔡徐坤印尼节目 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 6,
+      "keyword": "人民日报评美国斩杀线 ↓",
+      "change": "down",
+      "change_value": -4
+    },
+    {
+      "rank": 7,
+      "keyword": "警方通报中山一货车碰撞多车 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 8,
+      "keyword": "东阿阿胶礼送到心坎里 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "老赖李亚鹏为何触动了网友 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "美国近7成流浪汉曾是中产 ↓",
+      "change": "down",
+      "change_value": -2
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "精选创作者不语只一味宠粉 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 2,
+      "keyword": "2025年国民经济运行情况 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "去年中国经济贡献了世界30%的增长 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "别辜负眼前季节 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 5,
+      "keyword": "白月光大衣冬日氛围感的神 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 6,
+      "keyword": "云南昭通5.1级地震 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "货车碰撞多辆汽车 中山警方通报 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "2025年GDP增长5% ↓",
+      "change": "down",
+      "change_value": -7
+    },
+    {
+      "rank": 9,
+      "keyword": "西班牙列车脱轨相撞已致39死 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "坐上公交出趟国 →",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "微博热点以娱乐明星、社会话题为主，情感共鸣和争议性内容是驱动排名的核心因素。",
+    "抖音热点呈现宏观经济、社会民生、影视宣发与生活美学多元并立的结构，平台工具属性更强。",
+    "‘轧戏’、‘李亚鹏’等话题在双平台均有热度，显示出特定社会议题或娱乐事件的跨平台穿透力。"
+  ]
+}
