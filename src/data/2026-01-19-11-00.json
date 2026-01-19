@@ -1,0 +1,607 @@
+{
+  "timestamp": "2026-01-19 11:00:00",
+  "weibo": [
+    {
+      "platform": "weibo",
+      "keyword": "镖人",
+      "rank": 1,
+      "hot": 1152717
+    },
+    {
+      "platform": "weibo",
+      "keyword": "2025年GDP增长5%",
+      "rank": 2,
+      "hot": 830193
+    },
+    {
+      "platform": "weibo",
+      "keyword": "神21乘组太空Vlog上新",
+      "rank": 3,
+      "hot": 647215
+    },
+    {
+      "platform": "weibo",
+      "keyword": "马伊琍代言伊利",
+      "rank": 4,
+      "hot": 625801
+    },
+    {
+      "platform": "weibo",
+      "keyword": "B站百大UP主",
+      "rank": 5,
+      "hot": 573373
+    },
+    {
+      "platform": "weibo",
+      "keyword": "镖人预告片公布",
+      "rank": 6,
+      "hot": 386027
+    },
+    {
+      "platform": "weibo",
+      "keyword": "吃海鲜吃到痛风的猴子",
+      "rank": 7,
+      "hot": 303163
+    },
+    {
+      "platform": "weibo",
+      "keyword": "金价波动",
+      "rank": 8,
+      "hot": 255412
+    },
+    {
+      "platform": "weibo",
+      "keyword": "GDP",
+      "rank": 9,
+      "hot": 216953
+    },
+    {
+      "platform": "weibo",
+      "keyword": "刘耀文镖人预告",
+      "rank": 10,
+      "hot": 204995
+    },
+    {
+      "platform": "weibo",
+      "keyword": "中国GDP跨越140万亿元关口",
+      "rank": 11,
+      "hot": 193324
+    },
+    {
+      "platform": "weibo",
+      "keyword": "嫣然医院周边居民发声",
+      "rank": 12,
+      "hot": 193133
+    },
+    {
+      "platform": "weibo",
+      "keyword": "赵今麦整个北京最严厉的妈咪",
+      "rank": 13,
+      "hot": 192788
+    },
+    {
+      "platform": "weibo",
+      "keyword": "李国庆称给嫣然儿童医院捐100万",
+      "rank": 14,
+      "hot": 192425
+    },
+    {
+      "platform": "weibo",
+      "keyword": "我的做法是很爱你但不在乎你",
+      "rank": 15,
+      "hot": 192082
+    },
+    {
+      "platform": "weibo",
+      "keyword": "陈丽君李云霄合作镖人",
+      "rank": 16,
+      "hot": 191958
+    },
+    {
+      "platform": "weibo",
+      "keyword": "坐上这趟列车感觉能直达工位",
+      "rank": 17,
+      "hot": 191456
+    },
+    {
+      "platform": "weibo",
+      "keyword": "嫣然儿童医院回应企业无偿提供场地",
+      "rank": 18,
+      "hot": 191282
+    },
+    {
+      "platform": "weibo",
+      "keyword": "2025全国居民人均可支配收入增长5%",
+      "rank": 19,
+      "hot": 190991
+    },
+    {
+      "platform": "weibo",
+      "keyword": "对内蒙古爆炸事故严肃追责",
+      "rank": 20,
+      "hot": 190832
+    },
+    {
+      "platform": "weibo",
+      "keyword": "封关1个月海南离岛免税购物48.6亿元",
+      "rank": 21,
+      "hot": 190137
+    },
+    {
+      "platform": "weibo",
+      "keyword": "金价",
+      "rank": 22,
+      "hot": 189931
+    },
+    {
+      "platform": "weibo",
+      "keyword": "迪丽热巴超短发造型路透",
+      "rank": 23,
+      "hot": 188584
+    },
+    {
+      "platform": "weibo",
+      "keyword": "宋威龙在庆功宴上哭了",
+      "rank": 24,
+      "hot": 187437
+    },
+    {
+      "platform": "weibo",
+      "keyword": "神20返回任务圆满成功",
+      "rank": 25,
+      "hot": 187368
+    },
+    {
+      "platform": "weibo",
+      "keyword": "梁小龙本想隐瞒死讯",
+      "rank": 26,
+      "hot": 186911
+    },
+    {
+      "platform": "weibo",
+      "keyword": "孙怡董子健相爱过的证据",
+      "rank": 27,
+      "hot": 184296
+    },
+    {
+      "platform": "weibo",
+      "keyword": "天府红打人",
+      "rank": 28,
+      "hot": 180993
+    },
+    {
+      "platform": "weibo",
+      "keyword": "电影镖人定档春节",
+      "rank": 29,
+      "hot": 179716
+    },
+    {
+      "platform": "weibo",
+      "keyword": "小范闲韩昊霖长这么大了",
+      "rank": 30,
+      "hot": 176616
+    },
+    {
+      "platform": "weibo",
+      "keyword": "去年全国人均可支配收入43377元",
+      "rank": 31,
+      "hot": 147840
+    },
+    {
+      "platform": "weibo",
+      "keyword": "为什么袜子洗完总是会变硬",
+      "rank": 32,
+      "hot": 142458
+    },
+    {
+      "platform": "weibo",
+      "keyword": "张碧晨 庆功宴",
+      "rank": 33,
+      "hot": 139046
+    },
+    {
+      "platform": "weibo",
+      "keyword": "董子健回复孙怡",
+      "rank": 34,
+      "hot": 133804
+    },
+    {
+      "platform": "weibo",
+      "keyword": "2025国民经济运行情况",
+      "rank": 35,
+      "hot": 127283
+    },
+    {
+      "platform": "weibo",
+      "keyword": "上海外滩女子占道直播跳舞引公愤",
+      "rank": 36,
+      "hot": 121246
+    },
+    {
+      "platform": "weibo",
+      "keyword": "江湖是英文无法翻译的词",
+      "rank": 37,
+      "hot": 111330
+    },
+    {
+      "platform": "weibo",
+      "keyword": "惊蛰无声",
+      "rank": 38,
+      "hot": 110599
+    },
+    {
+      "platform": "weibo",
+      "keyword": "神20飞船返回舱外观总体正常",
+      "rank": 39,
+      "hot": 107310
+    },
+    {
+      "platform": "weibo",
+      "keyword": "金银大涨后铜条悄悄火了",
+      "rank": 40,
+      "hot": 105852
+    },
+    {
+      "platform": "weibo",
+      "keyword": "糖尿病前期发出的身体信号",
+      "rank": 41,
+      "hot": 103737
+    },
+    {
+      "platform": "weibo",
+      "keyword": "杜兰特升至历史得分榜第6位",
+      "rank": 42,
+      "hot": 102392
+    },
+    {
+      "platform": "weibo",
+      "keyword": "贾玲G社生图",
+      "rank": 43,
+      "hot": 100105
+    },
+    {
+      "platform": "weibo",
+      "keyword": "A股行情",
+      "rank": 44,
+      "hot": 95137
+    },
+    {
+      "platform": "weibo",
+      "keyword": "深圳人请准备好羽绒服",
+      "rank": 45,
+      "hot": 89381
+    },
+    {
+      "platform": "weibo",
+      "keyword": "A股",
+      "rank": 46,
+      "hot": 87947
+    },
+    {
+      "platform": "weibo",
+      "keyword": "九重天",
+      "rank": 47,
+      "hot": 87793
+    },
+    {
+      "platform": "weibo",
+      "keyword": "禁止衣冠不整入内规定已存在多年",
+      "rank": 48,
+      "hot": 86192
+    },
+    {
+      "platform": "weibo",
+      "keyword": "34岁女星患子宫肌腺瘤切除子宫",
+      "rank": 49,
+      "hot": 85496
+    },
+    {
+      "platform": "weibo",
+      "keyword": "赵今麦张碧晨同框",
+      "rank": 50,
+      "hot": 83921
+    },
+    {
+      "platform": "weibo",
+      "keyword": "今天有暴雪黄色预警",
+      "rank": 51,
+      "hot": 80778
+    }
+  ],
+  "douyin": [
+    {
+      "platform": "douyin",
+      "keyword": "2025年GDP增长5%",
+      "rank": 1,
+      "hot": 12099896
+    },
+    {
+      "platform": "douyin",
+      "keyword": "误购火车票可限时免费退票",
+      "rank": 2,
+      "hot": 11371386
+    },
+    {
+      "platform": "douyin",
+      "keyword": "神20成功着陆",
+      "rank": 3,
+      "hot": 11282447
+    },
+    {
+      "platform": "douyin",
+      "keyword": "2026春运火车票开售了",
+      "rank": 4,
+      "hot": 10664082
+    },
+    {
+      "platform": "douyin",
+      "keyword": "去年人均可支配收入43377元",
+      "rank": 5,
+      "hot": 10551159
+    },
+    {
+      "platform": "douyin",
+      "keyword": "内蒙古包钢爆炸致2死8失联84伤",
+      "rank": 6,
+      "hot": 9196569
+    },
+    {
+      "platform": "douyin",
+      "keyword": "今天开启腊月第一天",
+      "rank": 7,
+      "hot": 9192822
+    },
+    {
+      "platform": "douyin",
+      "keyword": "美媒声称目前还没有六代机",
+      "rank": 8,
+      "hot": 9175356
+    },
+    {
+      "platform": "douyin",
+      "keyword": "去年城镇调查失业率平均值为5.2%",
+      "rank": 9,
+      "hot": 9066093
+    },
+    {
+      "platform": "douyin",
+      "keyword": "南宁辟谣大明山溪水变色被污染",
+      "rank": 10,
+      "hot": 8853383
+    },
+    {
+      "platform": "douyin",
+      "keyword": "内蒙古爆炸企业责任人被采取措施",
+      "rank": 11,
+      "hot": 8023537
+    },
+    {
+      "platform": "douyin",
+      "keyword": "经纪人透露梁小龙去世细节",
+      "rank": 12,
+      "hot": 7778680
+    },
+    {
+      "platform": "douyin",
+      "keyword": "电影镖人定档春节",
+      "rank": 13,
+      "hot": 7773017
+    },
+    {
+      "platform": "douyin",
+      "keyword": "济南下“暴雨梨花针”了",
+      "rank": 14,
+      "hot": 7772664
+    },
+    {
+      "platform": "douyin",
+      "keyword": "刀我别用安德烈",
+      "rank": 15,
+      "hot": 7768601
+    },
+    {
+      "platform": "douyin",
+      "keyword": "晒晒北京的雪天日常",
+      "rank": 16,
+      "hot": 7755521
+    },
+    {
+      "platform": "douyin",
+      "keyword": "鄱阳湖鸟类之殇",
+      "rank": 17,
+      "hot": 7744350
+    },
+    {
+      "platform": "douyin",
+      "keyword": "周星驰三度邀请梁小龙演火云邪神",
+      "rank": 18,
+      "hot": 7729910
+    },
+    {
+      "platform": "douyin",
+      "keyword": "大红行动选秀之夜",
+      "rank": 19,
+      "hot": 7727903
+    },
+    {
+      "platform": "douyin",
+      "keyword": "贺希宁微笑刺客",
+      "rank": 20,
+      "hot": 7725835
+    },
+    {
+      "platform": "douyin",
+      "keyword": "小洛熙案今日开庭",
+      "rank": 21,
+      "hot": 7723145
+    },
+    {
+      "platform": "douyin",
+      "keyword": "宋亚轩找鼠标拍抖音也得求",
+      "rank": 22,
+      "hot": 7716866
+    },
+    {
+      "platform": "douyin",
+      "keyword": "冷链运输南方小土豆",
+      "rank": 23,
+      "hot": 7710265
+    },
+    {
+      "platform": "douyin",
+      "keyword": "“火云邪神”梁小龙去世",
+      "rank": 24,
+      "hot": 7708483
+    },
+    {
+      "platform": "douyin",
+      "keyword": "裴轸的人物底色决定结局",
+      "rank": 25,
+      "hot": 7705012
+    },
+    {
+      "platform": "douyin",
+      "keyword": "欧洲八国联合声明",
+      "rank": 26,
+      "hot": 7702394
+    },
+    {
+      "platform": "douyin",
+      "keyword": "晒出我镜头下的雪景",
+      "rank": 27,
+      "hot": 7700427
+    },
+    {
+      "platform": "douyin",
+      "keyword": "王浩宇泪洒大红行动选秀之夜",
+      "rank": 28,
+      "hot": 7698926
+    },
+    {
+      "platform": "douyin",
+      "keyword": "张乙萌祝福陈雪凝新婚",
+      "rank": 29,
+      "hot": 7693596
+    },
+    {
+      "platform": "douyin",
+      "keyword": "成龙发文悼念梁小龙",
+      "rank": 30,
+      "hot": 7691876
+    },
+    {
+      "platform": "douyin",
+      "keyword": "张凌赫复刻卡皮巴拉表情包",
+      "rank": 31,
+      "hot": 7691803
+    },
+    {
+      "platform": "douyin",
+      "keyword": "鲍小光拿到小尼小撒亲签",
+      "rank": 32,
+      "hot": 7690563
+    },
+    {
+      "platform": "douyin",
+      "keyword": "张艺兴大花轿reaction",
+      "rank": 33,
+      "hot": 7685893
+    },
+    {
+      "platform": "douyin",
+      "keyword": "我只眼神给出去全民飙演技",
+      "rank": 34,
+      "hot": 7685647
+    },
+    {
+      "platform": "douyin",
+      "keyword": "美军空袭叙利亚",
+      "rank": 35,
+      "hot": 7683949
+    },
+    {
+      "platform": "douyin",
+      "keyword": "找一张18岁的照片来配这首歌",
+      "rank": 36,
+      "hot": 7682991
+    },
+    {
+      "platform": "douyin",
+      "keyword": "王鹤棣赵露思火力全开",
+      "rank": 37,
+      "hot": 7674091
+    },
+    {
+      "platform": "douyin",
+      "keyword": "宋威龙赶上了北京的雪",
+      "rank": 38,
+      "hot": 7671429
+    },
+    {
+      "platform": "douyin",
+      "keyword": "我笔下的格林",
+      "rank": 39,
+      "hot": 7671335
+    },
+    {
+      "platform": "douyin",
+      "keyword": "小城大事孙小燕林冬福正缘具像化",
+      "rank": 40,
+      "hot": 7670256
+    },
+    {
+      "platform": "douyin",
+      "keyword": "重返狼群隐藏篇上线",
+      "rank": 41,
+      "hot": 7665703
+    },
+    {
+      "platform": "douyin",
+      "keyword": "四川盆地 要下雪谈何容易",
+      "rank": 42,
+      "hot": 7661909
+    },
+    {
+      "platform": "douyin",
+      "keyword": "爱站岗的土拨鼠富贵",
+      "rank": 43,
+      "hot": 7661383
+    },
+    {
+      "platform": "douyin",
+      "keyword": "玉茗茶骨亲情线好刀人",
+      "rank": 44,
+      "hot": 7661040
+    },
+    {
+      "platform": "douyin",
+      "keyword": "EXO回归主打曲预告",
+      "rank": 45,
+      "hot": 7653396
+    },
+    {
+      "platform": "douyin",
+      "keyword": "小城大事灾难后的人间真情",
+      "rank": 46,
+      "hot": 7653338
+    },
+    {
+      "platform": "douyin",
+      "keyword": "余宇涵认证冷脸萌",
+      "rank": 47,
+      "hot": 7651212
+    },
+    {
+      "platform": "douyin",
+      "keyword": "新的一年你行的",
+      "rank": 48,
+      "hot": 7647320
+    },
+    {
+      "platform": "douyin",
+      "keyword": "重返狼群哭完你的哭你的",
+      "rank": 49,
+      "hot": 7645462
+    }
+  ]
+}
