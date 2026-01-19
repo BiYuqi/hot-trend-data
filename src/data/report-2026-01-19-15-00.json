@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现宏观议题主导抖音、文娱与社会话题分流微博的格局。抖音榜单前六均为国家经济数据、航天成就与重大事故等硬新闻，微博则由影视IP、社会民生与明星动态构成，平台内容偏好差异显著。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "我1米9让我来",
+      "from_rank": 49,
+      "to_rank": 29,
+      "reason": "排名跃升20位，作为新上榜词条，其内容因涉及身高与特定场景的互动，迅速引发用户共鸣与模仿，形成病毒式传播。"
+    },
+    {
+      "keyword": "董思成镖人造型",
+      "from_rank": 45,
+      "to_rank": 26,
+      "reason": "排名跃升19位，作为‘镖人’IP的衍生话题，借助主演造型的视觉冲击力和粉丝效应，热度迅速攀升。"
+    },
+    {
+      "keyword": "玉茗茶骨",
+      "from_rank": 50,
+      "to_rank": 35,
+      "reason": "排名跃升15位，该词条同时在抖音因‘亲情线好刀人’上榜，表明其剧情内容在双平台均引发了强烈的情感共鸣。"
+    },
+    {
+      "keyword": "3部电影定档2026春节档",
+      "from_rank": 19,
+      "to_rank": 10,
+      "reason": "排名跃升9位，进入微博前十，作为春节档的早期定档信息，直接触发了市场与影迷对未来观影选择的前瞻性讨论。"
+    },
+    {
+      "keyword": "吃了30年猪肉第一次认识猪肉",
+      "from_rank": 43,
+      "to_rank": 34,
+      "reason": "排名跃升9位，其标题以强烈的认知反差和生活化视角切入，迅速成为社交媒体上的热门科普与自嘲话题。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "生命树",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "B站百大UP主",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "中央气象台三预警齐发",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "男子右脑出血被医生错开左脑 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 5,
+      "keyword": "美国男子收集雨水被判处30天监禁 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 6,
+      "keyword": "我最喜欢的全场景布局出现了",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "苏醒告别快乐老友记 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 8,
+      "keyword": "安徽下霰了 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 9,
+      "keyword": "骂人也违法了最高可判三年 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 10,
+      "keyword": "3部电影定档2026春节档 ↑",
+      "change": "up",
+      "change_value": 9
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "2025年GDP增长5%",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "2025年国民经济运行情况",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "今年首场寒潮来袭有何特点",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "神20成功着陆",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "国务院挂牌督办包钢爆炸事故",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "去年人均可支配收入43377元",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "今天开启腊月第一天",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "河南进入雨雪最强时段",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "四个字概括2025年中国经济表现",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "去年城镇调查失业率平均值为5.2% ↓",
+      "change": "down",
+      "change_value": -2
+    }
+  ],
+  "conclusion": [
+    "抖音平台热点高度集中于宏观经济数据、航天成就与重大公共事件，显示出用户对国家发展与社会民生的强烈关注。",
+    "微博热点呈现多元化，以‘镖人’为核心的影视IP矩阵、社会民生事件及明星动态共同构成讨论主体，平台娱乐与社交属性更强。",
+    "‘镖人’IP（电影、演员、造型）在微博形成话题集群效应，并成功向抖音渗透，成为跨平台传播的文娱热点核心。"
+  ]
+}
