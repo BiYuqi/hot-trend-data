@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现宏观议题主导、平台内容分化的特征。微博由国际政治、社会民生与娱乐话题构成，抖音则聚焦年度经济数据与重大事件，平台间内容偏好差异显著。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "周杰伦昆凌 生理性喜欢",
+      "from_rank": 26,
+      "to_rank": 11,
+      "reason": "排名跃升15位，从榜单中后部进入前十边缘，明星私生活话题引发集中讨论，热度快速攀升。"
+    },
+    {
+      "keyword": "放心大胆的断联吧",
+      "from_rank": 46,
+      "to_rank": 39,
+      "reason": "排名上升7位，从榜单尾部进入中段，情感类话题引发用户共鸣，讨论度迅速增加。"
+    },
+    {
+      "keyword": "轧戏",
+      "from_rank": 6,
+      "to_rank": 2,
+      "reason": "排名上升4位，从第六升至第二，作为热门剧集或行业现象，其讨论热度持续发酵并达到峰值。"
+    },
+    {
+      "keyword": "何与状态",
+      "from_rank": 24,
+      "to_rank": 20,
+      "reason": "排名上升4位，艺人状态话题在娱乐板块内获得关注，热度小幅提升。"
+    },
+    {
+      "keyword": "火锅店用鱼缸养鲨鱼供人观赏",
+      "from_rank": 7,
+      "to_rank": 6,
+      "reason": "排名上升1位，社会奇闻类话题维持高热度，关注度稳定微升。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "人民日报评美国斩杀线",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "轧戏",
+      "change": "up",
+      "change_value": 4
+    },
+    {
+      "rank": 3,
+      "keyword": "神20带回一套战功赫赫的飞天战袍",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "陈光标喊话李亚鹏提供银行卡号",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "下雪",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "火锅店用鱼缸养鲨鱼供人观赏",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 7,
+      "keyword": "春节放假35天的公司利润一半给员工",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "云南地震",
+      "change": "down",
+      "change_value": -6
+    },
+    {
+      "rank": 9,
+      "keyword": "德约科维奇澳网第100胜",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "神20舷窗裂纹维修细节披露",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "2025年GDP增长5%",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 2,
+      "keyword": "2025年国民经济运行情况",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "去年中国经济贡献了世界30%的增长",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "CBA四川金强76:104广东宏远",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "别辜负眼前季节",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 6,
+      "keyword": "云南昭通5.1级地震",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 7,
+      "keyword": "白月光大衣冬日氛围感的神",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "西班牙列车脱轨相撞已致39死",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "河南进入雨雪最强时段",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "U23亚洲杯半决赛前瞻",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "微博平台热点结构多元，国际政治（美国斩杀线）、社会民生（轧戏、下雪）与娱乐话题（周杰伦昆凌）形成三足鼎立格局。",
+    "抖音平台热点高度集中，前四名均为宏观经济数据与重大体育赛事，显示其用户对宏观议题和即时重大事件的高度关注。",
+    "跨平台联动现象出现，剧集‘轧戏’在微博热度登顶的同时，其衍生内容‘轧戏孙哥和胡羞拍上抖音视频了’在抖音排名快速上升11位。"
+  ]
+}
