@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现宏观议题与春节临近主题并行的格局。微博平台社会民生与娱乐话题交织，抖音平台则由国家成就、经济数据和节庆氛围主导，平台内容偏好差异显著。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "2026春节档",
+      "from_rank": 43,
+      "to_rank": 6,
+      "reason": "排名跃升37位，从榜单外直接进入前十，表明春节档电影宣发进入密集期，引发广泛关注。"
+    },
+    {
+      "keyword": "体面人的体面一生",
+      "from_rank": 17,
+      "to_rank": 9,
+      "reason": "排名上升8位进入前十，该话题具有社会讨论价值，热度持续发酵。"
+    },
+    {
+      "keyword": "沈逸回应糖霜苹果",
+      "from_rank": 8,
+      "to_rank": 5,
+      "reason": "排名上升3位至第5，作为对‘糖霜苹果’事件的直接回应，关联话题的讨论推动了热度上升。"
+    },
+    {
+      "keyword": "深圳封存20年垃圾山开挖",
+      "from_rank": 4,
+      "to_rank": 2,
+      "reason": "排名上升2位至第2，该环保议题具有长期性和冲击性，持续吸引公众注意力。"
+    },
+    {
+      "keyword": "牢A回应",
+      "from_rank": 35,
+      "to_rank": 33,
+      "reason": "排名上升2位，作为‘沈逸 牢A’话题的后续，相关讨论仍在延续。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "生命树 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 2,
+      "keyword": "深圳封存20年垃圾山开挖 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 3,
+      "keyword": "2025年GDP增长5% →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "天猫美食年货主理人寻味中国年 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "沈逸回应糖霜苹果 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 6,
+      "keyword": "2026春节档 ↑",
+      "change": "up",
+      "change_value": 37
+    },
+    {
+      "rank": 7,
+      "keyword": "新年美甲 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 8,
+      "keyword": "今日辟谣 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "体面人的体面一生 ↑",
+      "change": "up",
+      "change_value": 8
+    },
+    {
+      "rank": 10,
+      "keyword": "男子右脑出血被医生错开左脑 ↓",
+      "change": "down",
+      "change_value": -5
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "神20成功着陆 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "2025年国民经济运行情况 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "2025年GDP增长5% ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 4,
+      "keyword": "国务院挂牌督办包钢爆炸事故 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 5,
+      "keyword": "过年仪式感从腊月开始 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 6,
+      "keyword": "今天开启腊月第一天 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 7,
+      "keyword": "河南进入雨雪最强时段 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 8,
+      "keyword": "去年人均可支配收入43377元 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 9,
+      "keyword": "去年城镇调查失业率平均值为5.2% ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 10,
+      "keyword": "四个字概括2025年中国经济表现 ↑",
+      "change": "up",
+      "change_value": 1
+    }
+  ],
+  "conclusion": [
+    "微博热点结构分散，社会事件、娱乐八卦与春节预热话题并存，前十名变动剧烈，新上榜及跃升话题多。",
+    "抖音热点高度集中，前九名均为国家成就、宏观经济及节庆天气等硬核或仪式感内容，榜单头部稳定，内部仅微幅轮动。",
+    "‘2026春节档’在微博的爆发式上升与抖音‘镖人’电影相关话题的热度，共同标志着文娱消费市场进入春节前的关键预热阶段。"
+  ]
+}
