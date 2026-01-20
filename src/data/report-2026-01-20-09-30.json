@@ -1,0 +1,168 @@
+```json
+{
+  "summary": {
+    "text": "本周期热点呈现明显的季节性特征与平台分化。微博平台由全国性降雪天气主导，抖音平台则更聚焦于节气、经济议题与电影宣发。社会民生与娱乐话题在双平台均占据显著位置，但抖音的宏观叙事倾向更强。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "用芥末泡虾虾线都快吐出来了",
+      "from_rank": 33,
+      "to_rank": 6,
+      "reason": "排名跃升27位，从腰部话题直接进入前十，其猎奇的生活技巧内容引发了广泛的模仿与讨论。"
+    },
+    {
+      "keyword": "我只眼神给出去全民飙演技",
+      "from_rank": 41,
+      "to_rank": 23,
+      "reason": "排名跃升18位，作为抖音热门挑战或话题，其互动性强的特点驱动了用户大量参与和内容生产。"
+    },
+    {
+      "keyword": "相声表演艺术家杨振华去世",
+      "from_rank": 27,
+      "to_rank": 20,
+      "reason": "排名跃升7位，名人逝世消息在微博平台引发公众缅怀，热度迅速攀升。"
+    },
+    {
+      "keyword": "泡沫转场让心跳漏了一拍",
+      "from_rank": 21,
+      "to_rank": 17,
+      "reason": "排名跃升4位，作为抖音流行的视觉特效模板，其易用性和高传播性推动了话题热度。"
+    },
+    {
+      "keyword": "外交部：布局中国就是赢得先机",
+      "from_rank": 12,
+      "to_rank": 9,
+      "reason": "排名跃升3位并进入抖音前十，官方表态契合经济信心主题，在平台获得重点推送和用户共鸣。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "上海下雪",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "杭州下雪",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "卫星互联网低轨19组卫星发射成功",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "送礼送蒙牛要强接彩头",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "华伦天奴去世",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "用芥末泡虾虾线都快吐出来了 ↑",
+      "change": "up",
+      "change_value": 27
+    },
+    {
+      "rank": 7,
+      "keyword": "原来真的有AB货啊",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "林更新的缘分续上了",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "大寒",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "南京下雪 ↓",
+      "change": "down",
+      "change_value": -4
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "大寒是24节气的最后一个节气 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 2,
+      "keyword": "坐上公交出趟国 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 3,
+      "keyword": "去年中国经济贡献了世界30%的增长",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "第一批雪人已经卷起来了",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "精选创作者不语只一味宠粉 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 6,
+      "keyword": "冬季坠入冰窟如何自救 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 7,
+      "keyword": "U23亚洲杯半决赛前瞻 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 8,
+      "keyword": "美财长教科书式演绎颠倒黑白 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 9,
+      "keyword": "外交部：布局中国就是赢得先机 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 10,
+      "keyword": "传奇设计师瓦伦蒂诺去世",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "气象话题成为绝对主导，微博热搜前十中‘下雪’相关词条占据四席，反映全国性寒潮天气是本周核心公共事件。",
+    "平台内容偏好差异显著：微博以生活猎奇、明星动态和社会事件为主；抖音则突出节气文化、宏观经济和正能量宣导。",
+    "电影《镖人》在抖音通过多维度话题（演员、定档、看点）进行集中宣发，形成矩阵式传播效应，是娱乐营销的典型案例。"
+  ]
+}
+```
