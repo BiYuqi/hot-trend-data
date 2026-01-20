@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现“微博娱乐化、抖音时政化”的显著分野。微博榜单由社会奇闻、明星动态和游戏话题主导，抖音则聚焦重大时政、节气文化和雪景内容，平台内容偏好差异加剧。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "你以为的双胞胎vs实际上的双胞胎",
+      "from_rank": 34,
+      "to_rank": 7,
+      "reason": "排名跃升27位，作为新上榜话题，其强烈的反差感和生活化趣味性迅速引发用户共鸣与模仿，热度飙升。"
+    },
+    {
+      "keyword": "长生FMVP皮肤即将上线",
+      "from_rank": 17,
+      "to_rank": 5,
+      "reason": "排名跃升12位，作为游戏《王者荣耀》的重大更新节点，直接触达庞大玩家群体，形成集中讨论。"
+    },
+    {
+      "keyword": "下了雪的紫金山美若仙境",
+      "from_rank": 34,
+      "to_rank": 28,
+      "reason": "排名跃升6位，契合全国多地降雪背景，以地域性雪景美图/视频内容，在抖音平台获得高传播效率。"
+    },
+    {
+      "keyword": "用这首病态的爱发什么都很配",
+      "from_rank": 41,
+      "to_rank": 35,
+      "reason": "排名跃升6位，作为抖音平台内的音乐/变装挑战类话题，具备强参与性和模板化传播特性，推动热度快速上升。"
+    },
+    {
+      "keyword": "娜娜米手势舞挑战",
+      "from_rank": 21,
+      "to_rank": 16,
+      "reason": "排名跃升5位，作为抖音平台标志性的手势舞挑战，其简单易学、互动性强的特点驱动用户广泛参与和二次创作。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "中国乒协确认国家队教练员名单",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "女子洗澡忘关水阀将小区变溜冰场",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "中国载人航天首次应急行动",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "天猫年货精选周开卖",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "长生FMVP皮肤即将上线 ↑",
+      "change": "up",
+      "change_value": 12
+    },
+    {
+      "rank": 6,
+      "keyword": "香港发生离奇夺命车祸",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "你以为的双胞胎vs实际上的双胞胎 ↑",
+      "change": "up",
+      "change_value": 27
+    },
+    {
+      "rank": 8,
+      "keyword": "林更新的缘分续上了",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "父亲去世留30万贷款女儿被判不用还",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "人类对牛奶的开发不足1% ↓",
+      "change": "down",
+      "change_value": -3
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "许金花被执行死刑 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 2,
+      "keyword": "中方代表：日本从没真正认罪悔过",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "三大引擎点亮2025中国经济",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "大寒是24节气的最后一个节气 ↑",
+      "change": "up",
+      "change_value": 4
+    },
+    {
+      "rank": 5,
+      "keyword": "中方收到美方加入和平委员会邀请 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 6,
+      "keyword": "著名相声表演艺术家杨振华逝世 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 7,
+      "keyword": "长沙2026第一场雪 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 8,
+      "keyword": "冯德莱恩：格陵兰岛主权不容谈判",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "第一批雪人已经卷起来了 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 10,
+      "keyword": "年末高光穿搭大赏",
+      "change": "up",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "微博平台热点更迭快，社会奇闻、明星八卦和游戏话题是驱动热度的核心，新上榜内容占比高，用户注意力分散。",
+    "抖音平台热点集中度高，重大时政、节气文化和地域性雪景内容占据主导，内容更偏向宏观叙事和视觉化呈现。",
+    "平台内容生态差异固化：微博侧重个体叙事与娱乐消费，抖音侧重集体情绪与宏观议题，用户行为模式决定热点分野。"
+  ]
+}
