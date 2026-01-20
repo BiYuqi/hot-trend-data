@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点高度集中于U23国足赛事，该事件在微博和抖音平台均占据绝对主导地位，形成跨平台传播效应。微博榜单呈现体育、社会、娱乐多元分布，抖音则更侧重赛事进程与宏观经济。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "欧盟决定永久冻结俄罗斯资产",
+      "from_rank": 46,
+      "to_rank": 26,
+      "reason": "排名跃升20位，进入榜单前30，表明重大国际政治事件在抖音平台获得快速传播和关注。"
+    },
+    {
+      "keyword": "中方要求阿富汗尽快惩治凶手",
+      "from_rank": 39,
+      "to_rank": 25,
+      "reason": "排名跃升14位，进入榜单前30，反映涉及中国公民安全的国际事件关注度迅速提升。"
+    },
+    {
+      "keyword": "中国足球队回应U23进决赛",
+      "from_rank": 23,
+      "to_rank": 10,
+      "reason": "排名跃升13位，进入微博TOP10，是U23国足晋级决赛后官方回应的直接结果。"
+    },
+    {
+      "keyword": "u23国足冲击亚洲杯决赛",
+      "from_rank": 45,
+      "to_rank": 35,
+      "reason": "排名跃升10位，是U23国足赛事热度持续发酵，相关话题讨论范围扩大的体现。"
+    },
+    {
+      "keyword": "U23国足决赛将对阵日本",
+      "from_rank": 17,
+      "to_rank": 8,
+      "reason": "排名跃升9位，进入微博TOP10，源于半决赛结果明确，决赛对阵话题热度激增。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23国足3比0越南U23",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "U23国足计划有变准备争冠",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "还有不到30天过年",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "大量外国网友自称精神中国人 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 5,
+      "keyword": "u23 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 6,
+      "keyword": "儿子怒斥癌症妈妈碰瓷为何让人共情",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "官方辟谣阿克苏市限制用水",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "U23国足决赛将对阵日本 ↑",
+      "change": "up",
+      "change_value": 9
+    },
+    {
+      "rank": 9,
+      "keyword": "轧戏大结局 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 10,
+      "keyword": "中国足球队回应U23进决赛 ↑",
+      "change": "up",
+      "change_value": 13
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23国足3:0越南挺进决赛",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "U23男足：计划有变决赛见",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "数读2025年中国经济成绩单",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "国足U23下半场5分钟进两球",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "马年非遗祈福百景图",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "彭啸头球破门",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "年末高光穿搭大赏",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "U23国足将同日本队争冠",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "跟着各地年货回家寻年味",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "许金花被执行死刑",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "U23国足晋级决赛是绝对核心热点，驱动微博、抖音双平台大量相关话题上榜，形成现象级传播。",
+    "抖音平台对国际政治、宏观经济类话题（如欧盟冻结俄资产、中国经济成绩单）的承载和传播力强于微博。",
+    "微博热点结构更分散，涵盖体育、社会民生、娱乐八卦，而抖音TOP10榜单更稳定，头部话题更迭缓慢。"
+  ]
+}
