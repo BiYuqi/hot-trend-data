@@ -1,0 +1,613 @@
+{
+  "timestamp": "2026-01-20 21:00:00",
+  "weibo": [
+    {
+      "platform": "weibo",
+      "keyword": "轧戏大结局",
+      "rank": 1,
+      "hot": 1112594
+    },
+    {
+      "platform": "weibo",
+      "keyword": "中国乒协确认国家队教练员名单",
+      "rank": 2,
+      "hot": 809765
+    },
+    {
+      "platform": "weibo",
+      "keyword": "还有不到30天过年",
+      "rank": 3,
+      "hot": 632967
+    },
+    {
+      "platform": "weibo",
+      "keyword": "时代少年团美宝莲官宣",
+      "rank": 4,
+      "hot": 606291
+    },
+    {
+      "platform": "weibo",
+      "keyword": "李亚鹏谈4000万欠款的真实原因",
+      "rank": 5,
+      "hot": 554508
+    },
+    {
+      "platform": "weibo",
+      "keyword": "人类对牛奶的开发不足1%",
+      "rank": 6,
+      "hot": 329385
+    },
+    {
+      "platform": "weibo",
+      "keyword": "腾讯力挺陈星旭",
+      "rank": 7,
+      "hot": 312085
+    },
+    {
+      "platform": "weibo",
+      "keyword": "东阿阿胶礼送到心坎里",
+      "rank": 8,
+      "hot": 307808
+    },
+    {
+      "platform": "weibo",
+      "keyword": "你以为的双胞胎vs实际上的双胞胎",
+      "rank": 9,
+      "hot": 226526
+    },
+    {
+      "platform": "weibo",
+      "keyword": "父亲去世留30万贷款女儿被判不用还",
+      "rank": 10,
+      "hot": 225469
+    },
+    {
+      "platform": "weibo",
+      "keyword": "榜样10",
+      "rank": 11,
+      "hot": 221663
+    },
+    {
+      "platform": "weibo",
+      "keyword": "小城大事收视第一",
+      "rank": 12,
+      "hot": 217766
+    },
+    {
+      "platform": "weibo",
+      "keyword": "女子洗澡忘关水阀将小区变溜冰场",
+      "rank": 13,
+      "hot": 216731
+    },
+    {
+      "platform": "weibo",
+      "keyword": "何聪睿道歉",
+      "rank": 14,
+      "hot": 213424
+    },
+    {
+      "platform": "weibo",
+      "keyword": "孙颖莎邱贻可一起上训",
+      "rank": 15,
+      "hot": 208168
+    },
+    {
+      "platform": "weibo",
+      "keyword": "向涵之瘦下来好像钟楚曦",
+      "rank": 16,
+      "hot": 205256
+    },
+    {
+      "platform": "weibo",
+      "keyword": "喵娲娲",
+      "rank": 17,
+      "hot": 203559
+    },
+    {
+      "platform": "weibo",
+      "keyword": "女子遭强奸被杀2次望判凶手死刑",
+      "rank": 18,
+      "hot": 201765
+    },
+    {
+      "platform": "weibo",
+      "keyword": "肖战他瞅了我一眼",
+      "rank": 19,
+      "hot": 198716
+    },
+    {
+      "platform": "weibo",
+      "keyword": "陈哲远妈生颜霸",
+      "rank": 20,
+      "hot": 191123
+    },
+    {
+      "platform": "weibo",
+      "keyword": "王昭君灯塔水母主题皮肤",
+      "rank": 21,
+      "hot": 189778
+    },
+    {
+      "platform": "weibo",
+      "keyword": "Turbo5Max五年电池保",
+      "rank": 22,
+      "hot": 189209
+    },
+    {
+      "platform": "weibo",
+      "keyword": "关晓彤造型师去哪儿进修了",
+      "rank": 23,
+      "hot": 189004
+    },
+    {
+      "platform": "weibo",
+      "keyword": "iG对战BLG",
+      "rank": 24,
+      "hot": 149672
+    },
+    {
+      "platform": "weibo",
+      "keyword": "VOGUE发了王橹杰穆祉丞",
+      "rank": 25,
+      "hot": 148018
+    },
+    {
+      "platform": "weibo",
+      "keyword": "张维伊的演技被低估了",
+      "rank": 26,
+      "hot": 147754
+    },
+    {
+      "platform": "weibo",
+      "keyword": "以为会长胖但巨减肥的习惯",
+      "rank": 27,
+      "hot": 146178
+    },
+    {
+      "platform": "weibo",
+      "keyword": "解放军演练斩首行动台独慌了",
+      "rank": 28,
+      "hot": 145506
+    },
+    {
+      "platform": "weibo",
+      "keyword": "创新中国活力澎湃",
+      "rank": 29,
+      "hot": 144557
+    },
+    {
+      "platform": "weibo",
+      "keyword": "轧戏",
+      "rank": 30,
+      "hot": 143922
+    },
+    {
+      "platform": "weibo",
+      "keyword": "U23亚洲杯日本vs韩国",
+      "rank": 31,
+      "hot": 143078
+    },
+    {
+      "platform": "weibo",
+      "keyword": "何宣林她可是离光青葵",
+      "rank": 32,
+      "hot": 142573
+    },
+    {
+      "platform": "weibo",
+      "keyword": "慕胥辞招商",
+      "rank": 33,
+      "hot": 136867
+    },
+    {
+      "platform": "weibo",
+      "keyword": "贝克汉姆长子称婚礼是最屈辱的时刻",
+      "rank": 34,
+      "hot": 135249
+    },
+    {
+      "platform": "weibo",
+      "keyword": "关晓彤是手太大还是脸太小",
+      "rank": 35,
+      "hot": 134441
+    },
+    {
+      "platform": "weibo",
+      "keyword": "爸爸让女儿宣传公司",
+      "rank": 36,
+      "hot": 115783
+    },
+    {
+      "platform": "weibo",
+      "keyword": "肯德基下乡",
+      "rank": 37,
+      "hot": 112297
+    },
+    {
+      "platform": "weibo",
+      "keyword": "女生回应张凌赫曾是补习老师",
+      "rank": 38,
+      "hot": 103474
+    },
+    {
+      "platform": "weibo",
+      "keyword": "何聪睿戏扑甩锅女主",
+      "rank": 39,
+      "hot": 98262
+    },
+    {
+      "platform": "weibo",
+      "keyword": "长生FMVP皮肤即将上线",
+      "rank": 40,
+      "hot": 94009
+    },
+    {
+      "platform": "weibo",
+      "keyword": "时团不是时团的时候路人缘最好",
+      "rank": 41,
+      "hot": 93249
+    },
+    {
+      "platform": "weibo",
+      "keyword": "你觉得不好看其实超健康的特点",
+      "rank": 42,
+      "hot": 92037
+    },
+    {
+      "platform": "weibo",
+      "keyword": "头一次见这么正宗的猫步",
+      "rank": 43,
+      "hot": 81956
+    },
+    {
+      "platform": "weibo",
+      "keyword": "20岁李嫣现状",
+      "rank": 44,
+      "hot": 81856
+    },
+    {
+      "platform": "weibo",
+      "keyword": "就凭一张结婚证就对我呼来喝去",
+      "rank": 45,
+      "hot": 80073
+    },
+    {
+      "platform": "weibo",
+      "keyword": "巴奴向嫣然医院捐赠100万",
+      "rank": 46,
+      "hot": 78078
+    },
+    {
+      "platform": "weibo",
+      "keyword": "刘诗诗活动路透",
+      "rank": 47,
+      "hot": 77807
+    },
+    {
+      "platform": "weibo",
+      "keyword": "鄱阳湖湿地野生动物被毒害5人被抓",
+      "rank": 48,
+      "hot": 76663
+    },
+    {
+      "platform": "weibo",
+      "keyword": "这才是我该看的男女主和好速度",
+      "rank": 49,
+      "hot": 76445
+    },
+    {
+      "platform": "weibo",
+      "keyword": "人民币现金收付新规2月1日起施行",
+      "rank": 50,
+      "hot": 73432
+    },
+    {
+      "platform": "weibo",
+      "keyword": "银价波动",
+      "rank": 51,
+      "hot": 73369
+    },
+    {
+      "platform": "weibo",
+      "keyword": "90后老板对品质有多执着",
+      "rank": 52,
+      "hot": 73303
+    }
+  ],
+  "douyin": [
+    {
+      "platform": "douyin",
+      "keyword": "U23亚洲杯中国对阵越南",
+      "rank": 1,
+      "hot": 12083674
+    },
+    {
+      "platform": "douyin",
+      "keyword": "第一批雪人已经卷起来了",
+      "rank": 2,
+      "hot": 11687310
+    },
+    {
+      "platform": "douyin",
+      "keyword": "数读2025年中国经济成绩单",
+      "rank": 3,
+      "hot": 11560320
+    },
+    {
+      "platform": "douyin",
+      "keyword": "马年非遗祈福百景图",
+      "rank": 4,
+      "hot": 11265078
+    },
+    {
+      "platform": "douyin",
+      "keyword": "年末高光穿搭大赏",
+      "rank": 5,
+      "hot": 10617820
+    },
+    {
+      "platform": "douyin",
+      "keyword": "中方收到美方加入和平委员会邀请",
+      "rank": 6,
+      "hot": 10456851
+    },
+    {
+      "platform": "douyin",
+      "keyword": "外面漫天飞雪正是涮肉的时节",
+      "rank": 7,
+      "hot": 9299041
+    },
+    {
+      "platform": "douyin",
+      "keyword": "许金花被执行死刑",
+      "rank": 8,
+      "hot": 9008042
+    },
+    {
+      "platform": "douyin",
+      "keyword": "冯德莱恩：格陵兰岛主权不容谈判",
+      "rank": 9,
+      "hot": 8338060
+    },
+    {
+      "platform": "douyin",
+      "keyword": "著名相声表演艺术家杨振华逝世",
+      "rank": 10,
+      "hot": 7837722
+    },
+    {
+      "platform": "douyin",
+      "keyword": "网传“蛇窝蹦迪”的视频可信吗",
+      "rank": 11,
+      "hot": 7823196
+    },
+    {
+      "platform": "douyin",
+      "keyword": "四川殴打5人者有“特殊背景”不实",
+      "rank": 12,
+      "hot": 7798762
+    },
+    {
+      "platform": "douyin",
+      "keyword": "大寒开启滑雪人狂欢模式",
+      "rank": 13,
+      "hot": 7794204
+    },
+    {
+      "platform": "douyin",
+      "keyword": "U23亚洲杯日本vs韩国",
+      "rank": 14,
+      "hot": 7789517
+    },
+    {
+      "platform": "douyin",
+      "keyword": "突然的喜欢定档",
+      "rank": 15,
+      "hot": 7789104
+    },
+    {
+      "platform": "douyin",
+      "keyword": "杭州终于等来了雪",
+      "rank": 16,
+      "hot": 7788107
+    },
+    {
+      "platform": "douyin",
+      "keyword": "欧洲酝酿对美“放大招”",
+      "rank": 17,
+      "hot": 7784030
+    },
+    {
+      "platform": "douyin",
+      "keyword": "苏州一下雪就美成了姑苏",
+      "rank": 18,
+      "hot": 7774515
+    },
+    {
+      "platform": "douyin",
+      "keyword": "特朗普称英“愚蠢至极”",
+      "rank": 19,
+      "hot": 7770939
+    },
+    {
+      "platform": "douyin",
+      "keyword": "梁小龙死因公开：因心脏衰竭离世",
+      "rank": 20,
+      "hot": 7762118
+    },
+    {
+      "platform": "douyin",
+      "keyword": "娜娜米手势舞挑战",
+      "rank": 21,
+      "hot": 7757577
+    },
+    {
+      "platform": "douyin",
+      "keyword": "欧盟决定永久冻结俄罗斯资产",
+      "rank": 22,
+      "hot": 7757375
+    },
+    {
+      "platform": "douyin",
+      "keyword": "巴特勒赛季报销",
+      "rank": 23,
+      "hot": 7748265
+    },
+    {
+      "platform": "douyin",
+      "keyword": "海昌企鹅冬日限定遛弯萌化了",
+      "rank": 24,
+      "hot": 7743040
+    },
+    {
+      "platform": "douyin",
+      "keyword": "手搓粉彩风转场来了",
+      "rank": 25,
+      "hot": 7736644
+    },
+    {
+      "platform": "douyin",
+      "keyword": "永州队5:0大胜哈尔滨队",
+      "rank": 26,
+      "hot": 7735730
+    },
+    {
+      "platform": "douyin",
+      "keyword": "今年的冬天没有遗憾啦",
+      "rank": 27,
+      "hot": 7735492
+    },
+    {
+      "platform": "douyin",
+      "keyword": "温太医你是这样上凌云峰的吗",
+      "rank": 28,
+      "hot": 7727646
+    },
+    {
+      "platform": "douyin",
+      "keyword": "用这首病态的爱发什么都很配",
+      "rank": 29,
+      "hot": 7724890
+    },
+    {
+      "platform": "douyin",
+      "keyword": "遇到讨厌的人我们换个说法",
+      "rank": 30,
+      "hot": 7724084
+    },
+    {
+      "platform": "douyin",
+      "keyword": "左奇函高富帅变装",
+      "rank": 31,
+      "hot": 7721686
+    },
+    {
+      "platform": "douyin",
+      "keyword": "车澈自曝瘦了68斤",
+      "rank": 32,
+      "hot": 7714003
+    },
+    {
+      "platform": "douyin",
+      "keyword": "陈星旭新剧床咚王玉雯",
+      "rank": 33,
+      "hot": 7713948
+    },
+    {
+      "platform": "douyin",
+      "keyword": "大表哥银杏湖巨物捕捞行动",
+      "rank": 34,
+      "hot": 7711672
+    },
+    {
+      "platform": "douyin",
+      "keyword": "Crown舞蹈挑战",
+      "rank": 35,
+      "hot": 7710367
+    },
+    {
+      "platform": "douyin",
+      "keyword": "徐良官宣巡演",
+      "rank": 36,
+      "hot": 7709334
+    },
+    {
+      "platform": "douyin",
+      "keyword": "下了雪的紫金山美若仙境",
+      "rank": 37,
+      "hot": 7701120
+    },
+    {
+      "platform": "douyin",
+      "keyword": "长沙2026第一场雪",
+      "rank": 38,
+      "hot": 7700025
+    },
+    {
+      "platform": "douyin",
+      "keyword": "深空初雪与爱人相拥",
+      "rank": 39,
+      "hot": 7699136
+    },
+    {
+      "platform": "douyin",
+      "keyword": "赵丽颖：属于李秋萍的落笔生辉",
+      "rank": 40,
+      "hot": 7695378
+    },
+    {
+      "platform": "douyin",
+      "keyword": "大瑶出演东北警察故事3",
+      "rank": 41,
+      "hot": 7694512
+    },
+    {
+      "platform": "douyin",
+      "keyword": "都暻秀为何这样跳Crown",
+      "rank": 42,
+      "hot": 7692087
+    },
+    {
+      "platform": "douyin",
+      "keyword": "关晓彤黑礼帽暗夜女王",
+      "rank": 43,
+      "hot": 7689010
+    },
+    {
+      "platform": "douyin",
+      "keyword": "电影镖人集齐四代武侠人",
+      "rank": 44,
+      "hot": 7685007
+    },
+    {
+      "platform": "douyin",
+      "keyword": "我的漂亮藏不住了",
+      "rank": 45,
+      "hot": 7681478
+    },
+    {
+      "platform": "douyin",
+      "keyword": "咪的步伐很曼妙",
+      "rank": 46,
+      "hot": 7678123
+    },
+    {
+      "platform": "douyin",
+      "keyword": "这是连续剧草莓恨恨恨吗",
+      "rank": 47,
+      "hot": 7677387
+    },
+    {
+      "platform": "douyin",
+      "keyword": "精选创作者不语只一味宠粉",
+      "rank": 48,
+      "hot": 7673443
+    },
+    {
+      "platform": "douyin",
+      "keyword": "中方代表：日本从没真正认罪悔过",
+      "rank": 49,
+      "hot": 7671221
+    }
+  ]
+}

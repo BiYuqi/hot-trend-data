@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现娱乐、体育、社会民生三足鼎立格局。微博平台娱乐话题占据主导，抖音平台则因全国性降雪及U23亚洲杯赛事，呈现出强烈的季节性与体育赛事驱动特征。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "特朗普称英“愚蠢至极”",
+      "from_rank": 45,
+      "to_rank": 19,
+      "reason": "排名跃升26位，从榜单中后部直接进入前20，表明其争议性言论在短时间内引发了大量关注和讨论。"
+    },
+    {
+      "keyword": "车澈自曝瘦了68斤",
+      "from_rank": 49,
+      "to_rank": 32,
+      "reason": "排名跃升17位，从榜单末尾进入中段，其显著的体重变化作为个人话题，引发了用户的好奇与模仿讨论。"
+    },
+    {
+      "keyword": "马年非遗祈福百景图",
+      "from_rank": 13,
+      "to_rank": 4,
+      "reason": "排名跃升9位，进入榜单前五，结合临近春节的时间节点，其传统文化与节日祈福的主题契合了平台用户的创作与分享热情。"
+    },
+    {
+      "keyword": "外面漫天飞雪正是涮肉的时节",
+      "from_rank": 15,
+      "to_rank": 7,
+      "reason": "排名跃升8位，进入前十，将全国性降雪天气与“涮肉”这一冬季饮食场景强关联，激发了用户共鸣和内容创作。"
+    },
+    {
+      "keyword": "张维伊的演技被低估了",
+      "from_rank": 38,
+      "to_rank": 26,
+      "reason": "排名跃升12位，是微博平台上升最快的词条，表明相关影视内容或艺人表现引发了集中的口碑讨论与认可。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "轧戏大结局",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "中国乒协确认国家队教练员名单",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "还有不到30天过年 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "时代少年团美宝莲官宣 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "李亚鹏谈4000万欠款的真实原因 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "人类对牛奶的开发不足1% ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 7,
+      "keyword": "腾讯力挺陈星旭 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 8,
+      "keyword": "东阿阿胶礼送到心坎里 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "你以为的双胞胎vs实际上的双胞胎 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 10,
+      "keyword": "父亲去世留30万贷款女儿被判不用还",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23亚洲杯中国对阵越南",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "第一批雪人已经卷起来了 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 3,
+      "keyword": "数读2025年中国经济成绩单 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "马年非遗祈福百景图 ↑",
+      "change": "up",
+      "change_value": 9
+    },
+    {
+      "rank": 5,
+      "keyword": "年末高光穿搭大赏 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 6,
+      "keyword": "中方收到美方加入和平委员会邀请",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "外面漫天飞雪正是涮肉的时节 ↑",
+      "change": "up",
+      "change_value": 8
+    },
+    {
+      "rank": 8,
+      "keyword": "许金花被执行死刑",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "冯德莱恩：格陵兰岛主权不容谈判",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "著名相声表演艺术家杨振华逝世 ↑",
+      "change": "up",
+      "change_value": 1
+    }
+  ],
+  "conclusion": [
+    "娱乐话题（影视剧、明星）是微博热搜的绝对核心，占据榜单头部多数席位，且新上榜词条多为娱乐相关。",
+    "抖音热点受天气（全国降雪）和体育赛事（U23亚洲杯）双重驱动，形成了“雪景+生活”与“赛事+民族情绪”两大内容集群。",
+    "国际政治人物争议言论（特朗普）及个人励志故事（车澈减肥）在抖音平台具备极强的瞬时爆发力，能实现排名的快速跃升。"
+  ]
+}
