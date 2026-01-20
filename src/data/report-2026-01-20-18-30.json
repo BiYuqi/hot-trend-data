@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现“国事与民生并重，娱乐与天气交织”的格局。微博平台社会新闻与明星话题竞争激烈，抖音平台则被雪景、体育赛事和重大社会事件主导，平台内容偏好差异显著。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "父亲去世留30万贷款女儿被判不用还",
+      "from_rank": 31,
+      "to_rank": 17,
+      "reason": "排名跃升14位，该社会新闻触及遗产继承与债务清偿的法律边界，引发公众对相关法律条款的广泛讨论。"
+    },
+    {
+      "keyword": "陈星旭王玉雯突然的喜欢定档",
+      "from_rank": 19,
+      "to_rank": 10,
+      "reason": "排名跃升9位，新剧定档消息发布，直接刺激了主演粉丝及潜在观众的关注热度。"
+    },
+    {
+      "keyword": "关晓彤黑礼帽暗夜女王",
+      "from_rank": 43,
+      "to_rank": 25,
+      "reason": "排名跃升18位，关晓彤的新造型内容在抖音平台获得高传播度，视觉冲击力强，符合短视频传播逻辑。"
+    },
+    {
+      "keyword": "手搓粉彩风转场来了",
+      "from_rank": 34,
+      "to_rank": 24,
+      "reason": "排名跃升10位，该特效模板在抖音引发模仿创作潮，技术流内容驱动了用户参与和话题热度。"
+    },
+    {
+      "keyword": "许金花被执行死刑前见了近亲属",
+      "from_rank": 39,
+      "to_rank": 35,
+      "reason": "排名跃升4位，作为“许金花被执行死刑”事件的后续细节，满足了公众对重大案件结局的追踪需求。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "中国乒协确认国家队教练员名单 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 2,
+      "keyword": "女子洗澡忘关水阀将小区变溜冰场 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 3,
+      "keyword": "中国载人航天首次应急行动 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "郑钦文阿里千问全球代言人 ↑",
+      "change": "up",
+      "change_value": 999
+    },
+    {
+      "rank": 5,
+      "keyword": "香港发生离奇夺命车祸 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 6,
+      "keyword": "巴特勒前十字韧带撕裂 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 7,
+      "keyword": "怪不得长辈喜欢大方的孩子 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 8,
+      "keyword": "马丽喊你猜谜赢健康礼 ↑",
+      "change": "up",
+      "change_value": 999
+    },
+    {
+      "rank": 9,
+      "keyword": "人类对牛奶的开发不足1% ↑",
+      "change": "up",
+      "change_value": 999
+    },
+    {
+      "rank": 10,
+      "keyword": "陈星旭王玉雯突然的喜欢定档 ↑",
+      "change": "up",
+      "change_value": 9
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23亚洲杯半决赛前瞻 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "中方代表：日本从没真正认罪悔过 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 3,
+      "keyword": "三大引擎点亮2025中国经济 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "许金花被执行死刑 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 5,
+      "keyword": "杭州终于等来了雪 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 6,
+      "keyword": "中方收到美方加入和平委员会邀请 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "著名相声表演艺术家杨振华逝世 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 8,
+      "keyword": "大寒是24节气的最后一个节气 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 9,
+      "keyword": "长沙2026第一场雪 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "第一批雪人已经卷起来了 →",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "微博热点更迭迅速，社会新闻、娱乐定档及明星动态是驱动排名的核心要素，新上榜话题占比高。",
+    "抖音热点稳定性强，以雪景、体育赛事、国际时政及重大社会事件为主，视觉化、节令性内容占据主导。",
+    "平台内容分化明显：微博侧重话题讨论与明星效应，抖音侧重视觉传播、全民参与及重大新闻的短视频化呈现。"
+  ]
+}
