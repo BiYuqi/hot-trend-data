@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现跨平台联动与季节性主题主导特征，微博由影视剧集《轧戏》收官引爆，抖音则被全国性降雪、年货节及体育赛事占据头部，平台内容偏好差异显著。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "特朗普称英“愚蠢至极”",
+      "from_rank": 49,
+      "to_rank": 21,
+      "reason": "排名跃升28位，因涉及国际政治人物争议性言论，引发用户广泛关注与讨论。"
+    },
+    {
+      "keyword": "停用手机号被他人启用登上了自己微信",
+      "from_rank": 47,
+      "to_rank": 32,
+      "reason": "排名跃升15位，话题涉及个人隐私与数字安全，引发普遍共鸣与担忧。"
+    },
+    {
+      "keyword": "代旭演技",
+      "from_rank": 18,
+      "to_rank": 5,
+      "reason": "排名跃升13位，因演员相关作品或采访内容集中曝光，带动演技话题热度飙升。"
+    },
+    {
+      "keyword": "外面漫天飞雪正是涮肉的时节",
+      "from_rank": 11,
+      "to_rank": 5,
+      "reason": "排名跃升6位，内容精准结合全国性降雪天气与冬季饮食文化，引发用户模仿与分享。"
+    },
+    {
+      "keyword": "成龙第一次参加时装周的样子",
+      "from_rank": 23,
+      "to_rank": 16,
+      "reason": "排名跃升7位，经典影像回顾满足了用户的怀旧与娱乐需求，形成传播热点。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "轧戏大结局",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "中国乒协确认国家队教练员名单",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "还有不到30天过年",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "天猫年货精选周开卖",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "代旭演技",
+      "change": "up",
+      "change_value": 13
+    },
+    {
+      "rank": 6,
+      "keyword": "知情人称贝克汉姆夫妇深受打击",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "肯德基下乡",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 8,
+      "keyword": "天猫榜单年度畅销榜权威发布",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "解放军演练斩首行动台独慌了",
+      "change": "down",
+      "change_value": -4
+    },
+    {
+      "rank": 10,
+      "keyword": "慕胥辞招商",
+      "change": "down",
+      "change_value": -2
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23亚洲杯中国对阵越南",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "马年非遗祈福百景图",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "数读2025年中国经济成绩单",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "第一批雪人已经卷起来了",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "外面漫天飞雪正是涮肉的时节",
+      "change": "up",
+      "change_value": 6
+    },
+    {
+      "rank": 6,
+      "keyword": "年末高光穿搭大赏",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 7,
+      "keyword": "跟着各地年货回家寻年味",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "在盛典一次性嗑到3对短剧CP",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "冯德莱恩：格陵兰岛主权不容谈判",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "许金花被执行死刑",
+      "change": "down",
+      "change_value": -2
+    }
+  ],
+  "conclusion": [
+    "影视剧集收官效应显著，《轧戏大结局》同时占据微博榜首与抖音高位，形成跨平台传播峰值。",
+    "季节性内容主导抖音生态，降雪、年货、冬季运动及饮食相关话题占据头部，体现强场景关联性。",
+    "微博热点更分散，涵盖文娱、社会、商业及国际事件，而抖音热点更集中于可视觉化、易参与的生活与娱乐内容。"
+  ]
+}
