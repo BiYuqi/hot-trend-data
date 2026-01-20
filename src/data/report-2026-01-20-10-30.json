@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现明显的季节性特征，全国性降雪天气与节气“大寒”成为双平台核心议题，同时国际政治、科技商业与娱乐话题形成稳定补充，平台间内容侧重差异显著。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "日本可能又要换首相了",
+      "from_rank": 41,
+      "to_rank": 24,
+      "reason": "排名跃升17位，从榜单中后部进入前25，国际政治话题关注度快速提升。"
+    },
+    {
+      "keyword": "金正恩解除一名内阁副总理职务",
+      "from_rank": 45,
+      "to_rank": 36,
+      "reason": "排名上升9位，朝鲜高层人事变动引发关注，推动话题热度上升。"
+    },
+    {
+      "keyword": "贝克汉姆父子闹掰",
+      "from_rank": 23,
+      "to_rank": 17,
+      "reason": "排名上升6位，进入前20，名人家庭矛盾话题持续发酵，热度攀升。"
+    },
+    {
+      "keyword": "代旭演技",
+      "from_rank": 31,
+      "to_rank": 26,
+      "reason": "排名上升5位，进入前30，演员专业表现获得讨论，推动话题排名上升。"
+    },
+    {
+      "keyword": "江宁婆婆科普糖霜苹果",
+      "from_rank": 39,
+      "to_rank": 35,
+      "reason": "排名上升4位，科普类内容结合冬季时令，获得稳定关注度增长。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "上海下雪",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "杭州下雪",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "卫星互联网低轨19组卫星发射成功",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "天猫年货精选周开卖",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "华伦天奴去世",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 6,
+      "keyword": "用芥末泡虾虾线都快吐出来了",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 7,
+      "keyword": "原来真的有AB货啊",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 8,
+      "keyword": "林更新的缘分续上了",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "白鹿睡前听到了唐宫所有的OST",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "老赖李亚鹏为何触动了网友",
+      "change": "down",
+      "change_value": -2
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "大寒是24节气的最后一个节气",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "长沙2026第一场雪",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 3,
+      "keyword": "去年中国经济贡献了世界30%的增长",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "坐上公交出趟国",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 5,
+      "keyword": "第一批雪人已经卷起来了",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 6,
+      "keyword": "精选创作者不语只一味宠粉",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "冬季坠入冰窟如何自救",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "U23亚洲杯半决赛前瞻",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "美财长教科书式演绎颠倒黑白",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "传奇设计师瓦伦蒂诺去世",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "冬季天气与节气是绝对主导议题，微博‘下雪’系列与抖音‘大寒’、‘雪人’等内容占据双平台头部，热度断层领先。",
+    "微博平台国际政治话题（日本、朝鲜）排名跃升显著，抖音平台则以生活娱乐（沙溢、汽水音乐节）内容上升最快，平台内容偏好差异明显。",
+    "科技商业（卫星发射、苹果新品、年货节）与名人动态（华伦天奴、贝克汉姆）构成稳定的热点第二梯队，但热度与头部天气话题存在量级差距。"
+  ]
+}
