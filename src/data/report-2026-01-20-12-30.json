@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现明显的季节性特征与平台分化。微博由社会民生与娱乐话题主导，抖音则聚焦于全国性降雪天气、宏观经济与节气文化，平台内容偏好差异显著。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "杭州终于等来了雪",
+      "from_rank": 12,
+      "to_rank": 4,
+      "reason": "排名跃升8位，从第12位进入前5，直接原因是杭州降雪事件引发大量用户创作与分享，符合抖音对实时、可视化生活事件的强传播特性。"
+    },
+    {
+      "keyword": "苹果将改为一年两次发布新品",
+      "from_rank": 39,
+      "to_rank": 33,
+      "reason": "排名上升6位，从第39位升至第33位，该科技行业重磅传闻在抖音平台获得快速扩散，表明用户对头部科技公司动态保持高关注度。"
+    },
+    {
+      "keyword": "关晓彤黑礼帽暗夜女王",
+      "from_rank": 27,
+      "to_rank": 23,
+      "reason": "排名上升4位，明星造型话题凭借视觉冲击力和粉丝效应，在抖音内容生态中实现了快速传播和热度攀升。"
+    },
+    {
+      "keyword": "2026汽水音乐节官宣",
+      "from_rank": 28,
+      "to_rank": 24,
+      "reason": "排名上升4位，文娱活动官宣信息在年轻用户集中的抖音平台迅速形成话题，带动相关讨论和期待。"
+    },
+    {
+      "keyword": "坐上公交出趟国",
+      "from_rank": 4,
+      "to_rank": 2,
+      "reason": "排名上升2位至榜单第2，该话题具有新奇性和画面感，契合抖音短视频的叙事特点，用户参与创作门槛低，推动了热度的持续走高。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "儿子回应怒吼癌症妈妈碰瓷爆火",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "带1000去嫣然医院出院还剩990",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "用大寒节气打开冬日中国之美",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "送礼送蒙牛要强接彩头 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "光遇 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "华伦天奴去世 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 7,
+      "keyword": "林孝埈首次以中国国籍参加冬奥会",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "郑州某学校全体学生呕吐为谣言 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "霸总直了半辈子的腰上综艺弯了五次",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "冰湖重生 ↓",
+      "change": "down",
+      "change_value": -2
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "长沙2026第一场雪 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 2,
+      "keyword": "坐上公交出趟国 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 3,
+      "keyword": "IMF上调中国经济增长预期",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "杭州终于等来了雪 ↑",
+      "change": "up",
+      "change_value": 8
+    },
+    {
+      "rank": 5,
+      "keyword": "大寒是24节气的最后一个节气 ↓",
+      "change": "down",
+      "change_value": -4
+    },
+    {
+      "rank": 6,
+      "keyword": "著名相声表演艺术家杨振华逝世",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "第一批雪人已经卷起来了 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 8,
+      "keyword": "精选创作者不语只一味宠粉 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 9,
+      "keyword": "冬季坠入冰窟如何自救 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 10,
+      "keyword": "传奇设计师瓦伦蒂诺去世",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "全国性降雪天气是抖音本周期绝对核心议题，相关话题占据榜单头部并驱动了最快的排名跃升。",
+    "微博热点结构稳定，社会民生（医疗、家庭伦理）与品牌娱乐营销（游戏、年货）构成前10主体，新上榜话题多为事件后续或衍生讨论。",
+    "平台内容偏好差异固化：抖音强于视觉化、实时性的生活记录与宏观信息；微博则长于社会议题的深度发酵、娱乐营销及明星动态。"
+  ]
+}
