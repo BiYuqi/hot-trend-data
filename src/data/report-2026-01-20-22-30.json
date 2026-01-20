@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现娱乐、社会、年节主题三足鼎立态势，微博平台娱乐话题占据绝对主导，抖音平台则更侧重体育赛事、节庆氛围及国际时政，平台内容分化特征显著。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "初中生网购侵华日军信件初步鉴定为真",
+      "from_rank": 31,
+      "to_rank": 10,
+      "reason": "该话题从第31位跃升至第10位，排名上升21位，因其涉及历史、教育及社会诚信等严肃议题，引发广泛讨论和争议，热度迅速攀升。"
+    },
+    {
+      "keyword": "轧戏编剧",
+      "from_rank": 38,
+      "to_rank": 20,
+      "reason": "该话题从第38位上升至第20位，排名上升18位，作为热播剧《轧戏》的衍生话题，围绕编剧创作引发讨论，承接了主话题的热度。"
+    },
+    {
+      "keyword": "嫣然医院将暂时谢绝到访参观",
+      "from_rank": 46,
+      "to_rank": 28,
+      "reason": "该话题从第46位上升至第28位，排名上升18位，与同期“巴奴向嫣然医院捐赠100万”新闻形成关联，共同推高了公众对嫣然医院的关注度。"
+    },
+    {
+      "keyword": "解放军演练斩首行动台独慌了",
+      "from_rank": 9,
+      "to_rank": 5,
+      "reason": "该话题从第9位上升至第5位，排名上升4位，作为涉台军事议题，其敏感性及民族情绪使其在短时间内获得大量关注和讨论。"
+    },
+    {
+      "keyword": "人类对牛奶的开发不足1%",
+      "from_rank": 11,
+      "to_rank": 7,
+      "reason": "该话题从第11位上升至第7位，排名上升4位，其反常识的科普属性引发了用户的好奇心和广泛传播，形成知识性热点。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "轧戏大结局 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "中国乒协确认国家队教练员名单 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "还有不到30天过年 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "天猫年货精选周开卖 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "解放军演练斩首行动台独慌了 ↑",
+      "change": "up",
+      "change_value": 4
+    },
+    {
+      "rank": 6,
+      "keyword": "代旭演技 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 7,
+      "keyword": "人类对牛奶的开发不足1% ↑",
+      "change": "up",
+      "change_value": 4
+    },
+    {
+      "rank": 8,
+      "keyword": "天猫新春年礼大使马丽 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "肯德基下乡 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 10,
+      "keyword": "初中生网购侵华日军信件初步鉴定为真 ↑",
+      "change": "up",
+      "change_value": 21
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23亚洲杯中国对阵越南 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "马年非遗祈福百景图 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "数读2025年中国经济成绩单 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "跟着各地年货回家寻年味 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 5,
+      "keyword": "第一批雪人已经卷起来了 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 6,
+      "keyword": "外面漫天飞雪正是涮肉的时节 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 7,
+      "keyword": "年末高光穿搭大赏 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 8,
+      "keyword": "在盛典一次性嗑到3对短剧CP ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "冯德莱恩：格陵兰岛主权不容谈判 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "许金花被执行死刑 ↑",
+      "change": "up",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "娱乐剧集《轧戏》及其衍生话题形成强大话题矩阵，在微博平台占据绝对热度优势，显示出IP话题的深度运营能力。",
+    "抖音平台热点呈现“冰雪+年货”的强季节性特征，同时体育赛事（U23亚洲杯）与国际时政（欧盟对俄、格陵兰岛主权）议题热度并行，内容结构更为多元。",
+    "严肃社会议题（如历史信件鉴定、涉台军事、恶性社会事件）在微博平台展现出强大的瞬时爆发力，能够迅速突破娱乐信息流，跻身头部榜单。"
+  ]
+}
