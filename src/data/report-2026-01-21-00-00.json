@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现体育赛事与冬季生活主题双线主导格局，微博平台娱乐话题与突发社会事件交织，抖音平台则聚焦节庆氛围与宏观叙事，平台内容偏好差异显著。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "贝克汉姆父子决裂始末",
+      "from_rank": 50,
+      "to_rank": 10,
+      "reason": "排名跃升40位，从榜单边缘直接进入前十，由家庭争议事件发酵引发广泛关注。"
+    },
+    {
+      "keyword": "上海几乎年年下雪为何难被看见",
+      "from_rank": 49,
+      "to_rank": 21,
+      "reason": "排名跃升28位，结合冬季天气现象，以地域性科普话题引发用户共鸣与讨论。"
+    },
+    {
+      "keyword": "U23国足vs越南",
+      "from_rank": 6,
+      "to_rank": 1,
+      "reason": "排名上升5位至榜首，体育赛事临近，关注度集中爆发，成为双平台共同热点。"
+    },
+    {
+      "keyword": "今天将是杭州最干净的一天",
+      "from_rank": 11,
+      "to_rank": 6,
+      "reason": "排名上升5位进入前十，关联特定城市事件或政策，形成本地化高热度话题。"
+    },
+    {
+      "keyword": "娜娜米手势舞挑战",
+      "from_rank": 25,
+      "to_rank": 18,
+      "reason": "排名上升7位，作为抖音平台内的互动挑战类内容，凭借强参与性实现热度快速攀升。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23国足vs越南 ↑",
+      "change": "up",
+      "change_value": 5
+    },
+    {
+      "rank": 2,
+      "keyword": "轧戏大结局 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 3,
+      "keyword": "还有不到30天过年 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "送礼送蒙牛要强接彩头 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "初中生网购侵华日军信件初步鉴定为真 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 6,
+      "keyword": "今天将是杭州最干净的一天 ↑",
+      "change": "up",
+      "change_value": 5
+    },
+    {
+      "rank": 7,
+      "keyword": "金价 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "马丽喊你猜谜赢健康礼 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "慕胥辞 ↓",
+      "change": "down",
+      "change_value": -4
+    },
+    {
+      "rank": 10,
+      "keyword": "贝克汉姆父子决裂始末 ↑",
+      "change": "up",
+      "change_value": 40
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23亚洲杯中国对阵越南 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "马年非遗祈福百景图 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "数读2025年中国经济成绩单 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "跟着各地年货回家寻年味 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "外面漫天飞雪正是涮肉的时节 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "年末高光穿搭大赏 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "第一批雪人已经卷起来了 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "大寒开启滑雪人狂欢模式 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 9,
+      "keyword": "冯德莱恩：格陵兰岛主权不容谈判 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "许金花被执行死刑 →",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "体育赛事（U23亚洲杯）成为跨平台绝对热点，表明重大竞技事件对公众注意力的强大聚合效应。",
+    "微博热点结构更分散，涵盖娱乐、社会、国际、商业等多领域；抖音热点则更集中，围绕节庆、冬季、宏观叙事及平台原生挑战展开，平台属性决定内容分野。",
+    "家庭伦理争议（贝克汉姆）与地域性天气话题（上海下雪）凭借强话题性或共鸣感，成为本周期排名跃升最快的两类内容。"
+  ]
+}
