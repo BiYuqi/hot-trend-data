@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现“冬雪+国际”双主线格局。微博平台社会民生与娱乐话题交织，抖音平台则围绕节气、雪景和体育赛事形成强互动内容生态。国际政治议题在双平台均占据高位，显示其跨圈层影响力。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "巴特勒膝盖受伤痛苦倒地",
+      "from_rank": 34,
+      "to_rank": 21,
+      "reason": "排名跃升13位，从第34位升至第21位，关联词条‘巴特勒前十字韧带撕裂’同步进入榜单，表明球星严重伤情事件在短时间内引发了集中关注。"
+    },
+    {
+      "keyword": "中方收到美方加入和平委员会邀请",
+      "from_rank": 11,
+      "to_rank": 2,
+      "reason": "排名跃升9位，从第11位升至第2位，其关联词条‘和平委员会’、‘中方回应特朗普成立和平委员会’同步上榜，显示该国际政治议题热度迅速发酵并形成话题矩阵。"
+    },
+    {
+      "keyword": "阿爆回应",
+      "from_rank": 25,
+      "to_rank": 16,
+      "reason": "排名跃升9位，从第25位升至第16位，与主词条‘阿爆’及衍生词条‘阿爆建了个大别墅’形成关联话题簇，表明个人IP事件通过回应实现了热度二次攀升。"
+    },
+    {
+      "keyword": "4寸10元蛋糕店老板谈定价",
+      "from_rank": 10,
+      "to_rank": 5,
+      "reason": "排名跃升5位，从第10位升至第5位，作为唯一进入微博TOP5的民生消费话题，其低价策略引发了关于物价与生活成本的广泛讨论。"
+    },
+    {
+      "keyword": "张凌赫 我担是我的补习老师",
+      "from_rank": 19,
+      "to_rank": 17,
+      "reason": "排名上升2位，从第19位升至第17位，在娱乐话题普遍排名稳定或下降的背景下，该粉丝向话题实现了小幅逆势上升。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "女子洗澡忘关水阀将小区变溜冰场",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "中方收到美方加入和平委员会邀请 ↑",
+      "change": "up",
+      "change_value": 9
+    },
+    {
+      "rank": 3,
+      "keyword": "中国载人航天首次应急行动 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "香港发生离奇夺命车祸",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "4寸10元蛋糕店老板谈定价 ↑",
+      "change": "up",
+      "change_value": 5
+    },
+    {
+      "rank": 6,
+      "keyword": "与女友同房4天后死亡男子家属索赔",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "林更新的缘分续上了 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "这个月工资就是今年攒了多少钱",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "华伦天奴去世 ↓",
+      "change": "down",
+      "change_value": -4
+    },
+    {
+      "rank": 10,
+      "keyword": "穆祉丞王橹杰双人舞台播放量破千万 →",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23亚洲杯半决赛前瞻",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "杭州终于等来了雪",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "三大引擎点亮2025中国经济 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "大寒是24节气的最后一个节气",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "第一批雪人已经卷起来了",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "中方收到美方加入和平委员会邀请",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "著名相声表演艺术家杨振华逝世",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "长沙2026第一场雪",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "大寒开启滑雪人狂欢模式 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "中方代表：日本从没真正认罪悔过 ↑",
+      "change": "up",
+      "change_value": 2
+    }
+  ],
+  "conclusion": [
+    "国际政治议题（和平委员会、中日关系）在微博和抖音双平台均占据高位，且通过衍生话题形成传播矩阵，显示出强穿透力。",
+    "抖音内容生态与节气、天气强绑定，‘雪景’、‘大寒’、‘滑雪’等主题催生了大量UGC互动内容，平台热点呈现鲜明的季节性和场景化特征。",
+    "微博热点结构更为多元，社会民生（事故、案件、消费）、娱乐八卦、国际时政并立，但娱乐话题内部竞争激烈，排名波动显著。"
+  ]
+}
