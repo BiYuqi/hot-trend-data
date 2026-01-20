@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现娱乐与公共议题并重格局，微博平台由影视剧集收官及明星动态主导，抖音平台则聚焦体育赛事、节气文化和国际时政，平台内容偏好差异显著。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "孙颖莎邱贻可一起上训",
+      "from_rank": 48,
+      "to_rank": 11,
+      "reason": "排名跃升37位，因中国乒协确认国家队教练员名单的关联新闻，带动了国乒队员训练动态的关注度。"
+    },
+    {
+      "keyword": "阿爆道歉",
+      "from_rank": 36,
+      "to_rank": 12,
+      "reason": "排名跃升24位，作为新上榜的道歉事件，其具体内容引发了公众的集中讨论和关注。"
+    },
+    {
+      "keyword": "轧戏大结局",
+      "from_rank": 17,
+      "to_rank": 1,
+      "reason": "排名跃升16位并登顶，表明相关剧集或话题迎来关键剧情节点，讨论热度在周期内集中爆发。"
+    },
+    {
+      "keyword": "何聪睿道歉",
+      "from_rank": 28,
+      "to_rank": 14,
+      "reason": "排名跃升14位，与同期出现的‘何聪睿戏扑甩锅女主’话题形成事件矩阵，推动了道歉事件的关注度上升。"
+    },
+    {
+      "keyword": "施洛华道歉",
+      "from_rank": 29,
+      "to_rank": 19,
+      "reason": "排名跃升10位，作为新出现的道歉事件，其具体缘由吸引了公众视线，导致排名快速上升。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "轧戏大结局 ↑",
+      "change": "up",
+      "change_value": 16
+    },
+    {
+      "rank": 2,
+      "keyword": "中国乒协确认国家队教练员名单 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 3,
+      "keyword": "中国载人航天首次应急行动 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "中国政府向古巴援助3万吨大米 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "腾讯力挺陈星旭 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "你以为的双胞胎vs实际上的双胞胎 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 7,
+      "keyword": "马丽喊你猜谜赢健康礼 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "人类对牛奶的开发不足1% ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 9,
+      "keyword": "何宣林她可是离光青葵 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "父亲去世留30万贷款女儿被判不用还 →",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23亚洲杯中国对阵越南 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "大寒是24节气的最后一个节气 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 3,
+      "keyword": "三大引擎点亮2025中国经济 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "第一批雪人已经卷起来了 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 5,
+      "keyword": "中方代表：日本从没真正认罪悔过 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 6,
+      "keyword": "中方收到美方加入和平委员会邀请 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "年末高光穿搭大赏 ↑",
+      "change": "up",
+      "change_value": 4
+    },
+    {
+      "rank": 8,
+      "keyword": "许金花被执行死刑 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "冯德莱恩：格陵兰岛主权不容谈判 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "U23亚洲杯日本vs韩国 ↓",
+      "change": "down",
+      "change_value": -8
+    }
+  ],
+  "conclusion": [
+    "微博热点以文娱内容为核心，道歉事件与影视剧收官话题集中爆发，形成显著的讨论集群效应。",
+    "抖音热点呈现多元化特征，体育赛事、节气文化、国际时政与冬季生活场景内容共同构成头部流量。",
+    "平台间热点分野清晰：微博侧重明星、剧集及社会事件深度讨论，抖音则更聚焦于大众参与、视觉呈现及实时资讯传播。"
+  ]
+}
