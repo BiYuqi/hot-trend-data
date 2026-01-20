@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点高度集中于U23国足历史性晋级亚洲杯决赛，该事件在微博和抖音双平台均占据绝对主导地位，形成跨平台传播的单一核心议题。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "贝克汉姆被儿子长文控诉后首现身",
+      "from_rank": 24,
+      "to_rank": 16,
+      "reason": "排名跃升8位，从第24位升至第16位，因当事人首次公开回应家庭争议，引发公众关注。"
+    },
+    {
+      "keyword": "代旭演技",
+      "from_rank": 42,
+      "to_rank": 34,
+      "reason": "排名跃升8位，从第42位升至第34位，因相关剧集内容或讨论推动其个人演技成为话题焦点。"
+    },
+    {
+      "keyword": "鞠婧祎掌管侧颜的神",
+      "from_rank": 25,
+      "to_rank": 18,
+      "reason": "排名跃升7位，从第25位升至第18位，因特定造型或内容发布，引发粉丝及公众对其外貌的集中讨论。"
+    },
+    {
+      "keyword": "中国足球队回应U23进决赛",
+      "from_rank": 30,
+      "to_rank": 23,
+      "reason": "排名跃升7位，从第30位升至第23位，因官方机构对核心体育事件的正式回应，增加了话题的权威性和讨论度。"
+    },
+    {
+      "keyword": "U23国足进球",
+      "from_rank": 35,
+      "to_rank": 28,
+      "reason": "排名跃升7位，从第35位升至第28位，作为核心体育事件的细分话题，随赛事进程热度自然攀升。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23国足3比0越南U23",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "U23国足计划有变准备争冠 ↑",
+      "change": "up",
+      "change_value": 5
+    },
+    {
+      "rank": 3,
+      "keyword": "还有不到30天过年",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "u23",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "u23国足零失球进决赛 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 6,
+      "keyword": "儿子怒斥癌症妈妈碰瓷为何让人共情",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "大量外国网友自称精神中国人 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 8,
+      "keyword": "轧戏大结局 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 9,
+      "keyword": "U23国足首次进入亚洲杯决赛 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 10,
+      "keyword": "U23国足vs越南 ↓",
+      "change": "down",
+      "change_value": -5
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23国足3:0越南挺进决赛",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "U23男足：计划有变决赛见",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "数读2025年中国经济成绩单",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "国足U23下半场5分钟进两球",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "马年非遗祈福百景图",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "彭啸头球破门",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "年末高光穿搭大赏",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "U23国足将同日本队争冠",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "跟着各地年货回家寻年味",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "许金花被执行死刑",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "U23国足晋级事件形成压倒性热点垄断，相关词条包揽微博前五及抖音前四，体现了重大体育成就的全民关注度。",
+    "微博平台娱乐、社会议题（如贝克汉姆家庭纠纷、代旭演技）在体育热点夹缝中实现显著排名跃升，显示用户注意力的分流模式。",
+    "抖音平台热点结构相对稳定，TOP10无排名变化，但中腰部话题（如雪景、音乐）活跃度变化明显，反映其内容生态的快速流动特性。"
+  ]
+}
