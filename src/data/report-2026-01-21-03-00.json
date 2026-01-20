@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点高度集中于U23国足历史性晋级亚洲杯决赛，该事件在微博和抖音双平台均占据绝对主导地位，形成跨平台传播的单一核心议题。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "中方代表：日本从没真正认罪悔过",
+      "from_rank": 46,
+      "to_rank": 24,
+      "reason": "排名跃升22位，因涉及中日历史问题这一敏感议题，在特定时间节点引发集中讨论。"
+    },
+    {
+      "keyword": "今年的冬天没有遗憾啦",
+      "from_rank": 43,
+      "to_rank": 31,
+      "reason": "排名上升12位，契合大寒节气及全国多地降雪天气，引发用户情感共鸣和内容创作。"
+    },
+    {
+      "keyword": "轧戏大结局",
+      "from_rank": 25,
+      "to_rank": 17,
+      "reason": "排名上升8位，作为热门短剧的完结篇，其剧情高潮直接推动了话题热度的快速攀升。"
+    },
+    {
+      "keyword": "娜娜米手势舞挑战",
+      "from_rank": 29,
+      "to_rank": 22,
+      "reason": "排名上升7位，作为抖音平台标志性的互动挑战活动，其病毒式传播特性驱动了参与度激增。"
+    },
+    {
+      "keyword": "王昭君灯塔水母主题皮肤",
+      "from_rank": 37,
+      "to_rank": 26,
+      "reason": "排名上升11位，因《王者荣耀》新皮肤发布，直接触发了游戏玩家群体的集中讨论和二次创作。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23国足3比0越南U23",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "u23国足零失球进决赛 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 3,
+      "keyword": "还有不到30天过年",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "u23 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 5,
+      "keyword": "U23国足vs越南 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 6,
+      "keyword": "儿子怒斥癌症妈妈碰瓷为何让人共情",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "U23国足计划有变准备争冠 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 8,
+      "keyword": "大量外国网友自称精神中国人 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 9,
+      "keyword": "轧戏大结局 ↑",
+      "change": "up",
+      "change_value": 7
+    },
+    {
+      "rank": 10,
+      "keyword": "U23国足首次进入亚洲杯决赛 ↓",
+      "change": "down",
+      "change_value": -2
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23国足3:0越南挺进决赛",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "U23男足：计划有变决赛见",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "数读2025年中国经济成绩单",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "国足U23下半场5分钟进两球",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "马年非遗祈福百景图 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 6,
+      "keyword": "彭啸头球破门",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "年末高光穿搭大赏 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 8,
+      "keyword": "U23国足将同日本队争冠",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "跟着各地年货回家寻年味 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 10,
+      "keyword": "许金花被执行死刑",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "U23国足晋级事件形成压倒性舆论焦点，在双平台TOP10中占据半数以上席位，热度断层领先。",
+    "抖音平台对重大体育事件的传播力更强，相关话题热度值普遍是微博同话题的10倍以上。",
+    "除核心体育事件外，娱乐短剧（轧戏）、游戏皮肤、节气互动等垂直领域话题在各自圈层内实现了快速上升。"
+  ]
+}
