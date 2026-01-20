@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现社会民生与娱乐话题并重格局，微博平台社会事件讨论度激增，抖音平台则聚焦节气、天气与宏观经济叙事，平台内容偏好差异显著。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "带1000去嫣然医院出院还剩990",
+      "from_rank": 31,
+      "to_rank": 2,
+      "reason": "排名跃升29位，因涉及医疗费用这一高关注度民生话题，与同期“王菲捐款”等关联词条形成话题矩阵，引发广泛共鸣。"
+    },
+    {
+      "keyword": "日本可能又要换首相了",
+      "from_rank": 24,
+      "to_rank": 9,
+      "reason": "排名跃升15位，作为国际政治突发动态，其不确定性吸引了关注国际时事的用户，快速进入公众视野。"
+    },
+    {
+      "keyword": "儿子回应怒吼癌症妈妈碰瓷爆火",
+      "from_rank": 11,
+      "to_rank": 1,
+      "reason": "排名跃升10位，事件本身具有强烈伦理冲突和反转情节，当事人回应推动了话题二次发酵，热度登顶。"
+    },
+    {
+      "keyword": "微博之夜",
+      "from_rank": 20,
+      "to_rank": 14,
+      "reason": "排名上升6位，作为平台年度盛事临近，相关预热和讨论自然升温，带动话题排名持续爬升。"
+    },
+    {
+      "keyword": "张真源在停车场唱歌",
+      "from_rank": 49,
+      "to_rank": 45,
+      "reason": "排名上升4位，是抖音平台上升最快词条，明星个人才艺展示内容在平台具有天然传播力，推动排名小幅上涨。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "儿子回应怒吼癌症妈妈碰瓷爆火 ↑",
+      "change": "up",
+      "change_value": 10
+    },
+    {
+      "rank": 2,
+      "keyword": "带1000去嫣然医院出院还剩990 ↑",
+      "change": "up",
+      "change_value": 29
+    },
+    {
+      "rank": 3,
+      "keyword": "卫星互联网低轨19组卫星发射成功 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "华伦天奴去世 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 5,
+      "keyword": "特朗普嫉妒中国已是公开秘密 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "上海下雪 ↓",
+      "change": "down",
+      "change_value": -5
+    },
+    {
+      "rank": 7,
+      "keyword": "马丽喊你猜谜赢健康礼 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "原来真的有AB货啊 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 9,
+      "keyword": "日本可能又要换首相了 ↑",
+      "change": "up",
+      "change_value": 15
+    },
+    {
+      "rank": 10,
+      "keyword": "白鹿睡前听到了唐宫所有的OST ↓",
+      "change": "down",
+      "change_value": -1
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "大寒是24节气的最后一个节气 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "长沙2026第一场雪 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "去年中国经济贡献了世界30%的增长 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "坐上公交出趟国 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "第一批雪人已经卷起来了 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "精选创作者不语只一味宠粉 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "冬季坠入冰窟如何自救 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "著名相声表演艺术家杨振华逝世 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "杭州终于等来了雪 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "传奇设计师瓦伦蒂诺去世 →",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "微博热点由社会民生事件主导，两起涉及家庭伦理与医疗费用的高冲突性事件占据榜首，显示用户对现实议题的深度参与。",
+    "抖音热点结构稳定，节气、降雪等应季内容与宏观经济、国际关系等宏观叙事构成头部主体，平台内容偏向轻知识、正能量与生活记录。",
+    "国际政治（美日）与名人动态（贝克汉姆家族、华伦天奴）在双平台均有关注，但微博讨论更侧重冲突与八卦，抖音则更侧重成就与纪念。"
+  ]
+}
