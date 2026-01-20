@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现社会民生与娱乐话题并重格局，微博平台由家庭伦理事件引爆，抖音则聚焦节气、天气与宏观经济，平台内容偏好差异显著。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "赵昭仪好长的一条人",
+      "from_rank": 47,
+      "to_rank": 21,
+      "reason": "排名跃升26位，从榜单外进入前25，因娱乐话题引发用户广泛讨论和模仿，热度快速攀升。"
+    },
+    {
+      "keyword": "冰湖重生",
+      "from_rank": 23,
+      "to_rank": 10,
+      "reason": "排名跃升13位，进入微博TOP10，关联冬季安全或救援事件，契合季节并引发情感共鸣。"
+    },
+    {
+      "keyword": "日本可能又要换首相了",
+      "from_rank": 9,
+      "to_rank": 2,
+      "reason": "排名跃升7位至微博第二，国际政治事件突发性强，关注度迅速集中。"
+    },
+    {
+      "keyword": "东北仙女教母下凡了",
+      "from_rank": 24,
+      "to_rank": 18,
+      "reason": "排名跃升6位，地域文化与网络热梗结合，内容具有强传播性和娱乐性。"
+    },
+    {
+      "keyword": "用芥末泡虾虾线都快吐出来了",
+      "from_rank": 16,
+      "to_rank": 11,
+      "reason": "排名跃升5位，生活猎奇内容视觉冲击力强，易于引发用户分享和讨论。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "儿子回应怒吼癌症妈妈碰瓷爆火",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "日本可能又要换首相了 ↑",
+      "change": "up",
+      "change_value": 7
+    },
+    {
+      "rank": 3,
+      "keyword": "用大寒节气打开冬日中国之美 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "华为MateX7展开赢很大 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "华伦天奴去世 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 6,
+      "keyword": "带1000去嫣然医院出院还剩990 ↓",
+      "change": "down",
+      "change_value": -4
+    },
+    {
+      "rank": 7,
+      "keyword": "原来真的有AB货啊 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 8,
+      "keyword": "东阿阿胶礼送到心坎里 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "上海下雪 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 10,
+      "keyword": "冰湖重生 ↑",
+      "change": "up",
+      "change_value": 13
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "大寒是24节气的最后一个节气",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "长沙2026第一场雪",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "IMF上调中国经济增长预期 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "坐上公交出趟国",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "第一批雪人已经卷起来了",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "著名相声表演艺术家杨振华逝世 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 7,
+      "keyword": "精选创作者不语只一味宠粉 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 8,
+      "keyword": "冬季坠入冰窟如何自救 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 9,
+      "keyword": "杭州终于等来了雪",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "传奇设计师瓦伦蒂诺去世",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "微博热点由社会伦理（癌症妈妈事件）和国际政治（日本换相）主导，娱乐话题紧随其后，平台情绪化讨论特征明显。",
+    "抖音热点高度集中于节气（大寒）、天气（各地下雪）和宏观经济（IMF上调预期），内容更偏向生活记录、知识科普和正能量。",
+    "两平台TOP10榜单稳定性差异大，微博榜单内部竞争激烈、变动快；抖音榜单头部固化，新晋热点多为季节性、事件性内容。"
+  ]
+}
