@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现天气民生主导、国际事件与娱乐话题并存的格局。微博平台由“上海下雪”登顶，抖音平台“大寒”节气话题热度最高，显示季节性自然现象成为核心流量引擎。同时，国际突发事件（西班牙事故）与国内经济数据在抖音平台获得高关注，平台内容偏好差异显著。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "裴轸黑化",
+      "from_rank": 28,
+      "to_rank": 10,
+      "reason": "排名跃升18位，从榜单外圈直接进入前十，是微博榜单中升幅最大的词条，表明相关剧集或角色讨论度在短时间内急剧爆发。"
+    },
+    {
+      "keyword": "泡沫转场让心跳漏了一拍",
+      "from_rank": 30,
+      "to_rank": 24,
+      "reason": "排名上升6位，是抖音榜单中升幅最大的词条之一，反映了该视频模板或话题在平台内被广泛模仿和传播，形成创作热潮。"
+    },
+    {
+      "keyword": "白月光大衣冬日氛围感的神",
+      "from_rank": 34,
+      "to_rank": 28,
+      "reason": "排名上升6位，与“泡沫转场”并列抖音升幅第一，契合冬季季节热点，说明穿搭类、氛围感内容在抖音具有稳定的流量吸引力。"
+    },
+    {
+      "keyword": "中核集团原总经理顾军被查",
+      "from_rank": 14,
+      "to_rank": 9,
+      "reason": "排名上升5位，进入抖音前十，是唯一进入前十的跃升词条，表明该反腐新闻在抖音平台获得了超出一般时政话题的关注度。"
+    },
+    {
+      "keyword": "上海下雪",
+      "from_rank": 5,
+      "to_rank": 1,
+      "reason": "排名上升4位，登顶微博热搜榜首，其热度值（110万）远超后续词条，证明特定城市的罕见天气事件能引发全网级别的集中讨论。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "上海下雪 ↑",
+      "change": "up",
+      "change_value": 4
+    },
+    {
+      "rank": 2,
+      "keyword": "日本迎半世纪来首次零熊猫 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 3,
+      "keyword": "卫星互联网低轨19组卫星发射成功 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "大寒 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 5,
+      "keyword": "老赖李亚鹏为何触动了网友 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 6,
+      "keyword": "蔡徐坤印尼节目 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 7,
+      "keyword": "林更新的缘分续上了 ↑",
+      "change": "up",
+      "change_value": 999
+    },
+    {
+      "rank": 8,
+      "keyword": "下雪 ↓",
+      "change": "down",
+      "change_value": -6
+    },
+    {
+      "rank": 9,
+      "keyword": "美国近7成流浪汉曾是中产 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 10,
+      "keyword": "裴轸黑化 ↑",
+      "change": "up",
+      "change_value": 18
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "大寒是24节气的最后一个节气 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 2,
+      "keyword": "坐上公交出趟国 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 3,
+      "keyword": "去年中国经济贡献了世界30%的增长 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "别辜负眼前季节 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "精选创作者不语只一味宠粉 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "西班牙列车脱轨相撞已致40死 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "美财长教科书式演绎颠倒黑白 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 8,
+      "keyword": "U23亚洲杯半决赛前瞻 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "中核集团原总经理顾军被查 ↑",
+      "change": "up",
+      "change_value": 5
+    },
+    {
+      "rank": 10,
+      "keyword": "传奇设计师瓦伦蒂诺去世 →",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "天气与节气是当前绝对流量核心，“上海下雪”与“大寒”分占双平台榜首，带动了“下雪”、“南京下雪”等关联话题，形成现象级传播。",
+    "平台内容生态差异明显：微博以娱乐、社会话题为主，且话题迭代快（如“裴轸黑化”飙升）；抖音则对宏观经济数据、国际时事、正能量内容展现出更强的聚合与传播能力。",
+    "重大突发事件（西班牙列车事故）在双平台均进入前十，但抖音热度值（1113万）远高于微博（7.1万），显示抖音已成为公众获取和讨论重大新闻的关键场域。"
+  ]
+}
