@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现“节气+天气”主导的强季节性特征，微博平台“下雪”相关话题占据头部，抖音平台则更侧重宏观经济与正能量叙事。国际突发事件（西班牙列车事故、华伦天奴去世）与娱乐话题（艺人动态、电影宣发）形成跨平台共振。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "卢昱晓想认识赵今麦",
+      "from_rank": 39,
+      "to_rank": 13,
+      "reason": "排名跃升26位，从榜单外进入前15，因艺人互动话题引发粉丝群体集中讨论，热度迅速攀升。"
+    },
+    {
+      "keyword": "西班牙列车脱轨相撞已致40死",
+      "from_rank": 43,
+      "to_rank": 18,
+      "reason": "排名跃升25位，重大国际安全事故引发广泛关注，相关衍生话题（如中国留学生躲过事故）进一步推高热度。"
+    },
+    {
+      "keyword": "南京下雪",
+      "from_rank": 20,
+      "to_rank": 6,
+      "reason": "排名跃升14位，作为“下雪”地域性话题的代表，伴随实际天气变化和“上海下雪”榜首话题的带动，讨论度激增。"
+    },
+    {
+      "keyword": "肖战现在不跳舞要干嘛",
+      "from_rank": 25,
+      "to_rank": 17,
+      "reason": "排名跃升8位，艺人相关话题在粉丝群体中持续发酵，从榜单中后部进入前20。"
+    },
+    {
+      "keyword": "胖东来下雪天的安全感",
+      "from_rank": 40,
+      "to_rank": 35,
+      "reason": "排名跃升5位，将品牌形象与“下雪”热点结合，形成具象化、正面的社会话题，获得额外关注。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "上海下雪",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "大寒 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 3,
+      "keyword": "卫星互联网低轨19组卫星发射成功",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "华伦天奴去世 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "日本迎半世纪来首次零熊猫 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 6,
+      "keyword": "南京下雪 ↑",
+      "change": "up",
+      "change_value": 14
+    },
+    {
+      "rank": 7,
+      "keyword": "林更新的缘分续上了",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "老赖李亚鹏为何触动了网友 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 9,
+      "keyword": "美国近7成流浪汉曾是中产",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "武汉下雪 ↑",
+      "change": "up",
+      "change_value": 0
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "大寒是24节气的最后一个节气",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "坐上公交出趟国",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "去年中国经济贡献了世界30%的增长",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "别辜负眼前季节",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "精选创作者不语只一味宠粉",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "第一批雪人已经卷起来了 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "美财长教科书式演绎颠倒黑白",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "古巴启动“战争状态” ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 9,
+      "keyword": "U23亚洲杯半决赛前瞻 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 10,
+      "keyword": "传奇设计师瓦伦蒂诺去世",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "季节性天气（大寒、下雪）是驱动本周期社交热度的核心引擎，在微博表现为多城市下雪话题霸榜，在抖音则衍生出雪人创作、冬日氛围等创意内容。",
+    "国际突发事件（西班牙列车事故、阿富汗爆炸、古巴局势）与名人逝世（华伦天奴）构成严肃话题板块，在双平台均获得高关注，体现用户对重大事件的即时信息需求。",
+    "娱乐内容呈现分化：微博以艺人个人动态、粉丝互动为主；抖音则更集中于电影《镖人》的集中宣发、舞台表演及创意变装，平台内容生态差异显著。"
+  ]
+}
