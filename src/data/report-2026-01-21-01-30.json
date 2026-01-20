@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现体育赛事主导、平台内容分化的特征。U23国足相关话题在微博平台形成绝对统治，抖音平台则呈现赛事、经济、年节、娱乐内容并存的多元格局。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "U23国足进球",
+      "from_rank": 48,
+      "to_rank": 5,
+      "reason": "该词条从榜单中后段跃升至第5位，是U23国足战胜越南队比赛进程中的关键事件，直接引爆了讨论热度。"
+    },
+    {
+      "keyword": "U23国足2比0越南",
+      "from_rank": 27,
+      "to_rank": 2,
+      "reason": "比赛结果公布，词条排名飙升25位至第2位，成为赛事结果的核心话题，热度仅次于赛前预告。"
+    },
+    {
+      "keyword": "2026亚足联U23亚洲杯",
+      "from_rank": 34,
+      "to_rank": 11,
+      "reason": "随着比赛进行，赛事官方名称的关注度同步提升，排名上升23位，进入头部话题圈。"
+    },
+    {
+      "keyword": "手搓粉彩风转场来了",
+      "from_rank": 34,
+      "to_rank": 18,
+      "reason": "该词条在抖音平台排名跃升16位，是抖音平台内升幅最大的内容，表明其作为视觉创意模板引发了广泛的模仿与传播。"
+    },
+    {
+      "keyword": "谁教登陆少年这么预告新歌的",
+      "from_rank": 30,
+      "to_rank": 24,
+      "reason": "在抖音平台排名上升6位，是娱乐类话题中升幅第二的内容，反映了特定偶像团体新歌预告方式的病毒式传播效应。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23国足vs越南",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "U23国足2比0越南 ↑",
+      "change": "up",
+      "change_value": 25
+    },
+    {
+      "rank": 3,
+      "keyword": "还有不到30天过年",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "大量外国网友自称精神中国人 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 5,
+      "keyword": "U23国足进球 ↑",
+      "change": "up",
+      "change_value": 43
+    },
+    {
+      "rank": 6,
+      "keyword": "儿子怒斥癌症妈妈碰瓷为何让人共情 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 7,
+      "keyword": "官方辟谣阿克苏市限制用水",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "U23亚洲杯 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 9,
+      "keyword": "轧戏大结局 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 10,
+      "keyword": "慕胥辞 ↓",
+      "change": "down",
+      "change_value": -2
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23亚洲杯中国对阵越南",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "马年非遗祈福百景图",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "数读2025年中国经济成绩单",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "国足U23下半场5分钟进两球",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "年末高光穿搭大赏",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "彭啸头球破门",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "外面漫天飞雪正是涮肉的时节",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "跟着各地年货回家寻年味",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "大寒开启滑雪人狂欢模式 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 10,
+      "keyword": "许金花被执行死刑",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "体育赛事形成绝对热点：U23国足战胜越南的比赛结果及过程，直接催生了微博热搜榜前五中的三个席位，并带动了抖音平台相关话题的榜首热度。",
+    "平台内容生态差异显著：微博热点高度集中于体育与社会事件，而抖音热点则分散于体育、经济数据、节庆文化、娱乐创意等多个领域，呈现更强的多元性。",
+    "视觉创意驱动抖音热度：抖音平台上升最快话题多为‘手搓粉彩风转场’等具有强视觉表现力和模仿性的创意内容，体现了其以短视频互动为核心的热点生成机制。"
+  ]
+}
