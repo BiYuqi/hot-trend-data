@@ -1,0 +1,613 @@
+{
+  "timestamp": "2026-01-20 15:00:00",
+  "weibo": [
+    {
+      "platform": "weibo",
+      "keyword": "儿子回应怒吼癌症妈妈碰瓷爆火",
+      "rank": 1,
+      "hot": 1072410
+    },
+    {
+      "platform": "weibo",
+      "keyword": "医生给1岁娃开小众药被AI提醒慎用",
+      "rank": 2,
+      "hot": 789000
+    },
+    {
+      "platform": "weibo",
+      "keyword": "用大寒节气打开冬日中国之美",
+      "rank": 3,
+      "hot": 623937
+    },
+    {
+      "platform": "weibo",
+      "keyword": "加州66号公路奇遇季",
+      "rank": 4,
+      "hot": 462780
+    },
+    {
+      "platform": "weibo",
+      "keyword": "华伦天奴去世",
+      "rank": 5,
+      "hot": 319867
+    },
+    {
+      "platform": "weibo",
+      "keyword": "沈月 邵子恒是外国人吗",
+      "rank": 6,
+      "hot": 229375
+    },
+    {
+      "platform": "weibo",
+      "keyword": "这个月工资就是今年攒了多少钱",
+      "rank": 7,
+      "hot": 222810
+    },
+    {
+      "platform": "weibo",
+      "keyword": "马丽喊你猜谜赢健康礼",
+      "rank": 8,
+      "hot": 217022
+    },
+    {
+      "platform": "weibo",
+      "keyword": "冰湖重生",
+      "rank": 9,
+      "hot": 214988
+    },
+    {
+      "platform": "weibo",
+      "keyword": "李亚鹏公司前员工发声",
+      "rank": 10,
+      "hot": 204516
+    },
+    {
+      "platform": "weibo",
+      "keyword": "带1000去嫣然医院出院还剩990",
+      "rank": 11,
+      "hot": 175557
+    },
+    {
+      "platform": "weibo",
+      "keyword": "呼啸山庄定档",
+      "rank": 12,
+      "hot": 175541
+    },
+    {
+      "platform": "weibo",
+      "keyword": "阿爆",
+      "rank": 13,
+      "hot": 175151
+    },
+    {
+      "platform": "weibo",
+      "keyword": "陈星旭王玉雯突然的喜欢定档",
+      "rank": 14,
+      "hot": 174877
+    },
+    {
+      "platform": "weibo",
+      "keyword": "呆呆说自己确实闯了个大祸",
+      "rank": 15,
+      "hot": 174652
+    },
+    {
+      "platform": "weibo",
+      "keyword": "嫣然天使基金将陆续暂停筹款项目",
+      "rank": 16,
+      "hot": 174475
+    },
+    {
+      "platform": "weibo",
+      "keyword": "何聪睿戏扑甩锅女主",
+      "rank": 17,
+      "hot": 174211
+    },
+    {
+      "platform": "weibo",
+      "keyword": "阿爆回应",
+      "rank": 18,
+      "hot": 173883
+    },
+    {
+      "platform": "weibo",
+      "keyword": "第一批回老家的已被物价惊呆了",
+      "rank": 19,
+      "hot": 173698
+    },
+    {
+      "platform": "weibo",
+      "keyword": "女子转账近25万做医美几近失明",
+      "rank": 20,
+      "hot": 173611
+    },
+    {
+      "platform": "weibo",
+      "keyword": "有猪企卖542万头猪至少亏7亿",
+      "rank": 21,
+      "hot": 173273
+    },
+    {
+      "platform": "weibo",
+      "keyword": "李亚鹏说嫣儿像王菲不像自己",
+      "rank": 22,
+      "hot": 172939
+    },
+    {
+      "platform": "weibo",
+      "keyword": "赵樱子崩溃大哭",
+      "rank": 23,
+      "hot": 172807
+    },
+    {
+      "platform": "weibo",
+      "keyword": "牢A说不是有国籍就是中国人",
+      "rank": 24,
+      "hot": 172445
+    },
+    {
+      "platform": "weibo",
+      "keyword": "杨振华去世",
+      "rank": 25,
+      "hot": 172184
+    },
+    {
+      "platform": "weibo",
+      "keyword": "胡兵 央视门口最好认的明星",
+      "rank": 26,
+      "hot": 172070
+    },
+    {
+      "platform": "weibo",
+      "keyword": "包钢板材厂爆炸已确认9人死亡",
+      "rank": 27,
+      "hot": 171809
+    },
+    {
+      "platform": "weibo",
+      "keyword": "女网红在飞机上尖叫可能面临禁飞",
+      "rank": 28,
+      "hot": 171666
+    },
+    {
+      "platform": "weibo",
+      "keyword": "宋祖儿 平常都是恶心穿搭",
+      "rank": 29,
+      "hot": 171225
+    },
+    {
+      "platform": "weibo",
+      "keyword": "iPhone18Pro外观放弃药丸屏",
+      "rank": 30,
+      "hot": 171180
+    },
+    {
+      "platform": "weibo",
+      "keyword": "宋轶的裙子上有99朵玫瑰花",
+      "rank": 31,
+      "hot": 165398
+    },
+    {
+      "platform": "weibo",
+      "keyword": "恋综最爽女主",
+      "rank": 32,
+      "hot": 148364
+    },
+    {
+      "platform": "weibo",
+      "keyword": "嫣然天使基金回应何时开放捐赠",
+      "rank": 33,
+      "hot": 146905
+    },
+    {
+      "platform": "weibo",
+      "keyword": "阿爆私密账号",
+      "rank": 34,
+      "hot": 146901
+    },
+    {
+      "platform": "weibo",
+      "keyword": "怪不得长辈喜欢大方的孩子",
+      "rank": 35,
+      "hot": 146898
+    },
+    {
+      "platform": "weibo",
+      "keyword": "没有给有钱人提供情绪价值的义务",
+      "rank": 36,
+      "hot": 140204
+    },
+    {
+      "platform": "weibo",
+      "keyword": "小芒APP道歉",
+      "rank": 37,
+      "hot": 139430
+    },
+    {
+      "platform": "weibo",
+      "keyword": "何聪睿 要赖也是先赖她们",
+      "rank": 38,
+      "hot": 135694
+    },
+    {
+      "platform": "weibo",
+      "keyword": "上海积雪有多罕见",
+      "rank": 39,
+      "hot": 131238
+    },
+    {
+      "platform": "weibo",
+      "keyword": "侯明昊你要当清冷佛子吗",
+      "rank": 40,
+      "hot": 130734
+    },
+    {
+      "platform": "weibo",
+      "keyword": "张凌赫 我担是我的补习老师",
+      "rank": 41,
+      "hot": 130586
+    },
+    {
+      "platform": "weibo",
+      "keyword": "华人称智利火灾后车厘子可能要涨价",
+      "rank": 42,
+      "hot": 130540
+    },
+    {
+      "platform": "weibo",
+      "keyword": "美媒印证了牢A的捐献器官说法",
+      "rank": 43,
+      "hot": 130512
+    },
+    {
+      "platform": "weibo",
+      "keyword": "梁小龙死因公开",
+      "rank": 44,
+      "hot": 129336
+    },
+    {
+      "platform": "weibo",
+      "keyword": "阿爆建了个大别墅",
+      "rank": 45,
+      "hot": 113901
+    },
+    {
+      "platform": "weibo",
+      "keyword": "特朗普因诺贝尔奖破防威胁挪威",
+      "rank": 46,
+      "hot": 104774
+    },
+    {
+      "platform": "weibo",
+      "keyword": "牢A长得和头像一模一样啊",
+      "rank": 47,
+      "hot": 92839
+    },
+    {
+      "platform": "weibo",
+      "keyword": "12306购票页面有5种标识",
+      "rank": 48,
+      "hot": 92654
+    },
+    {
+      "platform": "weibo",
+      "keyword": "新女婿和旧女婿的区别",
+      "rank": 49,
+      "hot": 91796
+    },
+    {
+      "platform": "weibo",
+      "keyword": "A股调整三大原因",
+      "rank": 50,
+      "hot": 86522
+    },
+    {
+      "platform": "weibo",
+      "keyword": "A股行情换挡后市如何布局",
+      "rank": 51,
+      "hot": 84868
+    },
+    {
+      "platform": "weibo",
+      "keyword": "00后女子天生只有10颗牙",
+      "rank": 52,
+      "hot": 84449
+    }
+  ],
+  "douyin": [
+    {
+      "platform": "douyin",
+      "keyword": "杭州终于等来了雪",
+      "rank": 1,
+      "hot": 11524420
+    },
+    {
+      "platform": "douyin",
+      "keyword": "U23亚洲杯半决赛前瞻",
+      "rank": 2,
+      "hot": 11436941
+    },
+    {
+      "platform": "douyin",
+      "keyword": "IMF上调中国经济增长预期",
+      "rank": 3,
+      "hot": 11211302
+    },
+    {
+      "platform": "douyin",
+      "keyword": "长沙2026第一场雪",
+      "rank": 4,
+      "hot": 10894610
+    },
+    {
+      "platform": "douyin",
+      "keyword": "大寒是24节气的最后一个节气",
+      "rank": 5,
+      "hot": 10322270
+    },
+    {
+      "platform": "douyin",
+      "keyword": "万千气象看龙江",
+      "rank": 6,
+      "hot": 9918193
+    },
+    {
+      "platform": "douyin",
+      "keyword": "包钢板材厂爆炸已致9人死亡",
+      "rank": 7,
+      "hot": 8726727
+    },
+    {
+      "platform": "douyin",
+      "keyword": "著名相声表演艺术家杨振华逝世",
+      "rank": 8,
+      "hot": 8594391
+    },
+    {
+      "platform": "douyin",
+      "keyword": "第一批雪人已经卷起来了",
+      "rank": 9,
+      "hot": 8482819
+    },
+    {
+      "platform": "douyin",
+      "keyword": "欧洲酝酿对美“放大招”",
+      "rank": 10,
+      "hot": 8456576
+    },
+    {
+      "platform": "douyin",
+      "keyword": "冬季坠入冰窟如何自救",
+      "rank": 11,
+      "hot": 8424918
+    },
+    {
+      "platform": "douyin",
+      "keyword": "乌镇下雪了",
+      "rank": 12,
+      "hot": 8229524
+    },
+    {
+      "platform": "douyin",
+      "keyword": "“格陵兰人祖先是元朝远征军”无依据",
+      "rank": 13,
+      "hot": 8063372
+    },
+    {
+      "platform": "douyin",
+      "keyword": "杨瀚森19分5板1助1断1帽",
+      "rank": 14,
+      "hot": 7834626
+    },
+    {
+      "platform": "douyin",
+      "keyword": "上海几乎年年下雪为何难被看见",
+      "rank": 15,
+      "hot": 7831650
+    },
+    {
+      "platform": "douyin",
+      "keyword": "中方联合国上再发声",
+      "rank": 16,
+      "hot": 7821239
+    },
+    {
+      "platform": "douyin",
+      "keyword": "外媒谈AI竞争：中国会笑到最后",
+      "rank": 17,
+      "hot": 7820409
+    },
+    {
+      "platform": "douyin",
+      "keyword": "网友拍到神二十返回绝美瞬间",
+      "rank": 18,
+      "hot": 7817055
+    },
+    {
+      "platform": "douyin",
+      "keyword": "电影镖人集齐四代武侠人",
+      "rank": 19,
+      "hot": 7795690
+    },
+    {
+      "platform": "douyin",
+      "keyword": "新东方聘请陈行甲为总顾问",
+      "rank": 20,
+      "hot": 7795664
+    },
+    {
+      "platform": "douyin",
+      "keyword": "遇到下雪狗狗的四驱也不行了",
+      "rank": 21,
+      "hot": 7777293
+    },
+    {
+      "platform": "douyin",
+      "keyword": "外交部：布局中国就是赢得先机",
+      "rank": 22,
+      "hot": 7771787
+    },
+    {
+      "platform": "douyin",
+      "keyword": "今年的冬天没有遗憾啦",
+      "rank": 23,
+      "hot": 7771770
+    },
+    {
+      "platform": "douyin",
+      "keyword": "黄金和内存条成年度抗跌硬通货",
+      "rank": 24,
+      "hot": 7744685
+    },
+    {
+      "platform": "douyin",
+      "keyword": "用这首病态的爱发什么都很配",
+      "rank": 25,
+      "hot": 7744422
+    },
+    {
+      "platform": "douyin",
+      "keyword": "左奇函高富帅变装",
+      "rank": 26,
+      "hot": 7741624
+    },
+    {
+      "platform": "douyin",
+      "keyword": "关晓彤黑礼帽暗夜女王",
+      "rank": 27,
+      "hot": 7740083
+    },
+    {
+      "platform": "douyin",
+      "keyword": "正宗东北烤意面研发成功",
+      "rank": 28,
+      "hot": 7739144
+    },
+    {
+      "platform": "douyin",
+      "keyword": "遇到讨厌的人我们换个说法",
+      "rank": 29,
+      "hot": 7733827
+    },
+    {
+      "platform": "douyin",
+      "keyword": "徐良官宣巡演",
+      "rank": 30,
+      "hot": 7722539
+    },
+    {
+      "platform": "douyin",
+      "keyword": "王楚然辛云来新剧明月录",
+      "rank": 31,
+      "hot": 7719647
+    },
+    {
+      "platform": "douyin",
+      "keyword": "海昌企鹅冬日限定遛弯萌化了",
+      "rank": 32,
+      "hot": 7713605
+    },
+    {
+      "platform": "douyin",
+      "keyword": "下了雪的紫金山美若仙境",
+      "rank": 33,
+      "hot": 7711950
+    },
+    {
+      "platform": "douyin",
+      "keyword": "这是连续剧草莓恨恨恨吗",
+      "rank": 34,
+      "hot": 7702955
+    },
+    {
+      "platform": "douyin",
+      "keyword": "大表哥银杏湖巨物捕捞行动",
+      "rank": 35,
+      "hot": 7701362
+    },
+    {
+      "platform": "douyin",
+      "keyword": "怪不得说两个孩子有事能商量",
+      "rank": 36,
+      "hot": 7684243
+    },
+    {
+      "platform": "douyin",
+      "keyword": "精选创作者不语只一味宠粉",
+      "rank": 37,
+      "hot": 7677598
+    },
+    {
+      "platform": "douyin",
+      "keyword": "沙溢一条视频暴露家庭地位",
+      "rank": 38,
+      "hot": 7672734
+    },
+    {
+      "platform": "douyin",
+      "keyword": "当我请小区的流浪猫帮忙找猫",
+      "rank": 39,
+      "hot": 7671729
+    },
+    {
+      "platform": "douyin",
+      "keyword": "找一张18岁的照片来配这首歌",
+      "rank": 40,
+      "hot": 7665780
+    },
+    {
+      "platform": "douyin",
+      "keyword": "陈雪凝发了婚礼直拍vlog",
+      "rank": 41,
+      "hot": 7662463
+    },
+    {
+      "platform": "douyin",
+      "keyword": "sing女团国风舞台杀疯了",
+      "rank": 42,
+      "hot": 7655763
+    },
+    {
+      "platform": "douyin",
+      "keyword": "苹果将改为一年两次发布新品",
+      "rank": 43,
+      "hot": 7655247
+    },
+    {
+      "platform": "douyin",
+      "keyword": "别辜负眼前季节",
+      "rank": 44,
+      "hot": 7653065
+    },
+    {
+      "platform": "douyin",
+      "keyword": "坐上公交出趟国",
+      "rank": 45,
+      "hot": 7652368
+    },
+    {
+      "platform": "douyin",
+      "keyword": "泡沫转场让心跳漏了一拍",
+      "rank": 46,
+      "hot": 7651356
+    },
+    {
+      "platform": "douyin",
+      "keyword": "如何评价荣耀Magic8ProAir",
+      "rank": 47,
+      "hot": 7650436
+    },
+    {
+      "platform": "douyin",
+      "keyword": "下雪了欢迎各位来到容城",
+      "rank": 48,
+      "hot": 7650328
+    },
+    {
+      "platform": "douyin",
+      "keyword": "咪的步伐很曼妙",
+      "rank": 49,
+      "hot": 7648713
+    }
+  ]
+}
