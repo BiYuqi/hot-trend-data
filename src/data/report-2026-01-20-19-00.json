@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现“硬新闻主导、娱乐话题分散”格局。微博平台由体育、科技、社会民生等硬新闻占据头部，抖音平台则因大寒节气与多地降雪，形成以气象、体育、国际时政为核心的集中讨论场。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "选秀鼻祖李宇春来给内娱上课了",
+      "from_rank": 48,
+      "to_rank": 18,
+      "reason": "排名跃升30位，从榜单外进入前20，因话题涉及对行业现象的评论引发广泛共鸣与讨论。"
+    },
+    {
+      "keyword": "父亲去世留30万贷款女儿被判不用还",
+      "from_rank": 17,
+      "to_rank": 9,
+      "reason": "排名上升8位进入前十，社会民生与法律议题的强关联性驱动了热度快速攀升。"
+    },
+    {
+      "keyword": "大表哥银杏湖巨物捕捞行动",
+      "from_rank": 44,
+      "to_rank": 36,
+      "reason": "排名上升8位，是抖音平台上升幅度最大的词条，内容具有猎奇性和视觉冲击力，符合短视频传播特性。"
+    },
+    {
+      "keyword": "人类对牛奶的开发不足1%",
+      "from_rank": 9,
+      "to_rank": 7,
+      "reason": "排名上升2位，冷知识类话题因其反常识性在微博平台持续发酵，热度保持高位。"
+    },
+    {
+      "keyword": "遇到下雪狗狗的四驱也不行了",
+      "from_rank": 34,
+      "to_rank": 30,
+      "reason": "排名上升4位，结合降雪天气与宠物萌趣内容，在抖音平台获得快速传播。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "中国乒协确认国家队教练员名单",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "女子洗澡忘关水阀将小区变溜冰场",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "中国载人航天首次应急行动",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "华为MateX7展开赢很大 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "王者荣耀 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "香港发生离奇夺命车祸 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 7,
+      "keyword": "人类对牛奶的开发不足1% ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 8,
+      "keyword": "王一博同款益倍适超感益生菌 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "父亲去世留30万贷款女儿被判不用还 ↑",
+      "change": "up",
+      "change_value": 8
+    },
+    {
+      "rank": 10,
+      "keyword": "怪不得长辈喜欢大方的孩子 ↓",
+      "change": "down",
+      "change_value": -3
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23亚洲杯半决赛前瞻",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "中方代表：日本从没真正认罪悔过",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "三大引擎点亮2025中国经济",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "许金花被执行死刑",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "杭州终于等来了雪",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "中方收到美方加入和平委员会邀请",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "著名相声表演艺术家杨振华逝世",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "大寒是24节气的最后一个节气",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "长沙2026第一场雪",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "第一批雪人已经卷起来了",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "微博头部热点固化，体育、航天、社会民生等硬新闻占据绝对主导，娱乐话题分散于中后部。",
+    "抖音热点高度集中，大寒节气与全国性降雪天气催生了从气象、旅游到生活技巧的完整内容生态链。",
+    "平台差异显著：微博侧重机构发布与社会议题深度讨论，抖音侧重视觉化、场景化内容与国际时政的短视频解读。"
+  ]
+}
