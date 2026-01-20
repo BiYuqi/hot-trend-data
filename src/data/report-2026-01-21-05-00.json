@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点高度集中于U23国足历史性晋级亚洲杯决赛，该事件在微博和抖音双平台均占据绝对主导地位，形成跨平台传播的体育盛事。微博平台同时出现国际政治话题的显著上升，抖音则呈现冬季景观与年节氛围内容的热度增长。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "上海几乎年年下雪为何难被看见",
+      "from_rank": 49,
+      "to_rank": 26,
+      "reason": "排名跃升23位，因全国多地降雪引发对上海独特气候现象的科学讨论与视频传播。"
+    },
+    {
+      "keyword": "今年的冬天没有遗憾啦",
+      "from_rank": 45,
+      "to_rank": 23,
+      "reason": "排名跃升22位，因全国性降雪天气催生大量用户分享雪景与满足情绪的视频内容。"
+    },
+    {
+      "keyword": "中方收到美方加入和平委员会邀请",
+      "from_rank": 46,
+      "to_rank": 25,
+      "reason": "排名跃升21位，因涉及重大国际外交动态，引发用户对中美关系走向的集中关注。"
+    },
+    {
+      "keyword": "得闲谨制",
+      "from_rank": 19,
+      "to_rank": 9,
+      "reason": "排名跃升10位，因某知名博主或品牌发布相关内容，引发粉丝群体模仿与话题发酵。"
+    },
+    {
+      "keyword": "大寒开启滑雪人狂欢模式",
+      "from_rank": 15,
+      "to_rank": 9,
+      "reason": "排名跃升6位，因节气‘大寒’与全国雪季叠加，滑雪运动相关视频创作和互动激增。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23国足3比0越南U23",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "大量外国网友自称精神中国人",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "还有不到30天过年",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "U23国足计划有变准备争冠",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "U23国足决赛将对阵日本 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 6,
+      "keyword": "儿子怒斥癌症妈妈碰瓷为何让人共情",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "u23",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "U23国足首次进入亚洲杯决赛 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 9,
+      "keyword": "得闲谨制 ↑",
+      "change": "up",
+      "change_value": 10
+    },
+    {
+      "rank": 10,
+      "keyword": "中国足球队回应U23进决赛 ↓",
+      "change": "down",
+      "change_value": -5
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23国足3:0越南挺进决赛",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "U23男足：计划有变决赛见",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "数读2025年中国经济成绩单",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "国足U23下半场5分钟进两球",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "马年非遗祈福百景图",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "彭啸头球破门",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "年末高光穿搭大赏",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "U23国足将同日本队争冠",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "大寒开启滑雪人狂欢模式 ↑",
+      "change": "up",
+      "change_value": 6
+    },
+    {
+      "rank": 10,
+      "keyword": "许金花被执行死刑",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "U23国足晋级事件是绝对核心热点，衍生话题占据微博前十半壁江山及抖音前八多数席位，形成现象级传播。",
+    "冬季气候（降雪、大寒节气）是抖音平台次要但强劲的增长引擎，推动景观、运动、年味类内容热度快速上升。",
+    "微博平台国际政治话题（如美财长甩锅、中方收到外交邀请）关注度显著提升，反映用户对特定国际事件的敏感度。"
+  ]
+}
