@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现国事、民生、娱乐三足鼎立格局。微博平台由体育、社会、科技及游戏话题主导，抖音平台则聚焦国际体育赛事、时政外交及节气文化，平台内容偏好差异显著。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "上海几乎年年下雪为何难被看见",
+      "from_rank": 44,
+      "to_rank": 27,
+      "reason": "排名跃升17位，因全国多地降雪引发对上海独特气候现象的科学讨论，话题具备地域反差与科普价值。"
+    },
+    {
+      "keyword": "人民币现金收付新规2月1日起施行",
+      "from_rank": 45,
+      "to_rank": 30,
+      "reason": "排名跃升15位，因新规即将生效，直接关联公众日常支付行为，引发对现金使用权益的广泛关注。"
+    },
+    {
+      "keyword": "海昌企鹅冬日限定遛弯萌化了",
+      "from_rank": 41,
+      "to_rank": 37,
+      "reason": "排名跃升4位，契合大寒节气与全国降雪背景，萌宠内容在冬季场景下传播力增强。"
+    },
+    {
+      "keyword": "以为会长胖但巨减肥的习惯",
+      "from_rank": 28,
+      "to_rank": 24,
+      "reason": "排名跃升4位，话题具有反常识的实用价值，切中大众健康管理需求，易于引发共鸣与分享。"
+    },
+    {
+      "keyword": "今年的冬天没有遗憾啦",
+      "from_rank": 32,
+      "to_rank": 29,
+      "reason": "排名跃升3位，作为情绪化总结句，与全国性降雪天气强相关，成为用户表达满足感的通用文案。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "中国乒协确认国家队教练员名单",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "女子洗澡忘关水阀将小区变溜冰场",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "中国载人航天首次应急行动",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "华为MateX7展开赢很大 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 5,
+      "keyword": "王昭君灯塔水母主题皮肤 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 6,
+      "keyword": "长生FMVP皮肤即将上线 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 7,
+      "keyword": "你以为的双胞胎vs实际上的双胞胎",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "天猫榜单年度畅销榜权威发布 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 9,
+      "keyword": "人类对牛奶的开发不足1% ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 10,
+      "keyword": "父亲去世留30万贷款女儿被判不用还 ↓",
+      "change": "down",
+      "change_value": -1
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23亚洲杯中国对阵越南 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 2,
+      "keyword": "U23亚洲杯日本vs韩国 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 3,
+      "keyword": "三大引擎点亮2025中国经济",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "中方代表：日本从没真正认罪悔过 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 5,
+      "keyword": "大寒是24节气的最后一个节气 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 6,
+      "keyword": "中方收到美方加入和平委员会邀请 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 7,
+      "keyword": "第一批雪人已经卷起来了 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 8,
+      "keyword": "许金花被执行死刑 ↓",
+      "change": "down",
+      "change_value": -7
+    },
+    {
+      "rank": 9,
+      "keyword": "冯德莱恩：格陵兰岛主权不容谈判 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 10,
+      "keyword": "著名相声表演艺术家杨振华逝世 ↓",
+      "change": "down",
+      "change_value": -4
+    }
+  ],
+  "conclusion": [
+    "体育与国事议题占据双平台头部流量，微博侧重国内体育人事与航天，抖音聚焦U23亚洲杯与国际外交，显示平台用户对宏观议题的关注点存在分野。",
+    "‘雪’成为本周期最强环境背景音，驱动了从社会新闻、城市景观到萌宠、节气的全系列内容生产与传播，是跨平台联动的核心自然要素。",
+    "娱乐内容呈现垂直化与圈层化特征，微博以游戏皮肤、影视剧宣发及明星话题为主，抖音则侧重影视二创、爱豆挑战及网红事件，平台娱乐生态差异固化。"
+  ]
+}
