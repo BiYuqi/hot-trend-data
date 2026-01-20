@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现社会民生与娱乐话题并重格局，微博平台由突发社会事件和明星动态主导，抖音平台则聚焦冬季天气、体育赛事及国际时政，平台内容偏好差异显著。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "阿爆建了个大别墅",
+      "from_rank": 45,
+      "to_rank": 17,
+      "reason": "排名跃升28位，因‘阿爆’系列话题持续发酵，用户对相关衍生内容关注度激增。"
+    },
+    {
+      "keyword": "怪不得长辈喜欢大方的孩子",
+      "from_rank": 35,
+      "to_rank": 14,
+      "reason": "排名跃升21位，该话题切中代际情感共鸣，引发广泛讨论与传播。"
+    },
+    {
+      "keyword": "张凌赫 我担是我的补习老师",
+      "from_rank": 41,
+      "to_rank": 30,
+      "reason": "排名跃升11位，明星粉丝互动话题热度快速攀升。"
+    },
+    {
+      "keyword": "宋祖儿 平常都是恶心穿搭",
+      "from_rank": 29,
+      "to_rank": 22,
+      "reason": "排名跃升7位，明星个人风格话题引发娱乐讨论。"
+    },
+    {
+      "keyword": "陈星旭王玉雯突然的喜欢定档",
+      "from_rank": 14,
+      "to_rank": 9,
+      "reason": "排名跃升5位并进入前十，新剧定档信息驱动粉丝及剧集关注者集中讨论。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "女子洗澡忘关水阀将小区变溜冰场 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 2,
+      "keyword": "儿子回应怒吼癌症妈妈碰瓷爆火 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 3,
+      "keyword": "中国2025年成绩单含金量满满 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "香港发生离奇夺命车祸 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "华伦天奴去世 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "这个月工资就是今年攒了多少钱 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 7,
+      "keyword": "郑州某学校全体学生呕吐为谣言 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "冰湖重生 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 9,
+      "keyword": "陈星旭王玉雯突然的喜欢定档 ↑",
+      "change": "up",
+      "change_value": 5
+    },
+    {
+      "rank": 10,
+      "keyword": "国家发改委推动优化节假日安排 →",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23亚洲杯半决赛前瞻 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 2,
+      "keyword": "杭州终于等来了雪 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 3,
+      "keyword": "IMF上调中国经济增长预期 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "大寒是24节气的最后一个节气 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 5,
+      "keyword": "第一批雪人已经卷起来了 ↑",
+      "change": "up",
+      "change_value": 4
+    },
+    {
+      "rank": 6,
+      "keyword": "中方收到美方加入和平委员会邀请 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "包钢板材厂爆炸已致9人死亡 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "著名相声表演艺术家杨振华逝世 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "长沙2026第一场雪 ↓",
+      "change": "down",
+      "change_value": -5
+    },
+    {
+      "rank": 10,
+      "keyword": "冬季坠入冰窟如何自救 ↑",
+      "change": "up",
+      "change_value": 1
+    }
+  ],
+  "conclusion": [
+    "微博热点由突发社会新闻（如‘溜冰场’事件）和明星/娱乐话题（如‘阿爆’系列、新剧定档）共同驱动，社会民生与娱乐内容竞争激烈。",
+    "抖音热点高度集中于冬季天气现象（多地降雪）、体育赛事（U23亚洲杯）及国际时政（IMF预期、中美关系），平台内容呈现明显的季节性与宏观议题偏好。",
+    "‘阿爆’相关话题在微博平台形成话题矩阵并实现快速跃升，而抖音平台内容更依赖视觉化、场景化（如雪景、自救指南）和时效性强的公共议题传播。"
+  ]
+}
