@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现明显的季节性、事件性与商业营销特征。微博平台由南方多地降雪天气主导，抖音平台则融合节气、经济、国际时事与娱乐内容，平台内容偏好差异显著。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "原来真的有AB货啊",
+      "from_rank": 33,
+      "to_rank": 7,
+      "reason": "排名跃升26位，从腰部话题直接进入前十，表明该消费或产品质量话题引发了广泛的共鸣与讨论。"
+    },
+    {
+      "keyword": "贝克汉姆遭大儿子控诉",
+      "from_rank": 34,
+      "to_rank": 14,
+      "reason": "排名上升20位，进入前二十，国际明星的家庭纠纷话题迅速吸引了公众注意力。"
+    },
+    {
+      "keyword": "用芥末泡虾虾线都快吐出来了",
+      "from_rank": 49,
+      "to_rank": 33,
+      "reason": "排名上升16位，从榜单边缘进入中段，猎奇的生活技巧或食品实验内容引发了用户模仿与讨论。"
+    },
+    {
+      "keyword": "中国留学生买错票躲过西班牙高铁事故",
+      "from_rank": 32,
+      "to_rank": 23,
+      "reason": "排名上升9位，将国际灾难新闻与个人化、戏剧性的幸存故事结合，增强了话题的传播力。"
+    },
+    {
+      "keyword": "日本自卫队员性侵男同僚",
+      "from_rank": 36,
+      "to_rank": 31,
+      "reason": "排名上升5位，涉及他国军队的负面社会新闻持续吸引关注。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "上海下雪",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "杭州下雪",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "卫星互联网低轨19组卫星发射成功",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "送礼送蒙牛要强接彩头",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "华伦天奴去世",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 6,
+      "keyword": "南京下雪",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "原来真的有AB货啊",
+      "change": "up",
+      "change_value": 26
+    },
+    {
+      "rank": 8,
+      "keyword": "天猫新春年礼大使马丽",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "大寒",
+      "change": "down",
+      "change_value": -7
+    },
+    {
+      "rank": 10,
+      "keyword": "老赖李亚鹏为何触动了网友",
+      "change": "down",
+      "change_value": -2
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "坐上公交出趟国",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 2,
+      "keyword": "大寒是24节气的最后一个节气",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 3,
+      "keyword": "去年中国经济贡献了世界30%的增长",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "第一批雪人已经卷起来了",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 5,
+      "keyword": "别辜负眼前季节",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 6,
+      "keyword": "精选创作者不语只一味宠粉",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 7,
+      "keyword": "冬季坠入冰窟如何自救",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "U23亚洲杯半决赛前瞻",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 9,
+      "keyword": "美财长教科书式演绎颠倒黑白",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 10,
+      "keyword": "传奇设计师瓦伦蒂诺去世",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "天气与社会民生是微博核心驱动力，南方降雪话题占据榜单前列，同时消费维权（AB货）、家庭伦理（贝克汉姆）话题快速上升。",
+    "抖音内容生态更综合，节气知识、宏观经济、国际政治与娱乐营销（电影镖人、汽水音乐节）并存，平台引导与用户创作结合紧密。",
+    "两平台对同一国际事件（西班牙事故、瓦伦蒂诺去世）的关注角度不同，微博侧重个人叙事与名人效应，抖音侧重信息整合与宏观视角。"
+  ]
+}
