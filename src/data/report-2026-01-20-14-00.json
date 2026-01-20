@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现两极分化：微博平台由社会伦理争议和名人动态主导，抖音平台则聚焦于全国性降雪天气和宏观经济议题。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "牢A说不是有国籍就是中国人",
+      "from_rank": 40,
+      "to_rank": 24,
+      "reason": "排名跃升16位，因相关争议性言论引发广泛讨论，热度快速攀升。"
+    },
+    {
+      "keyword": "呆呆说自己确实闯了个大祸",
+      "from_rank": 26,
+      "to_rank": 20,
+      "reason": "排名上升6位，当事人公开回应自身事件，推动话题热度显著增长。"
+    },
+    {
+      "keyword": "这个月工资就是今年攒了多少钱",
+      "from_rank": 32,
+      "to_rank": 26,
+      "reason": "排名上升6位，话题切中年终财务盘点情绪，引发用户共鸣与讨论。"
+    },
+    {
+      "keyword": "李亚鹏说嫣儿像王菲不像自己",
+      "from_rank": 21,
+      "to_rank": 16,
+      "reason": "排名上升5位，涉及明星家庭话题，持续吸引公众关注。"
+    },
+    {
+      "keyword": "汪苏泷HBN",
+      "from_rank": 31,
+      "to_rank": 28,
+      "reason": "排名上升3位，明星商业代言信息发布，带动话题热度上升。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "儿子回应怒吼癌症妈妈碰瓷爆火",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "医生给1岁娃开小众药被AI提醒慎用",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "用大寒节气打开冬日中国之美",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "实战派 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "华伦天奴去世 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 6,
+      "keyword": "李亚鹏公司前员工发声 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 7,
+      "keyword": "第一批回老家的已被物价惊呆了",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "林更新的缘分续上了 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "冰湖重生",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "包钢板材厂爆炸已确认9人死亡 ↑",
+      "change": "up",
+      "change_value": 2
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "长沙2026第一场雪",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "杭州终于等来了雪",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "IMF上调中国经济增长预期",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "U23亚洲杯半决赛前瞻",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "坐上公交出趟国",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "万千气象看龙江",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "包钢板材厂爆炸已致9人死亡",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "著名相声表演艺术家杨振华逝世",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "大寒是24节气的最后一个节气",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "第一批雪人已经卷起来了",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "微博平台社会议题与娱乐话题交织，伦理争议（如‘儿子回应怒吼癌症妈妈’）和名人动态（如李亚鹏相关）是核心驱动力。",
+    "抖音平台内容高度聚焦于全国性降雪天气（长沙、杭州等）和宏观经济信心（IMF上调预期），呈现强地域性与时效性。",
+    "两平台热点结构稳定，微博前十变动主要源于新事件（如‘实战派’）和事故报道（包钢爆炸），抖音前十则完全由天气和宏观议题占据。"
+  ]
+}
