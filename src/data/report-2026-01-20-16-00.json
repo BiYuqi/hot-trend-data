@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现两极分化：微博由社会民生与娱乐话题主导，抖音则聚焦体育赛事与节气天气。平台内容偏好差异显著，微博讨论更碎片化、情绪化，抖音内容更集中、视觉化。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "贝克汉姆长子称婚礼是最屈辱的时刻",
+      "from_rank": 47,
+      "to_rank": 14,
+      "reason": "排名跃升33位，从榜单边缘进入头部，名人家庭争议性言论引发集中讨论。"
+    },
+    {
+      "keyword": "外媒谈AI竞争：中国会笑到最后",
+      "from_rank": 48,
+      "to_rank": 15,
+      "reason": "排名跃升33位，从榜单外进入前15，涉及国家科技竞争与民族自豪感的议题引发广泛共鸣。"
+    },
+    {
+      "keyword": "20岁李嫣现状",
+      "from_rank": 37,
+      "to_rank": 26,
+      "reason": "排名跃升11位，关联同期李亚鹏、嫣然医院等系列话题，形成星二代与家庭议题的讨论集群。"
+    },
+    {
+      "keyword": "用这首病态的爱发什么都很配",
+      "from_rank": 33,
+      "to_rank": 20,
+      "reason": "排名跃升13位，作为抖音热门BGM，其适配性引发了大量用户参与创作与传播。"
+    },
+    {
+      "keyword": "国家发改委推动优化节假日安排",
+      "from_rank": 10,
+      "to_rank": 2,
+      "reason": "排名跃升8位，政策议题因与公众假期利益高度相关，讨论热度迅速攀升至榜单第二。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "女子洗澡忘关水阀将小区变溜冰场",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "国家发改委推动优化节假日安排 ↑",
+      "change": "up",
+      "change_value": 8
+    },
+    {
+      "rank": 3,
+      "keyword": "中国2025年成绩单含金量满满",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "郑钦文阿里千问全球代言人",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "香港发生离奇夺命车祸 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 6,
+      "keyword": "陈星旭王玉雯突然的喜欢定档 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 7,
+      "keyword": "这个月工资就是今年攒了多少钱 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 8,
+      "keyword": "马丽喊你猜谜赢健康礼",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "华伦天奴去世 ↓",
+      "change": "down",
+      "change_value": -4
+    },
+    {
+      "rank": 10,
+      "keyword": "与女友同房4天后死亡男子家属索赔",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23亚洲杯半决赛前瞻",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "杭州终于等来了雪",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "IMF上调中国经济增长预期",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "大寒是24节气的最后一个节气",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "第一批雪人已经卷起来了",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "中方收到美方加入和平委员会邀请",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "著名相声表演艺术家杨振华逝世 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 8,
+      "keyword": "长沙2026第一场雪 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 9,
+      "keyword": "冬季坠入冰窟如何自救 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 10,
+      "keyword": "乌镇下雪了 ↑",
+      "change": "up",
+      "change_value": 1
+    }
+  ],
+  "conclusion": [
+    "微博热点呈现强社会性与娱乐性，民生政策、名人家庭、社会奇闻与影视宣发共同构成讨论主体。",
+    "抖音热点高度集中，体育赛事、节气天气、国际时政与视觉化内容（雪景、BGM）占据绝对主导。",
+    "平台间内容生态差异固化：微博是观点与情绪的发酵场，抖音是视觉与话题的传播池。"
+  ]
+}
