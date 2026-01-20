@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现社会民生与冬季气象双主线并行，微博平台由家庭伦理、医疗安全等强情感话题主导，抖音平台则聚焦于全国性降雪、国际体育赛事及宏观经济信息，平台内容分化明显。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "阿爆回应",
+      "from_rank": 45,
+      "to_rank": 14,
+      "reason": "排名跃升31位，从榜单外进入前15，表明相关事件或人物在短时间内引发了集中讨论和回应需求。"
+    },
+    {
+      "keyword": "第一批回老家的已被物价惊呆了",
+      "from_rank": 21,
+      "to_rank": 7,
+      "reason": "排名跃升14位，进入微博TOP10，反映了春节前夕返乡人群对物价变化的普遍关注和共鸣。"
+    },
+    {
+      "keyword": "女网红在飞机上尖叫可能面临禁飞",
+      "from_rank": 34,
+      "to_rank": 23,
+      "reason": "排名跃升11位，进入前25，事件本身具有公共安全与个人行为的冲突性，迅速引发讨论。"
+    },
+    {
+      "keyword": "牢A长得和头像一模一样啊",
+      "from_rank": 35,
+      "to_rank": 24,
+      "reason": "排名跃升11位，进入前25，表明围绕特定人物‘牢A’的形象讨论热度在持续发酵。"
+    },
+    {
+      "keyword": "医生给1岁娃开小众药被AI提醒慎用",
+      "from_rank": 10,
+      "to_rank": 2,
+      "reason": "排名跃升8位，升至微博榜眼，结合了医疗安全、AI技术应用与育儿焦虑，话题冲击力强。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "儿子回应怒吼癌症妈妈碰瓷爆火",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "医生给1岁娃开小众药被AI提醒慎用 ↑",
+      "change": "up",
+      "change_value": 8
+    },
+    {
+      "rank": 3,
+      "keyword": "用大寒节气打开冬日中国之美",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "华为MateX7展开赢很大",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "李亚鹏公司前员工发声",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "华伦天奴去世",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "第一批回老家的已被物价惊呆了 ↑",
+      "change": "up",
+      "change_value": 14
+    },
+    {
+      "rank": 8,
+      "keyword": "东阿阿胶礼送到心坎里",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "冰湖重生",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "带1000去嫣然医院出院还剩990 ↓",
+      "change": "down",
+      "change_value": -8
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "长沙2026第一场雪",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "杭州终于等来了雪",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "IMF上调中国经济增长预期",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "U23亚洲杯半决赛前瞻 ↑",
+      "change": "up",
+      "change_value": 13
+    },
+    {
+      "rank": 5,
+      "keyword": "坐上公交出趟国 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 6,
+      "keyword": "万千气象看龙江",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "包钢板材厂爆炸已致9人死亡",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "著名相声表演艺术家杨振华逝世 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 9,
+      "keyword": "大寒是24节气的最后一个节气 ↓",
+      "change": "down",
+      "change_value": -4
+    },
+    {
+      "rank": 10,
+      "keyword": "第一批雪人已经卷起来了 ↓",
+      "change": "down",
+      "change_value": -3
+    }
+  ],
+  "conclusion": [
+    "微博热点高度集中于家庭伦理、医疗争议及名人周边，情感驱动和争议性是其核心传播动力。",
+    "抖音热点以全国性降雪景观、国际体育赛事和宏观经济信息为主，内容更偏向于现象记录、资讯传递和轻松娱乐。",
+    "‘阿爆’、‘牢A’等系列话题在微博平台形成持续讨论圈，显示出特定人物或事件具备衍生多话题的发酵能力。"
+  ]
+}
