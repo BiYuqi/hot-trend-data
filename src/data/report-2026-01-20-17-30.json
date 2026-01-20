@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现“冰雪+国际”双主线特征，微博平台由突发社会新闻和体育伤病事件主导，抖音平台则围绕节气、雪景和体育赛事形成强季节性内容聚合。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "巴特勒前十字韧带撕裂",
+      "from_rank": 32,
+      "to_rank": 2,
+      "reason": "排名跃升30位，从第32位升至第2位，其关联词条‘巴特勒赛季报销’、‘勇士 巴特勒’同步进入榜单，表明球星严重伤病事件在体育圈层引发连锁讨论。"
+    },
+    {
+      "keyword": "特朗普发登上格陵兰岛图",
+      "from_rank": 35,
+      "to_rank": 12,
+      "reason": "排名跃升23位，从第35位升至第12位，其关联词条‘特朗普称因未获诺奖不再考虑和平’同步出现，显示该人物争议性言行持续吸引流量。"
+    },
+    {
+      "keyword": "李亚鹏曾称没有王菲办不起嫣然医院",
+      "from_rank": 47,
+      "to_rank": 34,
+      "reason": "排名跃升13位，从第47位升至第34位，其关联词条‘李亚鹏说嫣儿像王菲不像自己’、‘20岁李嫣现状’同期存在，构成围绕其家庭话题的集中讨论。"
+    },
+    {
+      "keyword": "12岁女孩被虐致死案继母被执行死刑",
+      "from_rank": 28,
+      "to_rank": 23,
+      "reason": "排名上升5位，从第28位升至第23位，案件判决结果执行引发公众对司法正义和社会议题的持续关注。"
+    },
+    {
+      "keyword": "娜娜米手势舞挑战",
+      "from_rank": 34,
+      "to_rank": 19,
+      "reason": "排名跃升15位，从第34位升至第19位，是抖音平台上升最快的项目，表明该手势舞挑战在短视频平台形成了病毒式传播。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "女子洗澡忘关水阀将小区变溜冰场 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "巴特勒前十字韧带撕裂 ↑",
+      "change": "up",
+      "change_value": 30
+    },
+    {
+      "rank": 3,
+      "keyword": "中国载人航天首次应急行动 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "华为MateX7展开赢很大 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "中方收到美方加入和平委员会邀请 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 6,
+      "keyword": "香港发生离奇夺命车祸 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 7,
+      "keyword": "4寸10元蛋糕店老板谈定价 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 8,
+      "keyword": "天猫榜单年度畅销榜权威发布 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "穆祉丞王橹杰双人舞台播放量破千万 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 10,
+      "keyword": "这个月工资就是今年攒了多少钱 ↓",
+      "change": "down",
+      "change_value": -2
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23亚洲杯半决赛前瞻 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "杭州终于等来了雪 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "三大引擎点亮2025中国经济 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "大寒是24节气的最后一个节气 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "第一批雪人已经卷起来了 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "中方收到美方加入和平委员会邀请 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "著名相声表演艺术家杨振华逝世 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "长沙2026第一场雪 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "大寒开启滑雪人狂欢模式 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "乌镇下雪了 ↑",
+      "change": "up",
+      "change_value": 7
+    }
+  ],
+  "conclusion": [
+    "微博热点分散，社会奇闻、体育伤病、国际政治、娱乐八卦并存，缺乏绝对主导议题，反映其作为公共讨论广场的多元性。",
+    "抖音热点高度聚焦，以‘大寒’节气、全国多地雪景和U23亚洲杯为核心，形成强季节性与事件性内容矩阵，平台话题引导和用户共创特征明显。",
+    "跨平台议题‘中方收到美方加入和平委员会邀请’在微博和抖音均进入前十，但微博排名下降而抖音排名稳定，显示国际政治议题在不同平台的热度生命周期存在差异。"
+  ]
+}
