@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现社会民生与娱乐话题并重格局，微博平台由家庭伦理、医疗慈善事件主导，抖音平台则聚焦于全国性降雪天气与宏观经济议题。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "李亚鹏公司前员工发声",
+      "from_rank": 23,
+      "to_rank": 5,
+      "reason": "排名跃升18位，进入TOP5，表明相关爆料或争议事件在短时间内引发了大规模集中讨论。"
+    },
+    {
+      "keyword": "第一批回老家的已被物价惊呆了",
+      "from_rank": 39,
+      "to_rank": 21,
+      "reason": "排名跃升18位，契合春节返乡节点，反映了公众对地方物价变化的普遍关注与共鸣。"
+    },
+    {
+      "keyword": "阿爆解除私密账号状态",
+      "from_rank": 36,
+      "to_rank": 20,
+      "reason": "排名跃升16位，与‘阿爆私密账号’、‘阿爆回应’等词条形成事件序列，显示该网红个人动态持续吸引流量。"
+    },
+    {
+      "keyword": "小贝长子曝母亲安插前女友破坏婚姻",
+      "from_rank": 49,
+      "to_rank": 33,
+      "reason": "排名跃升16位，作为贝克汉姆家族争议的延伸，其戏剧性情节推动了话题热度快速上升。"
+    },
+    {
+      "keyword": "卢昱晓代旭请二搭",
+      "from_rank": 48,
+      "to_rank": 36,
+      "reason": "排名跃升12位，源于剧集CP的观众诉求在社交平台形成声量，推动话题排名显著提升。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "儿子回应怒吼癌症妈妈碰瓷爆火",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "带1000去嫣然医院出院还剩990",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "用大寒节气打开冬日中国之美",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "华为MateX7展开赢很大 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "李亚鹏公司前员工发声 ↑",
+      "change": "up",
+      "change_value": 18
+    },
+    {
+      "rank": 6,
+      "keyword": "华伦天奴去世",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "林孝埈首次以中国国籍参加冬奥会",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "马丽喊你猜谜赢健康礼 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "冰湖重生 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 10,
+      "keyword": "医生给1岁娃开小众药被AI提醒慎用 ↑",
+      "change": "up",
+      "change_value": 0
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "长沙2026第一场雪",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "杭州终于等来了雪 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 3,
+      "keyword": "IMF上调中国经济增长预期",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "坐上公交出趟国 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 5,
+      "keyword": "大寒是24节气的最后一个节气",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "著名相声表演艺术家杨振华逝世",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "第一批雪人已经卷起来了",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "精选创作者不语只一味宠粉",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "冬季坠入冰窟如何自救",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "传奇设计师瓦伦蒂诺去世",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "社会民生议题占据微博热度核心，涉及家庭伦理、医疗慈善的事件引发最广泛讨论。",
+    "抖音平台内容受天气驱动明显，全国多地下雪相关话题占据榜单前列并带动衍生内容。",
+    "娱乐话题呈现碎片化与事件序列化特征，明星动态、网红争议及剧集CP话题交替涌现。"
+  ]
+}
