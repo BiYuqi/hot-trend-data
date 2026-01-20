@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现两极分化：微博由社会伦理争议与明星话题主导，抖音则聚焦于全国性降雪天气与宏观资讯，平台内容偏好差异显著。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "何聪睿戏扑甩锅女主",
+      "from_rank": 37,
+      "to_rank": 16,
+      "reason": "排名跃升21位，从低位迅速进入前20，表明该娱乐争议事件在短时间内引发了大量讨论和关注。"
+    },
+    {
+      "keyword": "这个月工资就是今年攒了多少钱",
+      "from_rank": 26,
+      "to_rank": 7,
+      "reason": "排名跃升19位，直接进入前十，反映了年终岁尾公众对个人财务状况的普遍共鸣与自嘲式讨论。"
+    },
+    {
+      "keyword": "今年的冬天没有遗憾啦",
+      "from_rank": 38,
+      "to_rank": 26,
+      "reason": "排名跃升12位，与抖音平台大量降雪热点联动，表达了用户对罕见雪景的满足感和情绪宣泄。"
+    },
+    {
+      "keyword": "欧洲酝酿对美“放大招”",
+      "from_rank": 15,
+      "to_rank": 9,
+      "reason": "排名跃升6位，进入抖音前十，显示国际政治经济动态在短视频平台获得了超出常规的关注度。"
+    },
+    {
+      "keyword": "不发生活类朋友圈是一种自保",
+      "from_rank": 47,
+      "to_rank": 40,
+      "reason": "排名跃升7位，与同期‘经常视奸自己的朋友圈’等话题形成矩阵，共同引爆了关于社交媒体隐私与社交压力的讨论。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "儿子回应怒吼癌症妈妈碰瓷爆火",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "医生给1岁娃开小众药被AI提醒慎用",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "用大寒节气打开冬日中国之美",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "送礼送蒙牛要强接彩头 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "华伦天奴去世",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "沈月 邵子恒是外国人吗 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "这个月工资就是今年攒了多少钱 ↑",
+      "change": "up",
+      "change_value": 19
+    },
+    {
+      "rank": 8,
+      "keyword": "王一博同款益倍适超感益生菌 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "冰湖重生",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "王楚钦休息林诗栋连打三站 ↑",
+      "change": "up",
+      "change_value": 2
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "杭州终于等来了雪 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 2,
+      "keyword": "U23亚洲杯半决赛前瞻 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 3,
+      "keyword": "IMF上调中国经济增长预期",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "长沙2026第一场雪 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 5,
+      "keyword": "坐上公交出趟国",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "万千气象看龙江",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "包钢板材厂爆炸已致9人死亡",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "著名相声表演艺术家杨振华逝世",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "欧洲酝酿对美“放大招” ↑",
+      "change": "up",
+      "change_value": 6
+    },
+    {
+      "rank": 10,
+      "keyword": "大寒是24节气的最后一个节气 ↓",
+      "change": "down",
+      "change_value": -1
+    }
+  ],
+  "conclusion": [
+    "微博热点高度依赖强情感冲突（家庭伦理、医患关系）与明星/网红动态，社会议题呈现碎片化、娱乐化特征。",
+    "抖音热点由全国性天气事件（降雪）强势驱动，并与体育赛事、宏观经济等硬资讯结合，形成‘现象+解读’的内容模式。",
+    "‘牢A’、‘何聪睿’、‘李亚鹏’等系列关联话题在微博形成持续发酵的讨论场域，而抖音的爆款更依赖于视觉奇观（雪景）和时效性资讯的快速传播。"
+  ]
+}
