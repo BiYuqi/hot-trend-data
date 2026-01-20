@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现娱乐、体育、社会议题三足鼎立格局。微博平台由热播剧《轧戏》大结局引爆，带动多个衍生话题；抖音平台则聚焦U23亚洲杯、年节氛围及国际时政，内容生态更趋多元。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "今天将是杭州最干净的一天",
+      "from_rank": 40,
+      "to_rank": 11,
+      "reason": "排名跃升29位，因话题涉及城市环境与市民生活，引发广泛共鸣与讨论。"
+    },
+    {
+      "keyword": "卢昱晓回应跪下和粉丝合照",
+      "from_rank": 33,
+      "to_rank": 14,
+      "reason": "排名跃升19位，明星与粉丝互动事件具有争议性，迅速吸引公众关注。"
+    },
+    {
+      "keyword": "咪的步伐很曼妙",
+      "from_rank": 36,
+      "to_rank": 26,
+      "reason": "排名跃升10位，抖音平台萌宠类内容病毒式传播，带动话题热度快速攀升。"
+    },
+    {
+      "keyword": "网传“蛇窝蹦迪”的视频可信吗",
+      "from_rank": 29,
+      "to_rank": 23,
+      "reason": "排名跃升6位，猎奇社会新闻引发用户对视频真实性的探究与传播。"
+    },
+    {
+      "keyword": "小狗不知道自己睡在废品站旁边",
+      "from_rank": 36,
+      "to_rank": 32,
+      "reason": "排名跃升4位，温情/心酸类社会观察内容触动用户情感，形成传播。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "轧戏大结局",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "初中生网购侵华日军信件初步鉴定为真",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "还有不到30天过年",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "时代少年团美宝莲官宣 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "慕胥辞 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 6,
+      "keyword": "U23国足vs越南 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "金价 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "王一博同款益倍适超感益生菌 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "中国乒协确认国家队教练员名单 ↓",
+      "change": "down",
+      "change_value": -5
+    },
+    {
+      "rank": 10,
+      "keyword": "U23亚洲杯",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23亚洲杯中国对阵越南",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "马年非遗祈福百景图",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "数读2025年中国经济成绩单",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "跟着各地年货回家寻年味",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "外面漫天飞雪正是涮肉的时节",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "年末高光穿搭大赏 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 7,
+      "keyword": "第一批雪人已经卷起来了 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 8,
+      "keyword": "在盛典一次性嗑到3对短剧CP",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "冯德莱恩：格陵兰岛主权不容谈判",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "许金花被执行死刑",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "娱乐内容主导微博热度，热播剧《轧戏》完结效应显著，带动多个关联词条上榜。",
+    "抖音平台内容生态更均衡，体育赛事、年节氛围、国际时政与平台特色挑战并存。",
+    "社会民生类话题（如杭州干净日、宠物内容）在两大平台均展现出快速上升潜力。"
+  ]
+}
