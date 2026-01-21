@@ -1,0 +1,168 @@
+```json
+{
+  "summary": {
+    "text": "本周期热点呈现跨平台分化特征：微博由民生消费与娱乐话题主导，抖音则聚焦宏观经济、国际事件与体育赛事，平台内容偏好差异显著。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "地球发生6小时特大地磁暴",
+      "from_rank": 43,
+      "to_rank": 4,
+      "reason": "排名跃升39位，从榜单外直接进入前五，由突发性自然现象事件驱动，引发广泛关注。"
+    },
+    {
+      "keyword": "中国驻英使馆新馆舍规划审批通过",
+      "from_rank": 48,
+      "to_rank": 11,
+      "reason": "排名跃升37位，从榜单外进入前列，外交事务进展成为抖音平台重要公共议题。"
+    },
+    {
+      "keyword": "加拿大百年来首次模拟美入侵",
+      "from_rank": 45,
+      "to_rank": 17,
+      "reason": "排名跃升28位，国际军事动态引发用户对地缘政治的高度讨论。"
+    },
+    {
+      "keyword": "五哈6",
+      "from_rank": 42,
+      "to_rank": 26,
+      "reason": "排名跃升16位，综艺节目《五哈》第六季相关动态带动话题热度快速上升。"
+    },
+    {
+      "keyword": "国足",
+      "from_rank": 25,
+      "to_rank": 10,
+      "reason": "排名跃升15位，进入微博前十，结合“穆祉丞力挺国足”等关联话题，形成讨论热潮。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "10元一斤草莓和300元一斤草莓区别",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "男子献血2.2万毫升景区不免票被告",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "五个新概括2025年经济工作成绩单",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "车厘子降价后黑草莓成水果新贵 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 5,
+      "keyword": "王昭君新皮肤长夜焕生 ↑",
+      "change": "up",
+      "change_value": 4
+    },
+    {
+      "rank": 6,
+      "keyword": "双休可以是一周的任意两天",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "HBN首位品牌代言人汪苏泷",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "张远今年不上春晚都因为王栎鑫 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 9,
+      "keyword": "代旭 猫的树你把我拍得好美啊 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 10,
+      "keyword": "国足 ↑",
+      "change": "up",
+      "change_value": 15
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "A股 ↑",
+      "change": "up",
+      "change_value": 4
+    },
+    {
+      "rank": 2,
+      "keyword": "马年非遗祈福百景图 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 3,
+      "keyword": "乡村正在成为消费增长的新主场",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "地球发生6小时特大地磁暴 ↑",
+      "change": "up",
+      "change_value": 39
+    },
+    {
+      "rank": 5,
+      "keyword": "此情此景的雪该怎么描述 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 6,
+      "keyword": "U23国足将同日本队争冠 ↓",
+      "change": "down",
+      "change_value": -4
+    },
+    {
+      "rank": 7,
+      "keyword": "当代年轻人的香插已经next level ↑",
+      "change": "up",
+      "change_value": 10
+    },
+    {
+      "rank": 8,
+      "keyword": "年末高光穿搭大赏 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 9,
+      "keyword": "跟着各地年货回家寻年味 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 10,
+      "keyword": "韩国前总理韩德洙一审被判23年",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "微博平台热点集中于民生消费（水果价格）、社会事件及娱乐话题，反映用户对生活化、娱乐性内容的强关注。",
+    "抖音平台热点呈现宏观化、国际化特征，A股、地磁暴、国际外交与军事事件占据主导，平台用户对公共议题参与度高。",
+    "U23亚洲杯赛事在抖音平台形成持续热度，体育内容与“年味”、“穿搭”等生活化话题共同构成抖音多元内容生态。"
+  ]
+}
+```
