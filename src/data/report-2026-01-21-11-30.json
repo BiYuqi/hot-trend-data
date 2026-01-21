@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现体育赛事驱动、国际政治事件跃升、季节性内容与民生经济话题并存的格局。U23国足战绩成为绝对核心，带动全网体育情绪；国际政治事件（日本首相选举、美法领导人争端）排名飙升；抖音平台季节性（雪景、年货）与民生经济内容热度显著。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "日本又要选首相了",
+      "from_rank": 32,
+      "to_rank": 4,
+      "reason": "排名跃升28位，从第32位进入前5，表明该国际政治事件在短时间内引发了大规模关注和讨论。"
+    },
+    {
+      "keyword": "特朗普和马克龙吵翻",
+      "from_rank": 29,
+      "to_rank": 9,
+      "reason": "排名跃升20位，从第29位进入前10，显示美法领导人之间的公开争端成为本周期国际关系焦点。"
+    },
+    {
+      "keyword": "特朗普晒马克龙私信",
+      "from_rank": 47,
+      "to_rank": 25,
+      "reason": "排名跃升22位，从第47位升至第25位，是抖音平台上升最快的词条，表明该事件的后续发展（私信曝光）持续吸引流量。"
+    },
+    {
+      "keyword": "第一批雪人已经卷起来了",
+      "from_rank": 26,
+      "to_rank": 10,
+      "reason": "排名跃升16位，从第26位进入抖音TOP10，反映季节性（冬季雪景）UGC内容在平台内形成传播热潮。"
+    },
+    {
+      "keyword": "西安一下雪就美成了长安",
+      "from_rank": 18,
+      "to_rank": 8,
+      "reason": "排名跃升10位，从第18位进入抖音TOP10，结合城市景观与历史文化标签的雪景内容获得高热度。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "中国男足等了整整22年",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "U23国足3比0越南U23",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "五个新概括2025年经济工作成绩单 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "日本又要选首相了 ↑",
+      "change": "up",
+      "change_value": 28
+    },
+    {
+      "rank": 5,
+      "keyword": "野狗骨头把雌竞改成了惺惺相惜 ↑",
+      "change": "up",
+      "change_value": 5
+    },
+    {
+      "rank": 6,
+      "keyword": "太平年定档 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 7,
+      "keyword": "吉利银河V900全球上市26.98万起",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "这才是真的俩魔丸生了个灵珠 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 9,
+      "keyword": "特朗普和马克龙吵翻 ↑",
+      "change": "up",
+      "change_value": 20
+    },
+    {
+      "rank": 10,
+      "keyword": "李秋萍主动求婚被拒绝 ↓",
+      "change": "down",
+      "change_value": -6
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23国足将同日本队争冠",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "U23国足3:0越南挺进决赛",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "乡村正在成为消费增长的新主场 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "马年非遗祈福百景图 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 5,
+      "keyword": "此情此景的雪该怎么描述 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 6,
+      "keyword": "年末高光穿搭大赏 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 7,
+      "keyword": "跟着各地年货回家寻年味 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 8,
+      "keyword": "西安一下雪就美成了长安 ↑",
+      "change": "up",
+      "change_value": 10
+    },
+    {
+      "rank": 9,
+      "keyword": "U23男足：计划有变准备冲冠",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "第一批雪人已经卷起来了 ↑",
+      "change": "up",
+      "change_value": 16
+    }
+  ],
+  "conclusion": [
+    "体育赛事（U23国足）是驱动本周期全网热度的绝对核心，占据微博、抖音双榜前列，并衍生出多个关联话题。",
+    "国际政治事件（日本首相选举、美法领导人争端）在微博平台实现排名跃升，成为除体育外最显著的舆论焦点。",
+    "抖音平台热点呈现明显的季节性与民生导向，雪景、年货、乡村消费等话题与体育、国际事件共同构成多元内容矩阵。"
+  ]
+}
