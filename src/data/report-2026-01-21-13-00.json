@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现社会民生与娱乐话题并重格局，微博平台社会议题讨论度显著，抖音平台则聚焦体育赛事与节庆氛围，平台内容偏好差异明显。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "张慧雯编辑记录",
+      "from_rank": 50,
+      "to_rank": 36,
+      "reason": "排名跃升14位，进入前40，因艺人社交媒体行为引发公众关注与讨论。"
+    },
+    {
+      "keyword": "这居然是李煜东",
+      "from_rank": 29,
+      "to_rank": 18,
+      "reason": "排名跃升11位，进入前20，因人物形象或事件的反差性引发热议。"
+    },
+    {
+      "keyword": "男子献血2.2万毫升景区不免票被告",
+      "from_rank": 9,
+      "to_rank": 1,
+      "reason": "排名跃升8位至榜首，因涉及公益、规则与个人权益的冲突，社会讨论度激增。"
+    },
+    {
+      "keyword": "曝黄荷娜为减刑供出艺人名字",
+      "from_rank": 19,
+      "to_rank": 15,
+      "reason": "排名跃升4位，因涉及韩国娱乐圈敏感案件，持续吸引关注。"
+    },
+    {
+      "keyword": "生父帮继母买1600片泻药持续喂女儿",
+      "from_rank": 25,
+      "to_rank": 21,
+      "reason": "排名跃升4位，因家庭伦理与恶性伤害事件性质恶劣，引发公愤。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "男子献血2.2万毫升景区不免票被告 ↑",
+      "change": "up",
+      "change_value": 8
+    },
+    {
+      "rank": 2,
+      "keyword": "枪击安倍凶手被判无期 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "五个新概括2025年经济工作成绩单 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "很火但实际很难吃的水果 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 5,
+      "keyword": "中国男足等了整整22年 ↓",
+      "change": "down",
+      "change_value": -4
+    },
+    {
+      "rank": 6,
+      "keyword": "美国博主直呼中国才是理想中的家 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 7,
+      "keyword": "女儿要10元零花钱却让妈妈负债百万 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 8,
+      "keyword": "愤怒的小鸟CEO感谢中国玩家 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "无限暖暖 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "黄景瑜的竞品是沈月 →",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23国足将同日本队争冠 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "马年非遗祈福百景图 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "乡村正在成为消费增长的新主场 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "枪击安倍凶手被判无期 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "此情此景的雪该怎么描述 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 6,
+      "keyword": "年末高光穿搭大赏 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 7,
+      "keyword": "跟着各地年货回家寻年味 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 8,
+      "keyword": "第一批雪人已经卷起来了 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 9,
+      "keyword": "U23男足：计划有变准备冲冠 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 10,
+      "keyword": "A股 ↓",
+      "change": "down",
+      "change_value": -1
+    }
+  ],
+  "conclusion": [
+    "微博热点以社会民生争议（献血免票、家庭伤害）和娱乐话题为主，社会议题讨论深度和情绪烈度更高。",
+    "抖音热点集中于U23国足赛事、节庆文化（年货、雪景）和轻松娱乐内容，平台氛围更偏向积极与互动。",
+    "国际事件（安倍案判决）在双平台均进入前列，但微博讨论更侧重事件本身，抖音则融入更广泛的体育与国际话题流。"
+  ]
+}
