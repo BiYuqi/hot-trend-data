@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现体育赛事主导、社会民生与娱乐话题并存的格局。U23国足晋级决赛成为跨平台核心议题，带动相关衍生话题热度飙升；同时，冬季气候、家庭伦理及短剧/明星动态构成多元讨论场域。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "野狗骨头剧本",
+      "from_rank": 35,
+      "to_rank": 18,
+      "reason": "排名跃升17位，因剧集《野狗骨头》主话题位居微博第二，带动其衍生话题‘剧本’讨论度快速上升。"
+    },
+    {
+      "keyword": "周柯宇直播五排",
+      "from_rank": 26,
+      "to_rank": 15,
+      "reason": "排名跃升11位，由原第26位进入前15，明星直播活动在周期内获得集中关注。"
+    },
+    {
+      "keyword": "导演回应狼王格林是否安好",
+      "from_rank": 17,
+      "to_rank": 7,
+      "reason": "排名跃升10位，进入微博前十，因电影《重返狼群》相关话题发酵，导演回应成为新的关注焦点。"
+    },
+    {
+      "keyword": "女子零下30度洗车秒变冰糖小汽车",
+      "from_rank": 39,
+      "to_rank": 29,
+      "reason": "排名跃升10位，极端天气下的趣味生活视频内容引发广泛传播与讨论。"
+    },
+    {
+      "keyword": "U23越南主帅说中国换阵措手不及",
+      "from_rank": 25,
+      "to_rank": 17,
+      "reason": "排名跃升8位，作为U23国足战胜越南赛事的赛后衍生话题，对手评价补充了赛事讨论维度。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "上班是法务下班是偷车厘子惯犯",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "野狗骨头 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 3,
+      "keyword": "还有不到30天过年",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "U23国足3比0越南U23 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 5,
+      "keyword": "欧盟决定永久冻结俄罗斯资产",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "儿子怒斥癌症妈妈碰瓷为何让人共情",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "导演回应狼王格林是否安好 ↑",
+      "change": "up",
+      "change_value": 10
+    },
+    {
+      "rank": 8,
+      "keyword": "安倍遇刺案今天宣判 ↑",
+      "change": "up",
+      "change_value": 6
+    },
+    {
+      "rank": 9,
+      "keyword": "LV大秀 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 10,
+      "keyword": "裴轸事业没了 ↓",
+      "change": "down",
+      "change_value": -2
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23国足3:0越南挺进决赛",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "U23国足将同日本队争冠",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "数读2025年中国经济成绩单",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "国足U23下半场5分钟进两球",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "U23男足：计划有变决赛见",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "彭啸头球破门",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "你重返狼群吧",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "马年非遗祈福百景图",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "此情此景的雪该怎么描述 ↑",
+      "change": "up",
+      "change_value": 6
+    },
+    {
+      "rank": 10,
+      "keyword": "年末高光穿搭大赏 ↓",
+      "change": "down",
+      "change_value": -1
+    }
+  ],
+  "conclusion": [
+    "体育赛事成为绝对流量引擎：U23国足赛事相关话题垄断抖音前六并占据微博多个高位，衍生话题（如对手评价、球员表现）同步快速上升。",
+    "影视娱乐话题呈现圈层化扩散：微博端《野狗骨头》及其衍生话题热度集中爆发；抖音端短剧、明星动态及影视宣发（如‘突然的喜欢定档’）通过挑战、二创等形式获得流量。",
+    "社会民生与季节性内容构成稳定基本盘：极端天气趣闻、家庭伦理争议、年终经济盘点及年货/冬季景观等内容在双平台均保持较高讨论度，反映用户对贴近生活议题的持续关注。"
+  ]
+}
