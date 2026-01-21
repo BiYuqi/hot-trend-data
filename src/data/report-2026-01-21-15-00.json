@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现消费议题与娱乐话题并行的格局，微博平台由水果价格、社会民生及明星动态主导，抖音则聚焦体育赛事、国际政治与传统文化，平台内容分化明显。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "张远今年不上春晚都因为王栎鑫",
+      "from_rank": 40,
+      "to_rank": 10,
+      "reason": "排名跃升30位，从榜单外直接进入前十，关联春晚话题与明星互动，引发粉丝群体集中讨论。"
+    },
+    {
+      "keyword": "车厘子降价后黑草莓成水果新贵",
+      "from_rank": 28,
+      "to_rank": 5,
+      "reason": "排名跃升23位，紧接榜首水果价格话题，形成消费热点接力，精准切中公众对高价水果的持续关注。"
+    },
+    {
+      "keyword": "下雪 卖霉豆腐",
+      "from_rank": 38,
+      "to_rank": 17,
+      "reason": "排名跃升21位，结合天气变化与地域特色生活场景，形成反差感强的生活化内容，快速吸引关注。"
+    },
+    {
+      "keyword": "10元一斤草莓和300元一斤草莓区别",
+      "from_rank": 21,
+      "to_rank": 1,
+      "reason": "排名跃升20位，以强烈的价格对比切入消费议题，直接引爆公众对生活成本的讨论，热度断层领先。"
+    },
+    {
+      "keyword": "轧戏大结局",
+      "from_rank": 23,
+      "to_rank": 13,
+      "reason": "排名跃升10位，作为影视剧收官话题，在抖音平台联动多个相关词条，形成集中的剧集完结讨论热潮。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "10元一斤草莓和300元一斤草莓区别 ↑",
+      "change": "up",
+      "change_value": 20
+    },
+    {
+      "rank": 2,
+      "keyword": "男子献血2.2万毫升景区不免票被告 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 3,
+      "keyword": "五个新概括2025年经济工作成绩单 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "山上彻也哥哥自杀后萌生报复念头 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "车厘子降价后黑草莓成水果新贵 ↑",
+      "change": "up",
+      "change_value": 23
+    },
+    {
+      "rank": 6,
+      "keyword": "双休可以是一周的任意两天 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 7,
+      "keyword": "代旭 猫的树你把我拍得好美啊 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 8,
+      "keyword": "盒马客服回应虾煮熟后渗出蓝色液体 ↓",
+      "change": "down",
+      "change_value": -6
+    },
+    {
+      "rank": 9,
+      "keyword": "王昭君新皮肤长夜焕生 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "张远今年不上春晚都因为王栎鑫 ↑",
+      "change": "up",
+      "change_value": 30
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "马年非遗祈福百景图 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "U23国足将同日本队争冠 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "乡村正在成为消费增长的新主场 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "枪击安倍凶手被判无期 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "A股 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "此情此景的雪该怎么描述 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "特朗普晒马克龙私信 ↑",
+      "change": "up",
+      "change_value": 7
+    },
+    {
+      "rank": 8,
+      "keyword": "跟着各地年货回家寻年味 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 9,
+      "keyword": "U23国足3:0越南挺进决赛 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "韩国前总理韩德洙一审被判23年 →",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "消费议题成为微博核心驱动力，水果价格对比、年货消费等话题占据头部，反映公众对生活成本的高度敏感。",
+    "抖音热点呈现强公共属性，U23亚洲杯、国际政治、非遗文化等话题热度集中，平台内容更偏向宏观叙事与集体情绪。",
+    "娱乐话题在两大平台均保持稳定输出，但微博更侧重明星个人动态与粉丝互动，抖音则更偏向影视剧宣发与角色讨论。"
+  ]
+}
