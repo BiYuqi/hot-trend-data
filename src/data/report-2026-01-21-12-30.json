@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现体育赛事驱动、社会民生话题涌现、国际政治议题分化的特征。U23国足战绩成为跨平台核心叙事，微博社会新闻与抖音年节氛围形成内容分野。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "张凌赫林允喂药吻",
+      "from_rank": 50,
+      "to_rank": 15,
+      "reason": "排名跃升35位，因新剧物料或剧情片段释出引发粉丝讨论，热度迅速攀升。"
+    },
+    {
+      "keyword": "美国博主直呼中国才是理想中的家",
+      "from_rank": 26,
+      "to_rank": 4,
+      "reason": "排名跃升22位，因跨文化对比内容契合当前舆论情绪，获得广泛传播与认同。"
+    },
+    {
+      "keyword": "云旗郝熠然红秀",
+      "from_rank": 42,
+      "to_rank": 20,
+      "reason": "排名跃升22位，因时尚活动或杂志大片发布，带动相关艺人粉丝群体关注。"
+    },
+    {
+      "keyword": "太平年定档",
+      "from_rank": 5,
+      "to_rank": 2,
+      "reason": "排名上升3位，因影视剧定档信息正式公布，宣发动作推动热度持续走高。"
+    },
+    {
+      "keyword": "张子枫穿走了周遇安的裤子",
+      "from_rank": 39,
+      "to_rank": 37,
+      "reason": "排名上升2位，因艺人穿搭或剧组趣闻引发讨论，属于小幅稳定上升。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "中国男足等了整整22年 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 2,
+      "keyword": "太平年定档 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 3,
+      "keyword": "五个新概括2025年经济工作成绩单 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "美国博主直呼中国才是理想中的家 ↑",
+      "change": "up",
+      "change_value": 22
+    },
+    {
+      "rank": 5,
+      "keyword": "很火但实际很难吃的水果 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "日本又要选首相了 ↓",
+      "change": "down",
+      "change_value": -5
+    },
+    {
+      "rank": 7,
+      "keyword": "网传郑州大风天大火烧两小时系谣言 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "女儿要10元零花钱却让妈妈负债百万 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "男子献血2.2万毫升景区不免票被告 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "野狗骨头把雌竞改成了惺惺相惜 ↓",
+      "change": "down",
+      "change_value": -3
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23国足将同日本队争冠 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "马年非遗祈福百景图 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 3,
+      "keyword": "乡村正在成为消费增长的新主场 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "此情此景的雪该怎么描述 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 5,
+      "keyword": "年末高光穿搭大赏 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 6,
+      "keyword": "跟着各地年货回家寻年味 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 7,
+      "keyword": "第一批雪人已经卷起来了 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 8,
+      "keyword": "地球发生6小时特大地磁暴 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 9,
+      "keyword": "A股 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 10,
+      "keyword": "U23男足：计划有变准备冲冠 →",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "体育热点占据主导：U23国足挺进决赛成为跨平台核心议题，衍生出多个相关热搜，形成强话题矩阵。",
+    "平台内容偏好分化：微博侧重社会新闻、娱乐八卦与家庭伦理争议；抖音则聚焦年节氛围、生活美学与国际时政，平台调性差异显著。",
+    "国际政治议题热度波动：涉及美、法、日等国的政治事件在双平台均有出现，但热度排名呈现不稳定状态，受体育等强势话题挤压明显。"
+  ]
+}
