@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现国际政治与体育赛事双核驱动格局，微博平台国际时政话题热度超越体育，抖音平台则聚焦U23国足赛事与年节氛围。黄金价格、AI应用等社会经济议题在双平台均有渗透，娱乐话题热度相对分散。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "邪修洗衣机出片方法",
+      "from_rank": 34,
+      "to_rank": 10,
+      "reason": "排名跃升24位，从榜单中段直接进入前十，表明该生活技巧或网络梗在短时间内引发了大规模讨论和模仿。"
+    },
+    {
+      "keyword": "黄金可以长出来",
+      "from_rank": 41,
+      "to_rank": 29,
+      "reason": "排名上升12位，伴随‘金饰价涨到1495元’等话题，反映公众对黄金价格及相关科普信息的高度关注。"
+    },
+    {
+      "keyword": "云旗郝熠然红秀",
+      "from_rank": 48,
+      "to_rank": 42,
+      "reason": "排名上升6位，作为新上榜的娱乐时尚话题，表明特定明星或时尚活动在粉丝圈层内热度快速攀升。"
+    },
+    {
+      "keyword": "日本又要选首相了",
+      "from_rank": 4,
+      "to_rank": 1,
+      "reason": "排名上升3位至榜首，热度值领先，显示国际政治动态（日本政局）超越同期体育热点，成为微博最受关注议题。"
+    },
+    {
+      "keyword": "特朗普和马克龙吵翻",
+      "from_rank": 9,
+      "to_rank": 6,
+      "reason": "排名上升3位进入前六，与抖音‘马克龙在达沃斯喊话特朗普’等话题联动，表明美法领导人外交摩擦持续吸引跨平台关注。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "日本又要选首相了 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 2,
+      "keyword": "中国男足等了整整22年 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 3,
+      "keyword": "五个新概括2025年经济工作成绩单 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "谢娜 从来都没有过QQ号 ↑",
+      "change": "up",
+      "change_value": 999
+    },
+    {
+      "rank": 5,
+      "keyword": "太平年定档 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 6,
+      "keyword": "特朗普和马克龙吵翻 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 7,
+      "keyword": "野狗骨头把雌竞改成了惺惺相惜 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 8,
+      "keyword": "愤怒的小鸟重返中国 ↑",
+      "change": "up",
+      "change_value": 999
+    },
+    {
+      "rank": 9,
+      "keyword": "U23国足3比0越南U23 ↓",
+      "change": "down",
+      "change_value": -7
+    },
+    {
+      "rank": 10,
+      "keyword": "邪修洗衣机出片方法 ↑",
+      "change": "up",
+      "change_value": 24
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23国足将同日本队争冠 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "U23国足3:0越南挺进决赛 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "乡村正在成为消费增长的新主场 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "马年非遗祈福百景图 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "此情此景的雪该怎么描述 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "年末高光穿搭大赏 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "A股 ↑",
+      "change": "up",
+      "change_value": 999
+    },
+    {
+      "rank": 8,
+      "keyword": "跟着各地年货回家寻年味 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 9,
+      "keyword": "第一批雪人已经卷起来了 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 10,
+      "keyword": "U23男足：计划有变准备冲冠 ↓",
+      "change": "down",
+      "change_value": -1
+    }
+  ],
+  "conclusion": [
+    "国际政治议题（日本首相选举、美法摩擦）热度超越体育赛事，成为微博平台核心关注点，而抖音平台仍以U23国足赛事为绝对焦点。",
+    "黄金价格及相关话题（‘黄金可以长出来’、‘金饰价涨到1495元’）在双平台同步升温，反映出公众对资产价格与宏观经济的高度敏感。",
+    "平台内容差异显著：微博热点更分散，涵盖国际、社会、娱乐、生活技巧；抖音热点更集中，围绕体育、年节、民生及平台内生的挑战/剧情话题。"
+  ]
+}
