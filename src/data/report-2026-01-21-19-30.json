@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现多元分化格局，微博平台社会民生与娱乐话题交替上升，抖音平台则聚焦重大新闻与U23国足赛事，平台间内容偏好差异显著。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "宝宝的年夜饭",
+      "from_rank": 45,
+      "to_rank": 11,
+      "reason": "排名跃升34位，从榜单外进入前20，因临近春节，家庭与年味话题关注度集中爆发。"
+    },
+    {
+      "keyword": "皮肤碎片换鲁班七号新皮肤",
+      "from_rank": 37,
+      "to_rank": 6,
+      "reason": "排名跃升31位，进入微博TOP10，由《王者荣耀》游戏内新皮肤兑换活动直接驱动。"
+    },
+    {
+      "keyword": "山东淄博一中学生篮球赛后爆发冲突",
+      "from_rank": 19,
+      "to_rank": 5,
+      "reason": "排名跃升14位，进入微博TOP5，校园安全与青少年冲突事件引发广泛社会讨论。"
+    },
+    {
+      "keyword": "年代剧终于有正常婆婆了",
+      "from_rank": 27,
+      "to_rank": 15,
+      "reason": "排名跃升12位，进入微博前20，反映了观众对影视剧角色塑造脱离刻板印象的积极反馈。"
+    },
+    {
+      "keyword": "一条视频告诉你生命树的含义",
+      "from_rank": 49,
+      "to_rank": 39,
+      "reason": "排名跃升10位，是抖音平台上升最快的词条，与热播剧《生命树》的剧情解读和话题营销相关。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "留学生揭穿9层楼积雪骗局 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 2,
+      "keyword": "中方回应是否加入所谓和平委员会 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 3,
+      "keyword": "中国铁路再创世界纪录 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "加州66号公路奇遇季 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "山东淄博一中学生篮球赛后爆发冲突 ↑",
+      "change": "up",
+      "change_value": 14
+    },
+    {
+      "rank": 6,
+      "keyword": "皮肤碎片换鲁班七号新皮肤 ↑",
+      "change": "up",
+      "change_value": 31
+    },
+    {
+      "rank": 7,
+      "keyword": "建议不要有外卖羞耻症 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 8,
+      "keyword": "HBN首位品牌代言人汪苏泷 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "黑草莓 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 10,
+      "keyword": "WE战胜RW →",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "外交部回应是否加入和平委员会 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "一句话挑战全国方言 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 3,
+      "keyword": "我国已启动第二阶段6G技术试验 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "社恐人就这么假装卖霉豆腐 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 5,
+      "keyword": "国际球星打卡U23男足评论区 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 6,
+      "keyword": "此情此景的雪该怎么描述 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 7,
+      "keyword": "跟着各地年货回家寻年味 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 8,
+      "keyword": "包钢厂区爆炸已致10死84伤 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "税务部门处罚拼多多 ↓",
+      "change": "down",
+      "change_value": -7
+    },
+    {
+      "rank": 10,
+      "keyword": "韩国前总理韩德洙一审被判23年 →",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "微博热点更迭迅速，社会事件（如校园冲突、安全事故）与游戏/娱乐营销（如皮肤兑换、品牌代言）是驱动排名剧烈变化的两大核心动力。",
+    "抖音头部热点高度稳定，重大时政外交、科技进展与突发安全事故占据主导，U23国足相关话题形成矩阵式传播，但单个词条排名波动相对平缓。",
+    "平台内容生态差异明显：微博长于社会议题发酵与垂直圈层（如游戏、影视）互动；抖音则强化对国家成就、国际新闻及全民参与式挑战（如方言挑战）的传播。"
+  ]
+}
