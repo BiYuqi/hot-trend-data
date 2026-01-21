@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现平台差异化特征：微博以社会民生、娱乐话题为主，讨论热度分散；抖音则聚焦国际时政、科技进展与全民互动挑战，话题集中度更高。拼多多受罚事件在双平台均占据高位，显示其公共影响力。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "王大陆和女友不认罪",
+      "from_rank": 41,
+      "to_rank": 13,
+      "reason": "排名跃升28位，从榜单中后段直接进入前15，表明其涉及的法律或娱乐事件在短时间内引发了集中讨论和关注。"
+    },
+    {
+      "keyword": "冯德莱恩：格陵兰岛主权不容谈判",
+      "from_rank": 39,
+      "to_rank": 17,
+      "reason": "排名跃升22位，从榜单尾部进入前20，表明这一涉及国际领土主权的强硬表态迅速吸引了抖音用户的广泛关注。"
+    },
+    {
+      "keyword": "李亚鹏公布体检结果",
+      "from_rank": 26,
+      "to_rank": 17,
+      "reason": "排名上升9位，进入微博前20，公众人物健康话题引发了用户的普遍关切和讨论。"
+    },
+    {
+      "keyword": "李幼斌演出老年人的孤独感",
+      "from_rank": 24,
+      "to_rank": 16,
+      "reason": "排名上升8位，进入抖音前20，演员的表演内容触发了用户对老龄化社会议题的情感共鸣和讨论。"
+    },
+    {
+      "keyword": "告白",
+      "from_rank": 8,
+      "to_rank": 2,
+      "reason": "排名上升6位，跃居微博第二，该话题（可能关联节日、影视或社会事件）的热度在周期内急剧攀升。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "拼多多受到处罚",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "告白 ↑",
+      "change": "up",
+      "change_value": 6
+    },
+    {
+      "rank": 3,
+      "keyword": "万千气象看龙江",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "五哈6录制嘉宾 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 5,
+      "keyword": "火锅最后一个吃什么菜收尾 ↑",
+      "change": "up",
+      "change_value": 5
+    },
+    {
+      "rank": 6,
+      "keyword": "为什么建议大家春节期间去旅游",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "今日辟谣",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "车厘子降价后黑草莓成水果新贵 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 9,
+      "keyword": "王者四美FMVP皮肤四缺一",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "10元一斤草莓和300元一斤草莓区别 ↓",
+      "change": "down",
+      "change_value": -6
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "外交部回应是否加入和平委员会",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "一句话挑战全国方言 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 3,
+      "keyword": "我国已启动第二阶段6G技术试验",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "税务部门处罚拼多多 ↑",
+      "change": "up",
+      "change_value": 5
+    },
+    {
+      "rank": 5,
+      "keyword": "社恐人就这么假装卖霉豆腐",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "此情此景的雪该怎么描述 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 7,
+      "keyword": "跟着各地年货回家寻年味 ↑",
+      "change": "up",
+      "change_value": 7
+    },
+    {
+      "rank": 8,
+      "keyword": "当代年轻人的香插已经next level ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 9,
+      "keyword": "年末高光穿搭大赏 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 10,
+      "keyword": "韩国前总理韩德洙一审被判23年",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "平台内容生态分化明显：微博热点更偏向社会民生、娱乐八卦与生活化议题；抖音则更集中于国际政治、科技动态及平台发起的全民互动挑战。",
+    "拼多多受罚是本周唯一横跨双平台TOP5的公共事件，其企业监管话题具有跨圈层的强公共属性与讨论价值。",
+    "U23国足赛事在抖音平台形成话题矩阵（多个相关词条上榜），但在微博端声量微弱，反映出体育赛事热度在平台间的显著不均衡分布。"
+  ]
+}
