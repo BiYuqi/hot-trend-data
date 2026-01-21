@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现平台分化特征：微博由社会民生与娱乐话题主导，抖音则聚焦国际时政与科技进展。拼多多处罚事件在双平台均引发高度关注，显示企业合规议题的跨平台穿透力。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "火锅最后一个吃什么菜收尾",
+      "from_rank": 32,
+      "to_rank": 10,
+      "reason": "排名跃升22位，从榜单外进入前十，其生活化、强互动性的话题属性引发了广泛共鸣与讨论。"
+    },
+    {
+      "keyword": "为什么建议大家春节期间去旅游",
+      "from_rank": 16,
+      "to_rank": 6,
+      "reason": "排名跃升10位，进入前六，契合春节临近的时间节点，激发了用户对假期安排的讨论热情。"
+    },
+    {
+      "keyword": "郑钦文粉丝把AI天赋点满了",
+      "from_rank": 29,
+      "to_rank": 20,
+      "reason": "排名上升9位，体育明星与AI技术结合的趣味性内容，吸引了体育圈与科技圈的双重关注。"
+    },
+    {
+      "keyword": "内娱引导型恋人又上新了",
+      "from_rank": 51,
+      "to_rank": 43,
+      "reason": "排名上升8位，从榜单边缘进入前50，反映了娱乐话题中新型人设讨论度的快速攀升。"
+    },
+    {
+      "keyword": "迅猛龙说考研改变了账号生命周期",
+      "from_rank": 43,
+      "to_rank": 39,
+      "reason": "排名上升4位，将网红个人经历与考研社会议题结合，引发了目标受众的深度共鸣与传播。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "拼多多受到处罚",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "五哈6录制嘉宾",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "万千气象看龙江 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "10元一斤草莓和300元一斤草莓区别 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 5,
+      "keyword": "车厘子降价后黑草莓成水果新贵 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 6,
+      "keyword": "为什么建议大家春节期间去旅游 ↑",
+      "change": "up",
+      "change_value": 10
+    },
+    {
+      "rank": 7,
+      "keyword": "今日辟谣 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "告白 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 9,
+      "keyword": "涉密单位搬迁打印机被拉到废品站 ↓",
+      "change": "down",
+      "change_value": -5
+    },
+    {
+      "rank": 10,
+      "keyword": "火锅最后一个吃什么菜收尾 ↑",
+      "change": "up",
+      "change_value": 22
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "外交部回应是否加入和平委员会 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "中方回应特朗普称联合国或被取代 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "我国已启动第二阶段6G技术试验 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "一句话挑战全国方言 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 5,
+      "keyword": "社恐人就这么假装卖霉豆腐 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "当代年轻人的香插已经next level ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 7,
+      "keyword": "此情此景的雪该怎么描述 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 8,
+      "keyword": "年末高光穿搭大赏 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 9,
+      "keyword": "税务部门处罚拼多多 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "韩国前总理韩德洙一审被判23年 ↑",
+      "change": "up",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "企业合规议题成为跨平台焦点，拼多多相关处罚在微博、抖音均进入前十，显示公众对大型平台监管的高度关注。",
+    "微博热点呈现强生活化与娱乐性，旅游建议、火锅话题、综艺录制等轻松内容占据主导，反映其社交讨论场的属性。",
+    "抖音榜单头部被国际外交、科技进展等硬核时政内容占据，平台作为新闻资讯分发渠道的功能性特征显著。"
+  ]
+}
