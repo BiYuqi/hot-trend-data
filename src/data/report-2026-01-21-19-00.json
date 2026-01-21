@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现跨平台分化：微博由社会民生、娱乐话题主导，抖音则聚焦国际时政、体育赛事与平台挑战。微博榜单新进条目占比高，话题迭代快；抖音头部话题热度集中，体育与外交议题占据主导。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "下可了 可是雪",
+      "from_rank": 33,
+      "to_rank": 16,
+      "reason": "排名跃升17位，从榜单中后部进入前20，关联同期雪景相关话题（如‘此情此景的雪该怎么描述’），形成季节性内容共振，推动热度快速上升。"
+    },
+    {
+      "keyword": "网红教与异性交往课3天收费4980元",
+      "from_rank": 18,
+      "to_rank": 12,
+      "reason": "排名上升6位，进入榜单前列。话题涉及高额收费与情感教育争议，具备社会讨论价值，引发公众对消费陷阱的关注，驱动讨论量增长。"
+    },
+    {
+      "keyword": "中方回应是否加入所谓和平委员会",
+      "from_rank": 10,
+      "to_rank": 5,
+      "reason": "排名上升5位，进入微博前五。该话题同时在抖音位列第一，跨平台的高热度表明重大外交表态引发广泛关注，带动微博侧排名显著提升。"
+    },
+    {
+      "keyword": "代旭 裴轸失业后去挖土了",
+      "from_rank": 49,
+      "to_rank": 44,
+      "reason": "排名上升5位，从榜单末尾进入中段。作为影视剧衍生话题，其剧情关联‘失业’等现实议题，引发观众共情与讨论，推动热度爬升。"
+    },
+    {
+      "keyword": "芋泥切糕",
+      "from_rank": 50,
+      "to_rank": 46,
+      "reason": "排名上升4位，脱离榜尾。作为具体美食话题，其热度上升与‘黑草莓’、‘车厘子降价’等同期水果消费话题形成品类补充，吸引美食爱好者参与。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "告白",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "留学生揭穿9层楼积雪骗局",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "万千气象看龙江",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "换乘恋爱 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 5,
+      "keyword": "中方回应是否加入所谓和平委员会 ↑",
+      "change": "up",
+      "change_value": 5
+    },
+    {
+      "rank": 6,
+      "keyword": "建议不要有外卖羞耻症 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 7,
+      "keyword": "黑草莓 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 8,
+      "keyword": "WE对战RW",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "王者四美FMVP皮肤四缺一 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 10,
+      "keyword": "五哈6录制嘉宾 ↓",
+      "change": "down",
+      "change_value": -1
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "外交部回应是否加入和平委员会",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "税务部门处罚拼多多",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "我国已启动第二阶段6G技术试验",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "一句话挑战全国方言",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "社恐人就这么假装卖霉豆腐",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "国际球星打卡U23男足评论区",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "此情此景的雪该怎么描述 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 8,
+      "keyword": "跟着各地年货回家寻年味 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 9,
+      "keyword": "年末高光穿搭大赏 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 10,
+      "keyword": "韩国前总理韩德洙一审被判23年",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "微博话题生态碎片化特征明显，社会民生、娱乐综艺、影视剧衍生内容快速迭代，新进话题占榜单36%，用户注意力分散且转移迅速。",
+    "抖音头部话题呈现高热度、强稳定性，前三位均为时政与科技议题，同时U23男足系列话题形成矩阵式传播，体育内容成为平台流量重要支撑。",
+    "跨平台议题联动效应显现，‘中方回应是否加入和平委员会’、‘拼多多受罚’等话题在双平台均进入头部，表明严肃公共议题具备穿透不同用户圈层的传播力。"
+  ]
+}
