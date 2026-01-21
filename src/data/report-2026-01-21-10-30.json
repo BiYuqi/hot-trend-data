@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现体育赛事主导、民生财经话题升温、娱乐内容分散的格局。U23国足胜利成为跨平台核心议题，黄金价格波动引发广泛讨论，娱乐热点则呈现碎片化趋势。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "金饰价涨到1495元",
+      "from_rank": 31,
+      "to_rank": 7,
+      "reason": "排名跃升24位，因黄金价格持续上涨引发公众对金饰零售价的集中关注和讨论。"
+    },
+    {
+      "keyword": "李秋萍主动求婚被拒绝",
+      "from_rank": 38,
+      "to_rank": 20,
+      "reason": "排名跃升18位，因关联演员赵丽颖及剧集内容，形成娱乐话题的快速发酵。"
+    },
+    {
+      "keyword": "拳打拜合拉木球员道歉",
+      "from_rank": 17,
+      "to_rank": 4,
+      "reason": "排名跃升13位，因足球赛场暴力事件后续进展，引发公众对体育道德的集中讨论。"
+    },
+    {
+      "keyword": "曝短剧演员片酬",
+      "from_rank": 36,
+      "to_rank": 29,
+      "reason": "排名跃升7位，因揭露短剧行业薪酬内幕，触及公众对新兴娱乐业态的好奇与审视。"
+    },
+    {
+      "keyword": "减肥必须要记住的4个时间点",
+      "from_rank": 41,
+      "to_rank": 35,
+      "reason": "排名跃升6位，因提供具体、可操作的实用生活技巧，契合大众健康管理需求。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "中国男足等了整整22年 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 2,
+      "keyword": "U23国足3比0越南U23 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 3,
+      "keyword": "还有不到30天过年 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "拳打拜合拉木球员道歉 ↑",
+      "change": "up",
+      "change_value": 13
+    },
+    {
+      "rank": 5,
+      "keyword": "导演回应狼王格林是否安好 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 6,
+      "keyword": "这才是真的俩魔丸生了个灵珠 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "金饰价涨到1495元 ↑",
+      "change": "up",
+      "change_value": 24
+    },
+    {
+      "rank": 8,
+      "keyword": "欧盟决定永久冻结俄罗斯资产 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 9,
+      "keyword": "安倍遇刺案今天宣判 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "LV大秀 ↑",
+      "change": "up",
+      "change_value": 1
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23国足3:0越南挺进决赛 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "U23国足将同日本队争冠 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "数读2025年中国经济成绩单 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "国足U23下半场5分钟进两球 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "U23男足：计划有变准备冲冠 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "彭啸头球破门 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "你重返狼群吧 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "马年非遗祈福百景图 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "此情此景的雪该怎么描述 ↑",
+      "change": "up",
+      "change_value": 9
+    },
+    {
+      "rank": 10,
+      "keyword": "年末高光穿搭大赏 ↓",
+      "change": "down",
+      "change_value": -1
+    }
+  ],
+  "conclusion": [
+    "体育赛事（U23国足胜利）成为绝对流量中心，驱动微博、抖音双平台热点格局，并衍生出多个关联话题。",
+    "黄金价格波动及相关民生话题（金饰价、水贝禁售）热度显著攀升，反映公众对资产保值与消费价格的敏感度提高。",
+    "娱乐内容呈现高度分散化，影视宣发、明星动态、短剧行业、社会话题并存，缺乏单一主导性爆点。"
+  ]
+}
