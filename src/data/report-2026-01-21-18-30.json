@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现娱乐与社会议题并重格局，微博平台情感话题与民生事件占据主导，抖音平台则聚焦重大时政与国民情绪，U23国足战绩成为跨平台上升核心驱动力。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "男足时隔22年再进洲际赛事决赛",
+      "from_rank": 40,
+      "to_rank": 17,
+      "reason": "U23国足晋级决赛引发全民关注，排名跃升23位，成为抖音平台上升最快话题。"
+    },
+    {
+      "keyword": "换乘恋爱",
+      "from_rank": 14,
+      "to_rank": 5,
+      "reason": "综艺节目热度持续发酵，排名上升9位进入微博前五。"
+    },
+    {
+      "keyword": "黑草莓",
+      "from_rank": 16,
+      "to_rank": 8,
+      "reason": "关联词条‘车厘子降价后黑草莓成水果新贵’引发讨论，排名上升8位。"
+    },
+    {
+      "keyword": "许嵩 唱完你的唱你的",
+      "from_rank": 43,
+      "to_rank": 36,
+      "reason": "艺人相关话题热度回升，排名上升7位。"
+    },
+    {
+      "keyword": "北京成为第二个5万亿城市",
+      "from_rank": 36,
+      "to_rank": 30,
+      "reason": "重大经济新闻引发关注，排名上升6位。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "告白",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "留学生揭穿9层楼积雪骗局",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "万千气象看龙江",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "从唇腭裂看到更多先天性疾病群体",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "换乘恋爱",
+      "change": "up",
+      "change_value": 9
+    },
+    {
+      "rank": 6,
+      "keyword": "王者四美FMVP皮肤四缺一",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 7,
+      "keyword": "建议不要有外卖羞耻症",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 8,
+      "keyword": "黑草莓",
+      "change": "up",
+      "change_value": 8
+    },
+    {
+      "rank": 9,
+      "keyword": "五哈6录制嘉宾",
+      "change": "down",
+      "change_value": -4
+    },
+    {
+      "rank": 10,
+      "keyword": "中方回应是否加入所谓和平委员会",
+      "change": "up",
+      "change_value": 0
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "外交部回应是否加入和平委员会",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "税务部门处罚拼多多",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "我国已启动第二阶段6G技术试验",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "一句话挑战全国方言",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "社恐人就这么假装卖霉豆腐",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "此情此景的雪该怎么描述",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "跟着各地年货回家寻年味",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "年末高光穿搭大赏",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "当代年轻人的香插已经next level",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "韩国前总理韩德洙一审被判23年",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "U23国足战绩成为本周期最强上升引擎，带动‘男足时隔22年再进洲际赛事决赛’等系列话题在抖音平台热度飙升。",
+    "微博平台娱乐话题（如‘换乘恋爱’）与特定社会民生事件（如‘黑草莓’、‘先天性疾病群体’）交替占据热度高位，呈现圈层化传播特征。",
+    "抖音热搜前十位高度稳定，由重大时政、科技、社会及轻松互动话题构成，平台内容生态呈现‘重头轻尾’的固化格局。"
+  ]
+}
