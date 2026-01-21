@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现体育赛事主导、社会议题与娱乐内容并存的格局。U23国足晋级决赛成为跨平台核心议题，推动大量衍生话题。微博平台社会新闻与娱乐话题交替上升，抖音平台则围绕赛事、冬季生活与平台活动形成集中讨论。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "一觉醒来U23国足打进决赛",
+      "from_rank": 19,
+      "to_rank": 9,
+      "reason": "排名跃升10位，直接受益于U23国足晋级决赛的核心事件，是赛事结果在社交媒体上的即时情绪化表达。"
+    },
+    {
+      "keyword": "导演回应狼王格林是否安好",
+      "from_rank": 27,
+      "to_rank": 17,
+      "reason": "排名跃升10位，源于相关影视或娱乐内容引发关注后，官方回应满足了公众的即时信息需求。"
+    },
+    {
+      "keyword": "黄金",
+      "from_rank": 44,
+      "to_rank": 38,
+      "reason": "排名跃升6位，与同榜单中‘金价’、‘黄金涨飞了’等词条形成共振，反映近期金价波动引发持续讨论。"
+    },
+    {
+      "keyword": "王嘉尔王鹤棣徐明浩合影",
+      "from_rank": 34,
+      "to_rank": 29,
+      "reason": "排名跃升5位，明星合影事件在娱乐粉丝圈层内快速传播，推动热度上升。"
+    },
+    {
+      "keyword": "上班是法务下班是偷车厘子惯犯",
+      "from_rank": 5,
+      "to_rank": 1,
+      "reason": "排名跃升4位至榜首，其强烈的身份反差和违法事实构成了极具传播性的社会新闻，讨论度激增。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "上班是法务下班是偷车厘子惯犯 ↑",
+      "change": "up",
+      "change_value": 4
+    },
+    {
+      "rank": 2,
+      "keyword": "U23国足3比0越南U23 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 3,
+      "keyword": "还有不到30天过年 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "野狗骨头 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 5,
+      "keyword": "欧盟决定永久冻结俄罗斯资产 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 6,
+      "keyword": "儿子怒斥癌症妈妈碰瓷为何让人共情 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "LV大秀 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 8,
+      "keyword": "裴轸事业没了 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 9,
+      "keyword": "一觉醒来U23国足打进决赛 ↑",
+      "change": "up",
+      "change_value": 10
+    },
+    {
+      "rank": 10,
+      "keyword": "黑草莓售价高达300元一斤 ↓",
+      "change": "down",
+      "change_value": -2
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23国足3:0越南挺进决赛 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "U23国足将同日本队争冠 ↑",
+      "change": "up",
+      "change_value": 6
+    },
+    {
+      "rank": 3,
+      "keyword": "数读2025年中国经济成绩单 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "国足U23下半场5分钟进两球 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "U23男足：计划有变决赛见 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 6,
+      "keyword": "彭啸头球破门 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "你重返狼群吧 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 8,
+      "keyword": "马年非遗祈福百景图 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 9,
+      "keyword": "年末高光穿搭大赏 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "跟着各地年货回家寻年味 →",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "U23国足赛事成为绝对流量中心，在微博和抖音平台均产生大量高热度衍生话题，形成跨平台传播矩阵。",
+    "微博热点结构多元，社会新闻（法务偷窃）、国际政治（欧盟冻结资产）与娱乐（野狗骨头、LV秀）并存，且社会议题具备更强的登顶能力。",
+    "抖音热点更聚焦于赛事进程、冬季生活场景（雪、年货）及平台内娱乐活动（手势舞、穿搭），内容呈现更强的场景化和互动性特征。"
+  ]
+}
