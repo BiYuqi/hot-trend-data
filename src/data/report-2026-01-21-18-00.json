@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "微博平台社会民生与娱乐话题交织，抖音平台则呈现国际时政与国内科技、体育新闻并重的格局，两平台热点类型分化明显。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "苹果糖",
+      "from_rank": 42,
+      "to_rank": 7,
+      "reason": "排名跃升35位，从低位直接进入前十，表明该话题在短时间内引发了大规模讨论和传播。"
+    },
+    {
+      "keyword": "留学生揭穿9层楼积雪骗局",
+      "from_rank": 30,
+      "to_rank": 2,
+      "reason": "排名跃升28位，从榜单中段飙升至第二位，其揭露性内容迅速吸引了公众关注。"
+    },
+    {
+      "keyword": "越南球员痛失106万巨奖埋头跪地",
+      "from_rank": 31,
+      "to_rank": 15,
+      "reason": "排名跃升16位，戏剧性的体育事件引发了广泛的情感共鸣和讨论。"
+    },
+    {
+      "keyword": "金价大涨3.71%",
+      "from_rank": 38,
+      "to_rank": 27,
+      "reason": "排名跃升11位，财经领域的显著波动直接触动了公众的投资与消费神经。"
+    },
+    {
+      "keyword": "建议不要有外卖羞耻症",
+      "from_rank": 16,
+      "to_rank": 6,
+      "reason": "排名跃升10位，切中当代年轻人普遍心理的社会议题迅速发酵。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "告白 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 2,
+      "keyword": "留学生揭穿9层楼积雪骗局 ↑",
+      "change": "up",
+      "change_value": 28
+    },
+    {
+      "rank": 3,
+      "keyword": "万千气象看龙江 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "王者四美FMVP皮肤四缺一 ↑",
+      "change": "up",
+      "change_value": 5
+    },
+    {
+      "rank": 5,
+      "keyword": "五哈6录制嘉宾 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 6,
+      "keyword": "建议不要有外卖羞耻症 ↑",
+      "change": "up",
+      "change_value": 10
+    },
+    {
+      "rank": 7,
+      "keyword": "苹果糖 ↑",
+      "change": "up",
+      "change_value": 35
+    },
+    {
+      "rank": 8,
+      "keyword": "火锅最后一个吃什么菜收尾 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 9,
+      "keyword": "车厘子降价后黑草莓成水果新贵 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 10,
+      "keyword": "10元一斤草莓和300元一斤草莓区别 →",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "外交部回应是否加入和平委员会 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "税务部门处罚拼多多 ↑",
+      "change": "up",
+      "change_value": 2
+    },
+    {
+      "rank": 3,
+      "keyword": "我国已启动第二阶段6G技术试验 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "一句话挑战全国方言 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 5,
+      "keyword": "社恐人就这么假装卖霉豆腐 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "此情此景的雪该怎么描述 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "跟着各地年货回家寻年味 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "年末高光穿搭大赏 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 9,
+      "keyword": "当代年轻人的香插已经next level ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 10,
+      "keyword": "韩国前总理韩德洙一审被判23年 →",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "微博热点呈现‘事件驱动’特征，社会新闻（积雪骗局）与生活议题（外卖羞耻）的排名跃升幅度远超娱乐内容。",
+    "抖音头部热点高度稳定，以国际政治、国内科技和平台处罚为主，娱乐及挑战类内容位居中段，形成泾渭分明的板块。",
+    "U23国足赛事成绩在抖音平台引发系列话题发酵，带动了多个相关词条热度上升，体现了体育事件的集中传播效应。"
+  ]
+}
