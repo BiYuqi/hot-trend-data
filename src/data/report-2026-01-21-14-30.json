@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现社会民生与娱乐话题并重格局，微博平台社会争议事件与明星动态占据主导，抖音平台则聚焦年节氛围、体育赛事与国际政治，平台内容分化明显。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "女子回应怀孕暴涨45斤被迫辞职",
+      "from_rank": 32,
+      "to_rank": 14,
+      "reason": "排名跃升18位，该话题触及职场女性权益与生育困境，引发广泛社会共鸣与讨论。"
+    },
+    {
+      "keyword": "湖人战胜掘金",
+      "from_rank": 43,
+      "to_rank": 25,
+      "reason": "排名跃升18位，NBA焦点赛事结果直接驱动体育爱好者关注度快速上升。"
+    },
+    {
+      "keyword": "山上彻也哥哥自杀后萌生报复念头",
+      "from_rank": 21,
+      "to_rank": 4,
+      "reason": "排名跃升17位，作为‘枪击安倍凶手被判无期’事件的深度背景信息，在判决公布后关联热度激增。"
+    },
+    {
+      "keyword": "白鹿吃烤肉经纪人在旁边急死了",
+      "from_rank": 26,
+      "to_rank": 12,
+      "reason": "排名跃升14位，明星日常生活细节因具有反差感和趣味性，迅速吸引粉丝及路人关注。"
+    },
+    {
+      "keyword": "特朗普晒马克龙私信",
+      "from_rank": 26,
+      "to_rank": 14,
+      "reason": "排名跃升12位，国际政要间的私人互动内容具有戏剧性和话题性，推动其在短视频平台快速传播。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "男子献血2.2万毫升景区不免票被告",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "盒马客服回应虾煮熟后渗出蓝色液体",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "五个新概括2025年经济工作成绩单",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "山上彻也哥哥自杀后萌生报复念头",
+      "change": "up",
+      "change_value": 17
+    },
+    {
+      "rank": 5,
+      "keyword": "代旭 猫的树你把我拍得好美啊",
+      "change": "up",
+      "change_value": 6
+    },
+    {
+      "rank": 6,
+      "keyword": "很火但实际很难吃的水果",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 7,
+      "keyword": "吉利银河V900全球上市26.98万起",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "双休可以是一周的任意两天",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "愤怒的小鸟CEO感谢中国玩家",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 10,
+      "keyword": "HR讽刺求职者本科学历不配双休",
+      "change": "down",
+      "change_value": -2
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "马年非遗祈福百景图",
+      "change": "up",
+      "change_value": 4
+    },
+    {
+      "rank": 2,
+      "keyword": "U23国足将同日本队争冠",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 3,
+      "keyword": "乡村正在成为消费增长的新主场",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "枪击安倍凶手被判无期",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "A股",
+      "change": "up",
+      "change_value": 4
+    },
+    {
+      "rank": 6,
+      "keyword": "此情此景的雪该怎么描述",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "跟着各地年货回家寻年味",
+      "change": "up",
+      "change_value": 4
+    },
+    {
+      "rank": 8,
+      "keyword": "年末高光穿搭大赏",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 9,
+      "keyword": "U23国足3:0越南挺进决赛",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 10,
+      "keyword": "韩国前总理韩德洙一审被判23年",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "社会民生与个体权益议题（如献血争议、职场歧视、生育压力）在微博平台持续引发高强度公共讨论。",
+    "抖音平台热点呈现‘年节氛围+体育赛事+国际时政’三元结构，内容更侧重氛围营造、民族情绪与轻量国际资讯。",
+    "娱乐内容在双平台均保持稳定热度，但微博更依赖明星个人动态与剧集营销，抖音则更侧重影视片段二创与互动挑战。"
+  ]
+}
