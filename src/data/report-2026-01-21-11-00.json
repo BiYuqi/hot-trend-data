@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现体育赛事主导、年节氛围浓厚、国际事件分散的格局。U23国足历史性突破成为全网核心议题，带动体育话题热度断层领先；同时，农历新年临近与全国性降雪共同催生了大量应景内容。微博与抖音平台在话题侧重上出现分化，微博更关注社会民生与娱乐事件，抖音则聚焦于体育赛事与生活化内容创作。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "地球发生6小时特大地磁暴",
+      "from_rank": 49,
+      "to_rank": 19,
+      "reason": "排名跃升30位，从榜单尾部直接进入头部，因罕见天文现象引发公众广泛关注与讨论。"
+    },
+    {
+      "keyword": "西安一下雪就美成了长安",
+      "from_rank": 41,
+      "to_rank": 18,
+      "reason": "排名跃升23位，契合全国性降雪天气，将城市景观与历史文化结合，激发了强烈的视觉传播和情感共鸣。"
+    },
+    {
+      "keyword": "李秋萍主动求婚被拒绝",
+      "from_rank": 20,
+      "to_rank": 4,
+      "reason": "排名跃升16位，作为影视剧《野狗骨头》的核心剧情冲突点，其戏剧性情节在社交媒体上迅速发酵。"
+    },
+    {
+      "keyword": "太平年定档",
+      "from_rank": 17,
+      "to_rank": 5,
+      "reason": "排名跃升12位，新片定档消息在临近春节的档期发布，直接触发了市场与观众的高度期待。"
+    },
+    {
+      "keyword": "跟着各地年货回家寻年味",
+      "from_rank": 19,
+      "to_rank": 8,
+      "reason": "排名跃升11位，内容高度契合春节前夕的时间节点，以“年货”和“回家”为核心，引发了广泛的地域共鸣和参与式传播。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "中国男足等了整整22年",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "U23国足3比0越南U23",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "还有不到30天过年",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "李秋萍主动求婚被拒绝 ↑",
+      "change": "up",
+      "change_value": 16
+    },
+    {
+      "rank": 5,
+      "keyword": "太平年定档 ↑",
+      "change": "up",
+      "change_value": 12
+    },
+    {
+      "rank": 6,
+      "keyword": "这才是真的俩魔丸生了个灵珠",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "吉利银河V900全球上市26.98万起",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "金饰价涨到1495元 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 9,
+      "keyword": "拳打拜合拉木球员道歉 ↓",
+      "change": "down",
+      "change_value": -5
+    },
+    {
+      "rank": 10,
+      "keyword": "野狗骨头把雌竞改成了惺惺相惜",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23国足将同日本队争冠 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 2,
+      "keyword": "U23国足3:0越南挺进决赛 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 3,
+      "keyword": "数读2025年中国经济成绩单",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "你重返狼群吧 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 5,
+      "keyword": "马年非遗祈福百景图 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 6,
+      "keyword": "此情此景的雪该怎么描述 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 7,
+      "keyword": "年末高光穿搭大赏 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 8,
+      "keyword": "跟着各地年货回家寻年味 ↑",
+      "change": "up",
+      "change_value": 11
+    },
+    {
+      "rank": 9,
+      "keyword": "U23男足：计划有变准备冲冠 ↓",
+      "change": "down",
+      "change_value": -4
+    },
+    {
+      "rank": 10,
+      "keyword": "外面漫天飞雪正是涮肉的时节 ↑",
+      "change": "up",
+      "change_value": 8
+    }
+  ],
+  "conclusion": [
+    "体育赛事（U23亚洲杯）是本周期绝对的流量引擎，其相关话题在双平台TOP10中占据核心位置，并驱动了‘重返狼群’等衍生梗的传播。",
+    "年节与气候成为内容创作主线，‘雪景’、‘年货’、‘过年倒计时’等话题在抖音实现排名大幅跃升，微博则侧重社会民生（金价、GDP）与娱乐影视（新剧定档、剧情讨论）。",
+    "国际政治与突发事件（地磁暴、美欧动态）虽有关注，但热度呈现碎片化，未能形成持续主导话题，其传播深度远不及体育与生活类内容。"
+  ]
+}
