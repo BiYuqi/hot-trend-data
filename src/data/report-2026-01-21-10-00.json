@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现体育赛事主导、社会民生与娱乐话题并存的格局。U23国足历史性胜利成为全网核心议题，推动多个相关话题热度飙升；微博平台社会新闻与娱乐话题交织，抖音平台则更聚焦赛事进程与互动内容。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "中国男足等了整整22年",
+      "from_rank": 32,
+      "to_rank": 2,
+      "reason": "排名跃升30位，直接关联U23国足晋级决赛的重大体育事件，激发了广泛的民族情感与历史记忆讨论。"
+    },
+    {
+      "keyword": "这才是真的俩魔丸生了个灵珠",
+      "from_rank": 31,
+      "to_rank": 6,
+      "reason": "排名跃升25位，作为娱乐话题，其戏剧性描述契合网络传播规律，在体育热点之外形成快速扩散。"
+    },
+    {
+      "keyword": "贝克汉姆回应大儿子控诉",
+      "from_rank": 33,
+      "to_rank": 12,
+      "reason": "排名跃升21位，涉及国际知名人物家庭争议，具备天然的娱乐新闻关注度，话题性推动热度快速上升。"
+    },
+    {
+      "keyword": "拳打拜合拉木球员道歉",
+      "from_rank": 26,
+      "to_rank": 17,
+      "reason": "排名跃升9位，与U23国足赛事相关，赛场冲突及后续道歉行为构成了完整的事件链条，吸引了持续关注。"
+    },
+    {
+      "keyword": "范丞丞直播",
+      "from_rank": 47,
+      "to_rank": 42,
+      "reason": "排名上升5位，明星直播活动直接触达粉丝群体，互动性内容在娱乐板块产生稳定的热度增量。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "上班是法务下班是偷车厘子惯犯",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "中国男足等了整整22年 ↑",
+      "change": "up",
+      "change_value": 30
+    },
+    {
+      "rank": 3,
+      "keyword": "还有不到30天过年",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "野狗骨头 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 5,
+      "keyword": "U23国足3比0越南U23 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 6,
+      "keyword": "这才是真的俩魔丸生了个灵珠 ↑",
+      "change": "up",
+      "change_value": 25
+    },
+    {
+      "rank": 7,
+      "keyword": "HBN首位品牌代言人汪苏泷",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "导演回应狼王格林是否安好 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 9,
+      "keyword": "安倍遇刺案今天宣判 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 10,
+      "keyword": "欧盟决定永久冻结俄罗斯资产 ↓",
+      "change": "down",
+      "change_value": -5
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23国足3:0越南挺进决赛",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "U23国足将同日本队争冠",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "数读2025年中国经济成绩单",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "国足U23下半场5分钟进两球",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "U23男足：计划有变决赛见",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "彭啸头球破门",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "你重返狼群吧",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "马年非遗祈福百景图",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "年末高光穿搭大赏 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 10,
+      "keyword": "许金花被执行死刑",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "U23国足晋级决赛是本周绝对核心热点，其影响力覆盖微博、抖音双平台，并衍生出多个关联话题。",
+    "微博热点结构多元，体育捷报、社会奇闻、娱乐八卦及国际时事并存，话题迭代速度较快。",
+    "抖音热点高度集中于U23赛事进程与结果，榜单前六均为相关话题，平台内容呈现强聚焦与高互动特性。"
+  ]
+}
