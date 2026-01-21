@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现民生议题与体育赛事双主线并行，微博平台食品安全与职场话题快速发酵，抖音平台U23亚洲杯赛事热度持续攀升并带动相关话题扩散。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "盒马客服回应虾煮熟后渗出蓝色液体",
+      "from_rank": 41,
+      "to_rank": 2,
+      "reason": "排名跃升39位，因食品安全问题引发公众广泛关注与讨论，迅速成为微博核心民生议题。"
+    },
+    {
+      "keyword": "上班第一天被工位震惊了",
+      "from_rank": 31,
+      "to_rank": 9,
+      "reason": "排名跃升22位，职场环境话题引发普遍共鸣，讨论热度激增进入微博前十。"
+    },
+    {
+      "keyword": "李亚鹏曾检查出有淋巴癌",
+      "from_rank": 37,
+      "to_rank": 17,
+      "reason": "排名跃升20位，明星健康隐私话题曝光，迅速吸引公众注意力。"
+    },
+    {
+      "keyword": "U23国足3:0越南挺进决赛",
+      "from_rank": 22,
+      "to_rank": 10,
+      "reason": "排名跃升12位，国足关键比赛胜利直接推动话题热度，进入抖音前十。"
+    },
+    {
+      "keyword": "巴特勒赛季报销",
+      "from_rank": 34,
+      "to_rank": 24,
+      "reason": "排名跃升10位，NBA球星重大伤情新闻在体育圈内快速传播，热度显著上升。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "男子献血2.2万毫升景区不免票被告",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "盒马客服回应虾煮熟后渗出蓝色液体 ↑",
+      "change": "up",
+      "change_value": 39
+    },
+    {
+      "rank": 3,
+      "keyword": "五个新概括2025年经济工作成绩单",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "很火但实际很难吃的水果",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "枪击安倍凶手被判无期 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 6,
+      "keyword": "愤怒的小鸟CEO感谢中国玩家 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 7,
+      "keyword": "HBN首位品牌代言人汪苏泷",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "HR讽刺求职者本科学历不配双休 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 9,
+      "keyword": "上班第一天被工位震惊了 ↑",
+      "change": "up",
+      "change_value": 22
+    },
+    {
+      "rank": 10,
+      "keyword": "女儿要10元零花钱却让妈妈负债百万 ↓",
+      "change": "down",
+      "change_value": -4
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23国足将同日本队争冠",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "马克龙在达沃斯喊话特朗普 ↑",
+      "change": "up",
+      "change_value": 3
+    },
+    {
+      "rank": 3,
+      "keyword": "乡村正在成为消费增长的新主场",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "枪击安倍凶手被判无期",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "马年非遗祈福百景图 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 6,
+      "keyword": "此情此景的雪该怎么描述",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "年末高光穿搭大赏",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "U23亚洲杯日本1:0韩国 ↑",
+      "change": "up",
+      "change_value": 8
+    },
+    {
+      "rank": 9,
+      "keyword": "A股 ↑",
+      "change": "up",
+      "change_value": 1
+    },
+    {
+      "rank": 10,
+      "keyword": "U23国足3:0越南挺进决赛 ↑",
+      "change": "up",
+      "change_value": 12
+    }
+  ],
+  "conclusion": [
+    "微博平台热点由突发性民生事件（食品安全、职场环境）驱动，话题发酵速度快，社会议题属性强。",
+    "抖音平台热点高度集中于U23亚洲杯赛事，国足表现直接带动多个相关话题热度飙升，形成体育内容矩阵。",
+    "两平台热点结构差异明显：微博侧重社会民生与娱乐，抖音侧重体育赛事与国际时政，平台内容偏好分化。"
+  ]
+}

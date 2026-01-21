@@ -1,0 +1,613 @@
+{
+  "timestamp": "2026-01-21 14:00:00",
+  "weibo": [
+    {
+      "platform": "weibo",
+      "keyword": "男子献血2.2万毫升景区不免票被告",
+      "rank": 1,
+      "hot": 1125502
+    },
+    {
+      "platform": "weibo",
+      "keyword": "盒马客服回应虾煮熟后渗出蓝色液体",
+      "rank": 2,
+      "hot": 796358
+    },
+    {
+      "platform": "weibo",
+      "keyword": "五个新概括2025年经济工作成绩单",
+      "rank": 3,
+      "hot": 636511
+    },
+    {
+      "platform": "weibo",
+      "keyword": "很火但实际很难吃的水果",
+      "rank": 4,
+      "hot": 397327
+    },
+    {
+      "platform": "weibo",
+      "keyword": "枪击安倍凶手被判无期",
+      "rank": 5,
+      "hot": 360273
+    },
+    {
+      "platform": "weibo",
+      "keyword": "愤怒的小鸟CEO感谢中国玩家",
+      "rank": 6,
+      "hot": 338496
+    },
+    {
+      "platform": "weibo",
+      "keyword": "HBN首位品牌代言人汪苏泷",
+      "rank": 7,
+      "hot": 324441
+    },
+    {
+      "platform": "weibo",
+      "keyword": "HR讽刺求职者本科学历不配双休",
+      "rank": 8,
+      "hot": 274608
+    },
+    {
+      "platform": "weibo",
+      "keyword": "上班第一天被工位震惊了",
+      "rank": 9,
+      "hot": 246569
+    },
+    {
+      "platform": "weibo",
+      "keyword": "女儿要10元零花钱却让妈妈负债百万",
+      "rank": 10,
+      "hot": 232273
+    },
+    {
+      "platform": "weibo",
+      "keyword": "代旭 猫的树你把我拍得好美啊",
+      "rank": 11,
+      "hot": 190860
+    },
+    {
+      "platform": "weibo",
+      "keyword": "iPhone18",
+      "rank": 12,
+      "hot": 190618
+    },
+    {
+      "platform": "weibo",
+      "keyword": "张凌赫林允喂药吻",
+      "rank": 13,
+      "hot": 189357
+    },
+    {
+      "platform": "weibo",
+      "keyword": "偶遇霍建华他还给我买单了",
+      "rank": 14,
+      "hot": 189186
+    },
+    {
+      "platform": "weibo",
+      "keyword": "KPL",
+      "rank": 15,
+      "hot": 187895
+    },
+    {
+      "platform": "weibo",
+      "keyword": "卢昱晓回应跪下和粉丝合照",
+      "rank": 16,
+      "hot": 187695
+    },
+    {
+      "platform": "weibo",
+      "keyword": "李亚鹏曾检查出有淋巴癌",
+      "rank": 17,
+      "hot": 184899
+    },
+    {
+      "platform": "weibo",
+      "keyword": "中国男足等了整整22年",
+      "rank": 18,
+      "hot": 179952
+    },
+    {
+      "platform": "weibo",
+      "keyword": "曝黄荷娜为减刑供出艺人名字",
+      "rank": 19,
+      "hot": 179877
+    },
+    {
+      "platform": "weibo",
+      "keyword": "这居然是李煜东",
+      "rank": 20,
+      "hot": 179729
+    },
+    {
+      "platform": "weibo",
+      "keyword": "山上彻也哥哥自杀后萌生报复念头",
+      "rank": 21,
+      "hot": 158806
+    },
+    {
+      "platform": "weibo",
+      "keyword": "生父帮继母买1600片泻药持续喂女儿",
+      "rank": 22,
+      "hot": 149781
+    },
+    {
+      "platform": "weibo",
+      "keyword": "黄子韬没等徐艺洋",
+      "rank": 23,
+      "hot": 146671
+    },
+    {
+      "platform": "weibo",
+      "keyword": "牢A",
+      "rank": 24,
+      "hot": 143705
+    },
+    {
+      "platform": "weibo",
+      "keyword": "美国博主直呼中国才是理想中的家",
+      "rank": 25,
+      "hot": 139340
+    },
+    {
+      "platform": "weibo",
+      "keyword": "白鹿吃烤肉经纪人在旁边急死了",
+      "rank": 26,
+      "hot": 138576
+    },
+    {
+      "platform": "weibo",
+      "keyword": "王楚然好明媚一张脸",
+      "rank": 27,
+      "hot": 135860
+    },
+    {
+      "platform": "weibo",
+      "keyword": "过年红包掏空了父亲一年的收入",
+      "rank": 28,
+      "hot": 131328
+    },
+    {
+      "platform": "weibo",
+      "keyword": "云旗郝熠然红秀",
+      "rank": 29,
+      "hot": 128745
+    },
+    {
+      "platform": "weibo",
+      "keyword": "枪杀安倍自制枪支被定性为手枪",
+      "rank": 30,
+      "hot": 120729
+    },
+    {
+      "platform": "weibo",
+      "keyword": "上班是法务下班是偷车厘子惯犯",
+      "rank": 31,
+      "hot": 112610
+    },
+    {
+      "platform": "weibo",
+      "keyword": "女子回应怀孕暴涨45斤被迫辞职",
+      "rank": 32,
+      "hot": 112514
+    },
+    {
+      "platform": "weibo",
+      "keyword": "猫咖的下沉市场",
+      "rank": 33,
+      "hot": 112484
+    },
+    {
+      "platform": "weibo",
+      "keyword": "雪地冻8小时女子险成冰雕",
+      "rank": 34,
+      "hot": 112361
+    },
+    {
+      "platform": "weibo",
+      "keyword": "黄金",
+      "rank": 35,
+      "hot": 111825
+    },
+    {
+      "platform": "weibo",
+      "keyword": "10年前买的钻戒已贬值99%",
+      "rank": 36,
+      "hot": 111476
+    },
+    {
+      "platform": "weibo",
+      "keyword": "黄景瑜的竞品是沈月",
+      "rank": 37,
+      "hot": 111101
+    },
+    {
+      "platform": "weibo",
+      "keyword": "周翊然胖15斤又瘦10斤",
+      "rank": 38,
+      "hot": 104745
+    },
+    {
+      "platform": "weibo",
+      "keyword": "金店店员对金价飙涨已麻木",
+      "rank": 39,
+      "hot": 103165
+    },
+    {
+      "platform": "weibo",
+      "keyword": "老人不舍开空调儿子将遥控器带走",
+      "rank": 40,
+      "hot": 101789
+    },
+    {
+      "platform": "weibo",
+      "keyword": "娜扎长文告别玉茗茶骨",
+      "rank": 41,
+      "hot": 101453
+    },
+    {
+      "platform": "weibo",
+      "keyword": "55克金镯开年已涨7700元",
+      "rank": 42,
+      "hot": 99129
+    },
+    {
+      "platform": "weibo",
+      "keyword": "湖人战胜掘金",
+      "rank": 43,
+      "hot": 95733
+    },
+    {
+      "platform": "weibo",
+      "keyword": "黄金在矿石表面静静生长",
+      "rank": 44,
+      "hot": 94570
+    },
+    {
+      "platform": "weibo",
+      "keyword": "无限暖暖",
+      "rank": 45,
+      "hot": 92585
+    },
+    {
+      "platform": "weibo",
+      "keyword": "太平年定档",
+      "rank": 46,
+      "hot": 91916
+    },
+    {
+      "platform": "weibo",
+      "keyword": "4种看似健康的粗粮其实是血糖杀手",
+      "rank": 47,
+      "hot": 88480
+    },
+    {
+      "platform": "weibo",
+      "keyword": "徐明浩LV大秀G社生图",
+      "rank": 48,
+      "hot": 86684
+    },
+    {
+      "platform": "weibo",
+      "keyword": "无限暖暖身份签抽了么",
+      "rank": 49,
+      "hot": 85650
+    },
+    {
+      "platform": "weibo",
+      "keyword": "归鸾",
+      "rank": 50,
+      "hot": 82909
+    },
+    {
+      "platform": "weibo",
+      "keyword": "野狗骨头",
+      "rank": 51,
+      "hot": 82537
+    }
+  ],
+  "douyin": [
+    {
+      "platform": "douyin",
+      "keyword": "U23国足将同日本队争冠",
+      "rank": 1,
+      "hot": 11084299
+    },
+    {
+      "platform": "douyin",
+      "keyword": "马克龙在达沃斯喊话特朗普",
+      "rank": 2,
+      "hot": 10838523
+    },
+    {
+      "platform": "douyin",
+      "keyword": "乡村正在成为消费增长的新主场",
+      "rank": 3,
+      "hot": 10821615
+    },
+    {
+      "platform": "douyin",
+      "keyword": "枪击安倍凶手被判无期",
+      "rank": 4,
+      "hot": 10677306
+    },
+    {
+      "platform": "douyin",
+      "keyword": "马年非遗祈福百景图",
+      "rank": 5,
+      "hot": 10132656
+    },
+    {
+      "platform": "douyin",
+      "keyword": "此情此景的雪该怎么描述",
+      "rank": 6,
+      "hot": 10108083
+    },
+    {
+      "platform": "douyin",
+      "keyword": "年末高光穿搭大赏",
+      "rank": 7,
+      "hot": 8726086
+    },
+    {
+      "platform": "douyin",
+      "keyword": "U23亚洲杯日本1:0韩国",
+      "rank": 8,
+      "hot": 8442274
+    },
+    {
+      "platform": "douyin",
+      "keyword": "A股",
+      "rank": 9,
+      "hot": 8428799
+    },
+    {
+      "platform": "douyin",
+      "keyword": "U23国足3:0越南挺进决赛",
+      "rank": 10,
+      "hot": 8354968
+    },
+    {
+      "platform": "douyin",
+      "keyword": "跟着各地年货回家寻年味",
+      "rank": 11,
+      "hot": 8282812
+    },
+    {
+      "platform": "douyin",
+      "keyword": "警方辟谣重庆出现人贩子偷娃",
+      "rank": 12,
+      "hot": 8034480
+    },
+    {
+      "platform": "douyin",
+      "keyword": "第一批雪人已经卷起来了",
+      "rank": 13,
+      "hot": 7950737
+    },
+    {
+      "platform": "douyin",
+      "keyword": "地球发生6小时特大地磁暴",
+      "rank": 14,
+      "hot": 7857487
+    },
+    {
+      "platform": "douyin",
+      "keyword": "现货黄金首次站上4800",
+      "rank": 15,
+      "hot": 7831348
+    },
+    {
+      "platform": "douyin",
+      "keyword": "U23男足：计划有变准备冲冠",
+      "rank": 16,
+      "hot": 7805904
+    },
+    {
+      "platform": "douyin",
+      "keyword": "彭啸头球破门",
+      "rank": 17,
+      "hot": 7799836
+    },
+    {
+      "platform": "douyin",
+      "keyword": "打人的越南球员向自家球迷道歉",
+      "rank": 18,
+      "hot": 7773075
+    },
+    {
+      "platform": "douyin",
+      "keyword": "挑战黄豆表情嗯嗯嗯卡点",
+      "rank": 19,
+      "hot": 7751549
+    },
+    {
+      "platform": "douyin",
+      "keyword": "火箭战胜马刺",
+      "rank": 20,
+      "hot": 7736527
+    },
+    {
+      "platform": "douyin",
+      "keyword": "和朋友拍雷霆手势舞",
+      "rank": 21,
+      "hot": 7735804
+    },
+    {
+      "platform": "douyin",
+      "keyword": "轧戏大结局",
+      "rank": 22,
+      "hot": 7734135
+    },
+    {
+      "platform": "douyin",
+      "keyword": "U23球员赛后开跳“胜利之舞”",
+      "rank": 23,
+      "hot": 7732275
+    },
+    {
+      "platform": "douyin",
+      "keyword": "巴特勒赛季报销",
+      "rank": 24,
+      "hot": 7720418
+    },
+    {
+      "platform": "douyin",
+      "keyword": "你重返狼群吧",
+      "rank": 25,
+      "hot": 7712347
+    },
+    {
+      "platform": "douyin",
+      "keyword": "特朗普晒马克龙私信",
+      "rank": 26,
+      "hot": 7709657
+    },
+    {
+      "platform": "douyin",
+      "keyword": "杨紫生命树日常工作晒牛粪",
+      "rank": 27,
+      "hot": 7707613
+    },
+    {
+      "platform": "douyin",
+      "keyword": "谁教登陆少年这么预告新歌的",
+      "rank": 28,
+      "hot": 7703499
+    },
+    {
+      "platform": "douyin",
+      "keyword": "博德闪耀3:1曼城",
+      "rank": 29,
+      "hot": 7700771
+    },
+    {
+      "platform": "douyin",
+      "keyword": "代旭裴轸的思念留在心中",
+      "rank": 30,
+      "hot": 7695514
+    },
+    {
+      "platform": "douyin",
+      "keyword": "陈星旭这次是反套路高苏帅",
+      "rank": 31,
+      "hot": 7690653
+    },
+    {
+      "platform": "douyin",
+      "keyword": "孤勇者在万众瞩目中出发了",
+      "rank": 32,
+      "hot": 7686057
+    },
+    {
+      "platform": "douyin",
+      "keyword": "车澈自曝瘦了68斤",
+      "rank": 33,
+      "hot": 7684388
+    },
+    {
+      "platform": "douyin",
+      "keyword": "一条视频告诉你生命树的含义",
+      "rank": 34,
+      "hot": 7683028
+    },
+    {
+      "platform": "douyin",
+      "keyword": "李昊的零封纪录还在保持",
+      "rank": 35,
+      "hot": 7671056
+    },
+    {
+      "platform": "douyin",
+      "keyword": "温太医你是这样上凌云峰的吗",
+      "rank": 36,
+      "hot": 7662682
+    },
+    {
+      "platform": "douyin",
+      "keyword": "遇到讨厌的人我们换个说法",
+      "rank": 37,
+      "hot": 7662670
+    },
+    {
+      "platform": "douyin",
+      "keyword": "网传“蛇窝蹦迪”的视频可信吗",
+      "rank": 38,
+      "hot": 7657714
+    },
+    {
+      "platform": "douyin",
+      "keyword": "我的漂亮藏不住了",
+      "rank": 39,
+      "hot": 7656114
+    },
+    {
+      "platform": "douyin",
+      "keyword": "王玉雯新剧就这样手搓抖音",
+      "rank": 40,
+      "hot": 7655701
+    },
+    {
+      "platform": "douyin",
+      "keyword": "赵丽颖：属于李秋萍的落笔生辉",
+      "rank": 41,
+      "hot": 7653333
+    },
+    {
+      "platform": "douyin",
+      "keyword": "今年的冬天没有遗憾啦",
+      "rank": 42,
+      "hot": 7651637
+    },
+    {
+      "platform": "douyin",
+      "keyword": "古早氛围感拿捏了",
+      "rank": 43,
+      "hot": 7643718
+    },
+    {
+      "platform": "douyin",
+      "keyword": "中方收到美方加入和平委员会邀请",
+      "rank": 44,
+      "hot": 7642835
+    },
+    {
+      "platform": "douyin",
+      "keyword": "当食物做了个噩梦",
+      "rank": 45,
+      "hot": 7640754
+    },
+    {
+      "platform": "douyin",
+      "keyword": "都暻秀为何这样跳Crown",
+      "rank": 46,
+      "hot": 7639615
+    },
+    {
+      "platform": "douyin",
+      "keyword": "用这首病态的爱发什么都很配",
+      "rank": 47,
+      "hot": 7639073
+    },
+    {
+      "platform": "douyin",
+      "keyword": "加拿大百年来首次模拟美入侵",
+      "rank": 48,
+      "hot": 7632433
+    },
+    {
+      "platform": "douyin",
+      "keyword": "中国驻英使馆新馆舍规划审批通过",
+      "rank": 49,
+      "hot": 7629961
+    },
+    {
+      "platform": "douyin",
+      "keyword": "李秋萍杜涛从同行者到陌路人",
+      "rank": 50,
+      "hot": 7629685
+    }
+  ]
+}
