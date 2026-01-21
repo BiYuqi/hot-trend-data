@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现体育赛事主导、国际政治事件与娱乐话题并存的格局。U23国足晋级决赛成为跨平台绝对核心议题，同时国际关系、社会民生及文娱内容形成多元热点矩阵。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "马克龙炮轰美国",
+      "from_rank": 31,
+      "to_rank": 4,
+      "reason": "排名跃升27位，从第31位升至第4位，因涉及法美外交冲突的突发性国际政治事件，引发广泛关注。"
+    },
+    {
+      "keyword": "裴轸事业没了",
+      "from_rank": 32,
+      "to_rank": 10,
+      "reason": "排名跃升22位，从第32位升至第10位，因关联剧集《野狗骨头》角色命运，在剧集热播期间引发粉丝讨论。"
+    },
+    {
+      "keyword": "突然的喜欢",
+      "from_rank": 44,
+      "to_rank": 30,
+      "reason": "排名跃升14位，从第44位升至第30位，因该词条在抖音平台同步定档，跨平台热度联动导致关注度上升。"
+    },
+    {
+      "keyword": "U23国足主帅回应晋级决赛",
+      "from_rank": 19,
+      "to_rank": 14,
+      "reason": "排名上升5位，从第19位升至第14位，作为核心体育事件“U23国足晋级”的衍生话题，随主事件热度发酵。"
+    },
+    {
+      "keyword": "马年纪念钞二手市场加价200%",
+      "from_rank": 45,
+      "to_rank": 42,
+      "reason": "排名上升3位，从第45位升至第42位，因临近农历新年，涉及生肖纪念品市场动态，契合节前消费与收藏话题。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23国足3比0越南U23",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "欧盟决定永久冻结俄罗斯资产",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "还有不到30天过年",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "马克龙炮轰美国 ↑",
+      "change": "up",
+      "change_value": 27
+    },
+    {
+      "rank": 5,
+      "keyword": "上班是法务下班是偷车厘子惯犯",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "儿子怒斥癌症妈妈碰瓷为何让人共情",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "野狗骨头 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 8,
+      "keyword": "黑草莓售价高达300元一斤 ↓",
+      "change": "down",
+      "change_value": -4
+    },
+    {
+      "rank": 9,
+      "keyword": "LV大秀 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 10,
+      "keyword": "裴轸事业没了 ↑",
+      "change": "up",
+      "change_value": 22
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "U23国足3:0越南挺进决赛",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "U23男足：计划有变决赛见",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "数读2025年中国经济成绩单",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "国足U23下半场5分钟进两球",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "你重返狼群吧 ↑",
+      "change": "up",
+      "change_value": 5
+    },
+    {
+      "rank": 6,
+      "keyword": "彭啸头球破门",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "马年非遗祈福百景图 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 8,
+      "keyword": "U23国足将同日本队争冠",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 9,
+      "keyword": "年末高光穿搭大赏 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 10,
+      "keyword": "跟着各地年货回家寻年味 ↓",
+      "change": "down",
+      "change_value": -1
+    }
+  ],
+  "conclusion": [
+    "体育赛事（U23国足）成为本周期绝对流量中心，在微博和抖音平台均占据头部位置，并衍生出多个关联话题。",
+    "国际政治（马克龙炮轰美国、欧盟冻结俄资产）与社会民生（偷车厘子惯犯、癌症妈妈碰瓷）事件在微博平台形成稳定的高热度第二梯队。",
+    "抖音平台内容生态更侧重节庆氛围（年货、非遗、冬日）、娱乐话题（重返狼群、手势舞）与体育赛事的结合，榜单中部竞争激烈，排名变动频繁。"
+  ]
+}
