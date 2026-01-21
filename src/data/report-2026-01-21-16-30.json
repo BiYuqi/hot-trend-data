@@ -1,0 +1,166 @@
+{
+  "summary": {
+    "text": "本周期热点呈现多元化格局，微博平台以社会民生、娱乐话题为主，抖音平台则聚焦科技、国际事件与互动挑战，平台内容偏好差异显著。"
+  },
+  "fastest_rising": [
+    {
+      "keyword": "全球债市遭遇大规模抛售",
+      "from_rank": 49,
+      "to_rank": 18,
+      "reason": "排名跃升31位，从榜单尾部直接进入头部，表明该国际财经事件在短时间内引发了抖音用户的集中关注和讨论。"
+    },
+    {
+      "keyword": "为什么建议大家春节期间去旅游",
+      "from_rank": 34,
+      "to_rank": 16,
+      "reason": "排名上升18位，进入微博前20，反映了临近春节，用户对假期出行建议和攻略的讨论热度迅速攀升。"
+    },
+    {
+      "keyword": "告白",
+      "from_rank": 26,
+      "to_rank": 9,
+      "reason": "排名跃升17位，从腰部位置直接进入微博TOP10，表明该娱乐话题（可能为影视或明星相关）的讨论度在周期内急剧爆发。"
+    },
+    {
+      "keyword": "火锅最后一个吃什么菜收尾",
+      "from_rank": 44,
+      "to_rank": 32,
+      "reason": "排名上升12位，从榜单边缘进入中段，体现了生活化、互动性强的话题在微博平台具备持续发酵和扩散的潜力。"
+    },
+    {
+      "keyword": "李亚鹏公布体检结果",
+      "from_rank": 38,
+      "to_rank": 28,
+      "reason": "排名上升10位，进入微博前30，说明明星个人动态，尤其是涉及健康等公众关心的话题，能够快速吸引关注并提升热度。"
+    }
+  ],
+  "weibo_top10": [
+    {
+      "rank": 1,
+      "keyword": "拼多多受到处罚 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "五哈6录制嘉宾 ↑",
+      "change": "up",
+      "change_value": 6
+    },
+    {
+      "rank": 3,
+      "keyword": "中国铁路再创世界纪录 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "涉密单位搬迁打印机被拉到废品站 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 5,
+      "keyword": "10元一斤草莓和300元一斤草莓区别 ↓",
+      "change": "down",
+      "change_value": -4
+    },
+    {
+      "rank": 6,
+      "keyword": "双休可以是一周的任意两天 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 7,
+      "keyword": "吉利银河V900全球上市26.98万起 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 8,
+      "keyword": "车厘子降价后黑草莓成水果新贵 ↓",
+      "change": "down",
+      "change_value": -3
+    },
+    {
+      "rank": 9,
+      "keyword": "告白 ↑",
+      "change": "up",
+      "change_value": 17
+    },
+    {
+      "rank": 10,
+      "keyword": "男子献血2.2万毫升景区不免票被告 ↓",
+      "change": "down",
+      "change_value": -8
+    }
+  ],
+  "douyin_top10": [
+    {
+      "rank": 1,
+      "keyword": "地球发生6小时特大地磁暴 →",
+      "change": "flat",
+      "change_value": 0
+    },
+    {
+      "rank": 2,
+      "keyword": "一句话挑战全国方言 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 3,
+      "keyword": "我国已启动第二阶段6G技术试验 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 4,
+      "keyword": "当代年轻人的香插已经next level ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 5,
+      "keyword": "社恐人就这么假装卖霉豆腐 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 6,
+      "keyword": "此情此景的雪该怎么描述 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 7,
+      "keyword": "年末高光穿搭大赏 ↓",
+      "change": "down",
+      "change_value": -2
+    },
+    {
+      "rank": 8,
+      "keyword": "U23国足将同日本队争冠 ↓",
+      "change": "down",
+      "change_value": -1
+    },
+    {
+      "rank": 9,
+      "keyword": "税务部门处罚拼多多 ↑",
+      "change": "up",
+      "change_value": 0
+    },
+    {
+      "rank": 10,
+      "keyword": "韩国前总理韩德洙一审被判23年 →",
+      "change": "flat",
+      "change_value": 0
+    }
+  ],
+  "conclusion": [
+    "平台内容分化明显：微博热点集中于社会事件、娱乐综艺及生活话题，抖音则更偏向科技进展、国际新闻与全民互动挑战。",
+    "重大事件驱动性强：拼多多受罚、地磁暴、6G试验等硬新闻在双平台均占据高位，显示公众对重大社会、科技及自然事件的普遍关注。",
+    "娱乐与生活话题波动剧烈：如‘告白’、‘全球债市’等话题排名急速跃升，而‘国足’、‘现货黄金’等前期热点则大幅下滑，反映用户兴趣转移迅速，话题生命周期缩短。"
+  ]
+}
